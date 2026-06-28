@@ -91,6 +91,46 @@ def get_logs():
     logs = DailyLog.query.order_by(DailyLog.date.desc()).all()
     return jsonify([log.to_dict() for log in logs]), 200
 
+@app.route('/logs/<int:log_id>', methods=['PUT'])
+def update_log(log_id):
+    log = DailyLog.query.get(log_id)
+    if not log:
+        return jsonify({"error": "Log not found"}), 404
+    data = request.get_json()
+    try:
+        if 'date' in data:
+            log.date = datetime.strptime(data['date'], '%Y-%m-%d').date()
+        if 'menu_item' in data:
+            log.menu_item = data['menu_item']
+            log.food_category = auto_categorize_food(data['menu_item'])
+        if 'meal_time' in data:
+            log.meal_time = data['meal_time']
+        if 'amount_cooked_kg' in data:
+            log.amount_cooked_kg = float(data['amount_cooked_kg'])
+        if 'amount_consumed_kg' in data:
+            log.amount_consumed_kg = float(data['amount_consumed_kg'])
+        
+        log.food_waste_kg = round(log.amount_cooked_kg - log.amount_consumed_kg, 2)
+        
+        db.session.commit()
+        return jsonify({"message": "Log updated successfully!"}), 200
+    except Exception as e:
+        db.session.rollback()
+        return jsonify({"error": str(e)}), 400
+
+@app.route('/logs/<int:log_id>', methods=['DELETE'])
+def delete_log(log_id):
+    log = DailyLog.query.get(log_id)
+    if not log:
+        return jsonify({"error": "Log not found"}), 404
+    try:
+        db.session.delete(log)
+        db.session.commit()
+        return jsonify({"message": "Log deleted successfully!"}), 200
+    except Exception as e:
+        db.session.rollback()
+        return jsonify({"error": str(e)}), 400
+
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()

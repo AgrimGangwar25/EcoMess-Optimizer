@@ -1,0 +1,2002 @@
+date,day_of_week,weather,menu_item,food_category,meal_time,amount_cooked_kg,amount_consumed_kg,food_waste_kg
+2023-10-02,Monday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,59.52,50.31,9.21
+2023-10-02,Monday,Light Rain,Plain Roti,Bread/Roti,Lunch,58.15,51.68,6.48
+2023-10-03,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,49.06,35.29,13.78
+2023-10-03,Tuesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,45.39,33.58,11.81
+2023-10-03,Tuesday,Heavy Rain,Jeera Rice,Rice,Dinner,40.32,32.23,8.09
+2023-10-04,Wednesday,Cloudy,Mix Veg,Dry Veg,Dinner,42.41,33.41,9.0
+2023-10-05,Thursday,Clear,Aloo Gobhi,Dry Veg,Breakfast,44.85,39.47,5.38
+2023-10-05,Thursday,Clear,Plain Roti,Bread/Roti,Breakfast,44.82,35.64,9.18
+2023-10-06,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,59.53,38.21,21.32
+2023-10-06,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,53.09,40.0,13.09
+2023-10-06,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,44.72,36.09,8.62
+2023-10-07,Saturday,Clear,Palak Paneer,Curry/Dal,Lunch,51.35,40.03,11.32
+2023-10-08,Sunday,Cloudy,Plain Roti,Bread/Roti,Lunch,47.99,36.31,11.68
+2023-10-08,Sunday,Cloudy,Poha,Other,Dinner,48.22,34.38,13.84
+2023-10-08,Sunday,Cloudy,Dal Makhani,Curry/Dal,Lunch,45.89,32.37,13.52
+2023-10-09,Monday,Cloudy,Poha,Other,Dinner,52.23,43.75,8.47
+2023-10-10,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Lunch,54.81,43.94,10.87
+2023-10-11,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,50.68,33.91,16.77
+2023-10-11,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,45.18,32.04,13.14
+2023-10-11,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Lunch,48.85,32.43,16.41
+2023-10-12,Thursday,Cloudy,Poha,Other,Breakfast,44.51,36.69,7.82
+2023-10-13,Friday,Light Rain,Palak Paneer,Curry/Dal,Dinner,51.84,37.05,14.78
+2023-10-13,Friday,Light Rain,Mix Veg,Dry Veg,Breakfast,57.17,46.88,10.29
+2023-10-14,Saturday,Clear,Aloo Gobhi,Dry Veg,Dinner,55.25,32.04,23.21
+2023-10-15,Sunday,Light Rain,Palak Paneer,Curry/Dal,Dinner,59.82,45.51,14.31
+2023-10-15,Sunday,Light Rain,Poha,Other,Breakfast,44.95,33.01,11.94
+2023-10-15,Sunday,Light Rain,Gulab Jamun,Dessert,Lunch,53.92,37.75,16.16
+2023-10-16,Monday,Heavy Rain,Jeera Rice,Rice,Lunch,58.86,38.04,20.82
+2023-10-17,Tuesday,Clear,Plain Roti,Bread/Roti,Dinner,55.68,46.51,9.18
+2023-10-18,Wednesday,Clear,Dal Makhani,Curry/Dal,Dinner,50.75,43.13,7.62
+2023-10-18,Wednesday,Clear,Mix Veg,Dry Veg,Breakfast,41.94,31.44,10.5
+2023-10-19,Thursday,Clear,Aloo Gobhi,Dry Veg,Lunch,43.66,38.59,5.06
+2023-10-19,Thursday,Clear,Jeera Rice,Rice,Lunch,51.7,47.49,4.21
+2023-10-19,Thursday,Clear,Gulab Jamun,Dessert,Lunch,54.74,48.63,6.11
+2023-10-20,Friday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,50.16,40.44,9.73
+2023-10-20,Friday,Heavy Rain,Mix Veg,Dry Veg,Lunch,52.26,26.23,26.04
+2023-10-20,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,41.6,25.32,16.28
+2023-10-21,Saturday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,52.7,29.29,23.41
+2023-10-22,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,44.82,25.63,19.2
+2023-10-22,Sunday,Light Rain,Poha,Other,Lunch,50.21,32.23,17.98
+2023-10-23,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,58.79,53.23,5.56
+2023-10-23,Monday,Cloudy,Poha,Other,Lunch,45.95,42.78,3.17
+2023-10-24,Tuesday,Clear,Poha,Other,Breakfast,45.58,33.79,11.79
+2023-10-24,Tuesday,Clear,Jeera Rice,Rice,Lunch,53.57,39.56,14.01
+2023-10-24,Tuesday,Clear,Palak Paneer,Curry/Dal,Breakfast,45.36,32.26,13.1
+2023-10-25,Wednesday,Cloudy,Gulab Jamun,Dessert,Lunch,59.69,46.51,13.18
+2023-10-25,Wednesday,Cloudy,Poha,Other,Dinner,47.96,34.64,13.32
+2023-10-25,Wednesday,Cloudy,Poha,Other,Dinner,47.12,43.86,3.27
+2023-10-26,Thursday,Clear,Palak Paneer,Curry/Dal,Breakfast,46.63,38.11,8.52
+2023-10-26,Thursday,Clear,Palak Paneer,Curry/Dal,Breakfast,48.71,36.53,12.18
+2023-10-26,Thursday,Clear,Aloo Gobhi,Dry Veg,Dinner,59.41,53.1,6.31
+2023-10-27,Friday,Clear,Palak Paneer,Curry/Dal,Lunch,45.67,35.21,10.46
+2023-10-27,Friday,Clear,Gulab Jamun,Dessert,Lunch,41.54,30.61,10.93
+2023-10-27,Friday,Clear,Plain Roti,Bread/Roti,Breakfast,56.8,46.38,10.42
+2023-10-28,Saturday,Heavy Rain,Jeera Rice,Rice,Lunch,53.01,28.61,24.41
+2023-10-28,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,49.94,23.52,26.42
+2023-10-29,Sunday,Cloudy,Palak Paneer,Curry/Dal,Dinner,41.6,30.44,11.16
+2023-10-29,Sunday,Cloudy,Dal Makhani,Curry/Dal,Dinner,53.78,38.33,15.45
+2023-10-30,Monday,Cloudy,Palak Paneer,Curry/Dal,Dinner,58.86,47.37,11.49
+2023-10-30,Monday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,53.24,45.08,8.16
+2023-10-31,Tuesday,Light Rain,Mix Veg,Dry Veg,Breakfast,42.46,35.69,6.77
+2023-10-31,Tuesday,Light Rain,Mix Veg,Dry Veg,Dinner,41.9,28.95,12.95
+2023-10-31,Tuesday,Light Rain,Jeera Rice,Rice,Dinner,55.17,48.62,6.55
+2023-11-01,Wednesday,Clear,Dal Makhani,Curry/Dal,Dinner,40.85,36.16,4.69
+2023-11-01,Wednesday,Clear,Mix Veg,Dry Veg,Dinner,44.17,29.39,14.78
+2023-11-01,Wednesday,Clear,Mix Veg,Dry Veg,Breakfast,48.64,35.58,13.06
+2023-11-02,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,42.29,34.88,7.41
+2023-11-02,Thursday,Heavy Rain,Jeera Rice,Rice,Lunch,52.27,33.63,18.64
+2023-11-03,Friday,Clear,Jeera Rice,Rice,Breakfast,51.31,47.55,3.76
+2023-11-03,Friday,Clear,Aloo Gobhi,Dry Veg,Lunch,43.85,40.99,2.86
+2023-11-03,Friday,Clear,Jeera Rice,Rice,Dinner,53.37,45.82,7.55
+2023-11-04,Saturday,Cloudy,Dal Makhani,Curry/Dal,Dinner,58.64,45.19,13.46
+2023-11-05,Sunday,Clear,Plain Roti,Bread/Roti,Lunch,54.69,32.88,21.81
+2023-11-05,Sunday,Clear,Jeera Rice,Rice,Dinner,49.91,38.31,11.6
+2023-11-06,Monday,Cloudy,Plain Roti,Bread/Roti,Lunch,44.07,40.64,3.43
+2023-11-06,Monday,Cloudy,Dal Makhani,Curry/Dal,Lunch,57.15,49.96,7.19
+2023-11-06,Monday,Cloudy,Jeera Rice,Rice,Breakfast,51.69,36.85,14.84
+2023-11-07,Tuesday,Clear,Mix Veg,Dry Veg,Breakfast,42.66,36.06,6.59
+2023-11-08,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,49.85,35.67,14.18
+2023-11-09,Thursday,Cloudy,Jeera Rice,Rice,Lunch,51.75,43.9,7.85
+2023-11-09,Thursday,Cloudy,Poha,Other,Lunch,59.16,53.58,5.58
+2023-11-09,Thursday,Cloudy,Plain Roti,Bread/Roti,Dinner,53.13,49.81,3.32
+2023-11-10,Friday,Cloudy,Dal Makhani,Curry/Dal,Dinner,58.65,54.06,4.59
+2023-11-10,Friday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,52.39,48.41,3.98
+2023-11-11,Saturday,Cloudy,Poha,Other,Lunch,54.8,42.21,12.59
+2023-11-11,Saturday,Cloudy,Poha,Other,Lunch,43.28,29.98,13.29
+2023-11-12,Sunday,Light Rain,Dal Makhani,Curry/Dal,Dinner,41.09,28.1,12.99
+2023-11-12,Sunday,Light Rain,Dal Makhani,Curry/Dal,Lunch,56.22,37.61,18.6
+2023-11-13,Monday,Cloudy,Jeera Rice,Rice,Dinner,40.73,31.83,8.9
+2023-11-13,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,58.61,52.51,6.11
+2023-11-14,Tuesday,Cloudy,Gulab Jamun,Dessert,Dinner,44.29,36.22,8.06
+2023-11-15,Wednesday,Clear,Palak Paneer,Curry/Dal,Breakfast,40.69,33.04,7.65
+2023-11-15,Wednesday,Clear,Aloo Gobhi,Dry Veg,Dinner,44.16,38.17,5.99
+2023-11-16,Thursday,Heavy Rain,Gulab Jamun,Dessert,Dinner,45.93,28.27,17.66
+2023-11-16,Thursday,Heavy Rain,Jeera Rice,Rice,Lunch,43.14,27.89,15.25
+2023-11-17,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,54.85,33.71,21.14
+2023-11-17,Friday,Heavy Rain,Gulab Jamun,Dessert,Lunch,58.41,46.39,12.02
+2023-11-17,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,52.5,35.26,17.25
+2023-11-18,Saturday,Cloudy,Mix Veg,Dry Veg,Breakfast,41.31,23.63,17.68
+2023-11-18,Saturday,Cloudy,Plain Roti,Bread/Roti,Dinner,49.01,36.84,12.17
+2023-11-19,Sunday,Cloudy,Plain Roti,Bread/Roti,Dinner,56.76,36.64,20.12
+2023-11-20,Monday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,57.54,51.54,6.0
+2023-11-20,Monday,Cloudy,Poha,Other,Lunch,49.01,46.0,3.01
+2023-11-21,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Lunch,48.2,37.67,10.53
+2023-11-21,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,55.31,33.22,22.09
+2023-11-21,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Dinner,57.46,43.03,14.43
+2023-11-22,Wednesday,Clear,Mix Veg,Dry Veg,Breakfast,48.65,34.42,14.23
+2023-11-22,Wednesday,Clear,Dal Makhani,Curry/Dal,Dinner,44.58,39.57,5.01
+2023-11-22,Wednesday,Clear,Gulab Jamun,Dessert,Breakfast,40.75,37.32,3.44
+2023-11-23,Thursday,Light Rain,Mix Veg,Dry Veg,Dinner,51.64,34.77,16.87
+2023-11-23,Thursday,Light Rain,Palak Paneer,Curry/Dal,Dinner,58.42,46.18,12.24
+2023-11-24,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,58.62,41.19,17.43
+2023-11-24,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,51.78,32.2,19.58
+2023-11-24,Friday,Heavy Rain,Jeera Rice,Rice,Breakfast,50.28,33.51,16.77
+2023-11-25,Saturday,Light Rain,Jeera Rice,Rice,Lunch,44.3,31.04,13.26
+2023-11-25,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,42.16,23.65,18.51
+2023-11-26,Sunday,Clear,Aloo Gobhi,Dry Veg,Dinner,42.75,31.4,11.35
+2023-11-26,Sunday,Clear,Jeera Rice,Rice,Dinner,41.37,30.82,10.55
+2023-11-27,Monday,Cloudy,Plain Roti,Bread/Roti,Breakfast,50.99,42.0,9.0
+2023-11-28,Tuesday,Light Rain,Gulab Jamun,Dessert,Lunch,59.05,55.08,3.96
+2023-11-29,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,55.91,35.38,20.53
+2023-11-29,Wednesday,Heavy Rain,Jeera Rice,Rice,Breakfast,45.18,30.97,14.2
+2023-11-29,Wednesday,Heavy Rain,Poha,Other,Lunch,58.38,45.25,13.13
+2023-11-30,Thursday,Cloudy,Jeera Rice,Rice,Breakfast,55.16,52.21,2.95
+2023-11-30,Thursday,Cloudy,Gulab Jamun,Dessert,Lunch,59.36,46.93,12.43
+2023-12-01,Friday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,51.53,34.62,16.9
+2023-12-01,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,46.36,32.6,13.76
+2023-12-01,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,50.1,39.0,11.1
+2023-12-02,Saturday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,58.55,36.42,22.13
+2023-12-02,Saturday,Light Rain,Gulab Jamun,Dessert,Dinner,40.78,28.61,12.18
+2023-12-02,Saturday,Light Rain,Palak Paneer,Curry/Dal,Dinner,41.84,25.85,15.99
+2023-12-03,Sunday,Light Rain,Plain Roti,Bread/Roti,Lunch,46.51,26.97,19.55
+2023-12-04,Monday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,52.56,41.88,10.67
+2023-12-05,Tuesday,Heavy Rain,Poha,Other,Dinner,44.74,28.88,15.85
+2023-12-06,Wednesday,Heavy Rain,Poha,Other,Breakfast,47.82,31.9,15.92
+2023-12-07,Thursday,Light Rain,Palak Paneer,Curry/Dal,Dinner,49.84,35.97,13.86
+2023-12-08,Friday,Heavy Rain,Mix Veg,Dry Veg,Dinner,43.17,24.49,18.68
+2023-12-09,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,59.47,36.22,23.26
+2023-12-10,Sunday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,44.92,29.02,15.9
+2023-12-10,Sunday,Heavy Rain,Jeera Rice,Rice,Breakfast,44.88,26.76,18.12
+2023-12-10,Sunday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,52.19,36.16,16.03
+2023-12-11,Monday,Clear,Gulab Jamun,Dessert,Breakfast,51.18,47.79,3.4
+2023-12-11,Monday,Clear,Plain Roti,Bread/Roti,Dinner,40.78,28.88,11.9
+2023-12-12,Tuesday,Clear,Jeera Rice,Rice,Breakfast,55.95,40.45,15.5
+2023-12-13,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,48.61,39.25,9.35
+2023-12-13,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,44.92,28.57,16.35
+2023-12-13,Wednesday,Heavy Rain,Poha,Other,Dinner,43.79,27.8,16.0
+2023-12-14,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,56.25,40.49,15.77
+2023-12-14,Thursday,Clear,Plain Roti,Bread/Roti,Breakfast,46.34,36.57,9.78
+2023-12-15,Friday,Clear,Palak Paneer,Curry/Dal,Lunch,50.81,41.29,9.51
+2023-12-15,Friday,Clear,Poha,Other,Lunch,49.76,39.97,9.79
+2023-12-16,Saturday,Light Rain,Dal Makhani,Curry/Dal,Dinner,44.4,33.33,11.07
+2023-12-16,Saturday,Light Rain,Plain Roti,Bread/Roti,Lunch,45.66,35.86,9.8
+2023-12-16,Saturday,Light Rain,Dal Makhani,Curry/Dal,Dinner,52.77,37.88,14.9
+2023-12-17,Sunday,Clear,Poha,Other,Lunch,56.3,31.96,24.34
+2023-12-17,Sunday,Clear,Mix Veg,Dry Veg,Dinner,48.25,31.14,17.11
+2023-12-18,Monday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,58.46,54.35,4.11
+2023-12-19,Tuesday,Clear,Aloo Gobhi,Dry Veg,Dinner,43.39,30.72,12.67
+2023-12-19,Tuesday,Clear,Dal Makhani,Curry/Dal,Dinner,54.6,49.01,5.59
+2023-12-20,Wednesday,Clear,Aloo Gobhi,Dry Veg,Dinner,50.7,42.44,8.27
+2023-12-20,Wednesday,Clear,Plain Roti,Bread/Roti,Breakfast,57.32,41.24,16.08
+2023-12-21,Thursday,Cloudy,Palak Paneer,Curry/Dal,Dinner,46.18,42.83,3.35
+2023-12-21,Thursday,Cloudy,Gulab Jamun,Dessert,Breakfast,40.44,30.24,10.21
+2023-12-22,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,57.44,48.61,8.82
+2023-12-22,Friday,Heavy Rain,Poha,Other,Lunch,49.11,40.61,8.5
+2023-12-23,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,57.9,42.94,14.96
+2023-12-24,Sunday,Light Rain,Palak Paneer,Curry/Dal,Lunch,46.08,29.86,16.22
+2023-12-25,Monday,Cloudy,Dal Makhani,Curry/Dal,Dinner,45.84,38.49,7.35
+2023-12-25,Monday,Cloudy,Poha,Other,Breakfast,41.6,33.66,7.93
+2023-12-25,Monday,Cloudy,Jeera Rice,Rice,Dinner,57.67,48.46,9.22
+2023-12-26,Tuesday,Cloudy,Mix Veg,Dry Veg,Lunch,55.83,38.62,17.22
+2023-12-27,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,49.02,41.57,7.45
+2023-12-28,Thursday,Clear,Palak Paneer,Curry/Dal,Breakfast,43.72,30.76,12.96
+2023-12-29,Friday,Light Rain,Mix Veg,Dry Veg,Lunch,49.16,38.42,10.74
+2023-12-30,Saturday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,54.2,29.2,25.0
+2023-12-30,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,55.76,33.58,22.18
+2023-12-30,Saturday,Heavy Rain,Mix Veg,Dry Veg,Lunch,41.64,17.5,24.14
+2023-12-31,Sunday,Heavy Rain,Jeera Rice,Rice,Dinner,40.22,22.57,17.65
+2023-12-31,Sunday,Heavy Rain,Gulab Jamun,Dessert,Dinner,54.42,32.06,22.35
+2023-12-31,Sunday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,58.14,27.29,30.85
+2024-01-01,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,51.11,38.64,12.48
+2024-01-01,Monday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,50.85,33.36,17.49
+2024-01-02,Tuesday,Clear,Gulab Jamun,Dessert,Lunch,59.27,54.28,4.99
+2024-01-02,Tuesday,Clear,Plain Roti,Bread/Roti,Dinner,53.6,37.88,15.72
+2024-01-02,Tuesday,Clear,Aloo Gobhi,Dry Veg,Lunch,46.92,33.34,13.59
+2024-01-03,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,45.2,27.3,17.9
+2024-01-04,Thursday,Light Rain,Gulab Jamun,Dessert,Breakfast,43.94,40.09,3.85
+2024-01-04,Thursday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,57.58,47.06,10.52
+2024-01-05,Friday,Light Rain,Jeera Rice,Rice,Dinner,54.1,51.38,2.71
+2024-01-05,Friday,Light Rain,Plain Roti,Bread/Roti,Breakfast,40.55,35.3,5.25
+2024-01-05,Friday,Light Rain,Gulab Jamun,Dessert,Dinner,56.02,39.61,16.42
+2024-01-06,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,47.87,22.18,25.69
+2024-01-07,Sunday,Cloudy,Gulab Jamun,Dessert,Dinner,41.51,31.96,9.55
+2024-01-07,Sunday,Cloudy,Poha,Other,Lunch,49.58,28.59,20.99
+2024-01-07,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,44.22,30.38,13.84
+2024-01-08,Monday,Light Rain,Gulab Jamun,Dessert,Breakfast,46.28,40.3,5.98
+2024-01-08,Monday,Light Rain,Gulab Jamun,Dessert,Lunch,43.86,39.26,4.6
+2024-01-09,Tuesday,Light Rain,Plain Roti,Bread/Roti,Dinner,45.31,32.58,12.72
+2024-01-09,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,54.15,40.85,13.3
+2024-01-10,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,59.32,37.56,21.76
+2024-01-10,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,59.54,38.1,21.43
+2024-01-10,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Lunch,42.01,30.9,11.12
+2024-01-11,Thursday,Clear,Mix Veg,Dry Veg,Breakfast,53.91,44.18,9.73
+2024-01-12,Friday,Cloudy,Plain Roti,Bread/Roti,Breakfast,40.92,31.11,9.81
+2024-01-13,Saturday,Light Rain,Mix Veg,Dry Veg,Lunch,52.32,25.26,27.06
+2024-01-13,Saturday,Light Rain,Mix Veg,Dry Veg,Breakfast,55.33,28.3,27.04
+2024-01-13,Saturday,Light Rain,Gulab Jamun,Dessert,Dinner,47.3,35.47,11.83
+2024-01-14,Sunday,Heavy Rain,Jeera Rice,Rice,Lunch,54.57,35.72,18.85
+2024-01-14,Sunday,Heavy Rain,Jeera Rice,Rice,Lunch,46.17,24.53,21.64
+2024-01-14,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,43.22,28.26,14.95
+2024-01-15,Monday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,44.02,40.44,3.58
+2024-01-15,Monday,Light Rain,Dal Makhani,Curry/Dal,Dinner,43.68,32.01,11.66
+2024-01-16,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Dinner,48.47,35.75,12.71
+2024-01-16,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,49.2,40.55,8.65
+2024-01-17,Wednesday,Clear,Gulab Jamun,Dessert,Dinner,44.46,38.21,6.24
+2024-01-18,Thursday,Clear,Aloo Gobhi,Dry Veg,Dinner,56.52,50.96,5.56
+2024-01-18,Thursday,Clear,Jeera Rice,Rice,Lunch,54.96,52.18,2.79
+2024-01-19,Friday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,57.72,50.87,6.85
+2024-01-19,Friday,Cloudy,Palak Paneer,Curry/Dal,Dinner,51.74,37.75,13.99
+2024-01-19,Friday,Cloudy,Dal Makhani,Curry/Dal,Lunch,46.42,37.49,8.94
+2024-01-20,Saturday,Clear,Gulab Jamun,Dessert,Dinner,56.95,32.04,24.9
+2024-01-20,Saturday,Clear,Aloo Gobhi,Dry Veg,Breakfast,53.57,31.12,22.45
+2024-01-20,Saturday,Clear,Palak Paneer,Curry/Dal,Breakfast,52.65,37.51,15.14
+2024-01-21,Sunday,Light Rain,Dal Makhani,Curry/Dal,Dinner,45.86,35.64,10.21
+2024-01-21,Sunday,Light Rain,Jeera Rice,Rice,Breakfast,48.11,34.09,14.02
+2024-01-22,Monday,Light Rain,Mix Veg,Dry Veg,Dinner,49.3,34.11,15.19
+2024-01-22,Monday,Light Rain,Palak Paneer,Curry/Dal,Dinner,52.71,41.15,11.57
+2024-01-23,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,55.33,46.11,9.22
+2024-01-24,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,59.25,49.81,9.44
+2024-01-24,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,51.71,27.29,24.42
+2024-01-25,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,58.61,38.97,19.64
+2024-01-25,Thursday,Heavy Rain,Poha,Other,Lunch,48.66,41.27,7.39
+2024-01-25,Thursday,Heavy Rain,Jeera Rice,Rice,Breakfast,44.22,32.04,12.18
+2024-01-26,Friday,Clear,Poha,Other,Breakfast,56.96,43.52,13.43
+2024-01-27,Saturday,Clear,Aloo Gobhi,Dry Veg,Dinner,50.3,35.31,15.0
+2024-01-27,Saturday,Clear,Mix Veg,Dry Veg,Dinner,45.27,22.9,22.36
+2024-01-27,Saturday,Clear,Dal Makhani,Curry/Dal,Breakfast,42.94,25.18,17.76
+2024-01-28,Sunday,Light Rain,Mix Veg,Dry Veg,Breakfast,43.89,26.19,17.7
+2024-01-29,Monday,Cloudy,Gulab Jamun,Dessert,Lunch,49.22,35.55,13.67
+2024-01-29,Monday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,56.39,41.6,14.79
+2024-01-30,Tuesday,Clear,Plain Roti,Bread/Roti,Lunch,42.28,34.55,7.73
+2024-01-31,Wednesday,Cloudy,Palak Paneer,Curry/Dal,Dinner,53.08,47.75,5.34
+2024-01-31,Wednesday,Cloudy,Jeera Rice,Rice,Dinner,54.36,49.41,4.96
+2024-01-31,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,58.87,48.69,10.18
+2024-02-01,Thursday,Clear,Poha,Other,Dinner,45.14,38.03,7.12
+2024-02-01,Thursday,Clear,Aloo Gobhi,Dry Veg,Lunch,40.39,30.84,9.55
+2024-02-01,Thursday,Clear,Mix Veg,Dry Veg,Dinner,43.66,32.61,11.05
+2024-02-02,Friday,Cloudy,Jeera Rice,Rice,Dinner,53.03,39.63,13.4
+2024-02-02,Friday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,50.11,41.26,8.85
+2024-02-03,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,40.29,21.76,18.54
+2024-02-03,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,40.79,24.88,15.91
+2024-02-04,Sunday,Light Rain,Gulab Jamun,Dessert,Breakfast,54.47,32.22,22.25
+2024-02-04,Sunday,Light Rain,Poha,Other,Lunch,41.68,28.35,13.33
+2024-02-05,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,51.2,41.25,9.94
+2024-02-06,Tuesday,Clear,Gulab Jamun,Dessert,Breakfast,52.37,37.56,14.81
+2024-02-07,Wednesday,Clear,Plain Roti,Bread/Roti,Breakfast,41.79,38.45,3.34
+2024-02-07,Wednesday,Clear,Palak Paneer,Curry/Dal,Lunch,59.46,53.43,6.03
+2024-02-08,Thursday,Cloudy,Dal Makhani,Curry/Dal,Dinner,44.84,34.39,10.45
+2024-02-08,Thursday,Cloudy,Jeera Rice,Rice,Dinner,51.42,46.54,4.88
+2024-02-09,Friday,Clear,Jeera Rice,Rice,Lunch,49.04,45.16,3.88
+2024-02-09,Friday,Clear,Mix Veg,Dry Veg,Lunch,55.61,46.58,9.04
+2024-02-09,Friday,Clear,Mix Veg,Dry Veg,Lunch,40.88,32.57,8.31
+2024-02-10,Saturday,Clear,Plain Roti,Bread/Roti,Dinner,50.79,34.76,16.02
+2024-02-10,Saturday,Clear,Poha,Other,Lunch,56.07,40.62,15.45
+2024-02-11,Sunday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,40.58,27.91,12.67
+2024-02-12,Monday,Heavy Rain,Jeera Rice,Rice,Breakfast,42.98,34.7,8.28
+2024-02-13,Tuesday,Light Rain,Mix Veg,Dry Veg,Breakfast,51.72,37.66,14.06
+2024-02-13,Tuesday,Light Rain,Poha,Other,Lunch,46.03,32.7,13.33
+2024-02-14,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,48.3,39.05,9.25
+2024-02-14,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,46.31,28.48,17.83
+2024-02-15,Thursday,Clear,Jeera Rice,Rice,Breakfast,42.47,31.17,11.3
+2024-02-16,Friday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,49.96,36.4,13.56
+2024-02-17,Saturday,Heavy Rain,Gulab Jamun,Dessert,Lunch,51.57,35.29,16.28
+2024-02-17,Saturday,Heavy Rain,Gulab Jamun,Dessert,Lunch,45.68,21.92,23.76
+2024-02-18,Sunday,Cloudy,Gulab Jamun,Dessert,Dinner,51.83,41.27,10.56
+2024-02-18,Sunday,Cloudy,Mix Veg,Dry Veg,Breakfast,43.06,22.78,20.27
+2024-02-19,Monday,Cloudy,Jeera Rice,Rice,Lunch,53.05,43.21,9.84
+2024-02-19,Monday,Cloudy,Poha,Other,Dinner,51.41,42.93,8.48
+2024-02-19,Monday,Cloudy,Plain Roti,Bread/Roti,Dinner,56.41,48.41,7.99
+2024-02-20,Tuesday,Clear,Gulab Jamun,Dessert,Lunch,59.43,48.84,10.59
+2024-02-20,Tuesday,Clear,Gulab Jamun,Dessert,Dinner,42.44,34.28,8.15
+2024-02-20,Tuesday,Clear,Mix Veg,Dry Veg,Lunch,52.21,33.42,18.79
+2024-02-21,Wednesday,Heavy Rain,Jeera Rice,Rice,Dinner,54.4,38.05,16.35
+2024-02-21,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,56.19,33.95,22.23
+2024-02-22,Thursday,Cloudy,Mix Veg,Dry Veg,Breakfast,55.08,39.28,15.81
+2024-02-22,Thursday,Cloudy,Plain Roti,Bread/Roti,Dinner,54.99,49.29,5.71
+2024-02-22,Thursday,Cloudy,Dal Makhani,Curry/Dal,Dinner,43.83,36.6,7.23
+2024-02-23,Friday,Cloudy,Poha,Other,Dinner,52.07,45.51,6.56
+2024-02-23,Friday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,53.13,39.63,13.5
+2024-02-24,Saturday,Clear,Poha,Other,Dinner,40.03,25.72,14.31
+2024-02-24,Saturday,Clear,Jeera Rice,Rice,Breakfast,58.41,45.57,12.84
+2024-02-25,Sunday,Light Rain,Gulab Jamun,Dessert,Dinner,46.75,28.0,18.76
+2024-02-26,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,58.69,35.54,23.15
+2024-02-27,Tuesday,Cloudy,Poha,Other,Dinner,53.55,46.26,7.29
+2024-02-27,Tuesday,Cloudy,Gulab Jamun,Dessert,Dinner,49.66,35.19,14.47
+2024-02-27,Tuesday,Cloudy,Poha,Other,Breakfast,51.73,47.31,4.42
+2024-02-28,Wednesday,Light Rain,Mix Veg,Dry Veg,Breakfast,55.77,42.03,13.74
+2024-02-29,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,40.99,30.11,10.88
+2024-02-29,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,47.82,45.13,2.69
+2024-03-01,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,53.68,40.1,13.58
+2024-03-01,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,50.88,37.51,13.37
+2024-03-01,Friday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,54.28,45.32,8.96
+2024-03-02,Saturday,Cloudy,Poha,Other,Dinner,51.54,32.4,19.13
+2024-03-03,Sunday,Cloudy,Gulab Jamun,Dessert,Lunch,52.67,33.51,19.16
+2024-03-03,Sunday,Cloudy,Poha,Other,Dinner,49.1,29.55,19.56
+2024-03-03,Sunday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,55.43,44.04,11.39
+2024-03-04,Monday,Clear,Gulab Jamun,Dessert,Breakfast,44.81,40.45,4.35
+2024-03-05,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,48.74,29.78,18.95
+2024-03-05,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Lunch,40.84,20.85,19.99
+2024-03-05,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,55.63,40.62,15.01
+2024-03-06,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,52.44,40.21,12.23
+2024-03-06,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,57.53,42.57,14.97
+2024-03-06,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,42.39,29.63,12.76
+2024-03-07,Thursday,Clear,Poha,Other,Lunch,58.74,54.15,4.59
+2024-03-08,Friday,Cloudy,Poha,Other,Lunch,44.65,33.21,11.44
+2024-03-09,Saturday,Cloudy,Jeera Rice,Rice,Dinner,56.94,41.45,15.49
+2024-03-09,Saturday,Cloudy,Dal Makhani,Curry/Dal,Lunch,42.37,33.63,8.73
+2024-03-09,Saturday,Cloudy,Poha,Other,Dinner,59.91,41.66,18.25
+2024-03-10,Sunday,Light Rain,Mix Veg,Dry Veg,Dinner,47.12,21.22,25.9
+2024-03-10,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,47.36,29.49,17.87
+2024-03-11,Monday,Cloudy,Palak Paneer,Curry/Dal,Lunch,52.03,42.63,9.4
+2024-03-11,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,49.06,38.57,10.49
+2024-03-12,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,56.59,47.44,9.15
+2024-03-12,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,45.49,25.19,20.3
+2024-03-12,Tuesday,Heavy Rain,Poha,Other,Breakfast,51.33,32.95,18.38
+2024-03-13,Wednesday,Clear,Gulab Jamun,Dessert,Dinner,52.64,42.89,9.75
+2024-03-13,Wednesday,Clear,Dal Makhani,Curry/Dal,Breakfast,43.22,36.07,7.15
+2024-03-14,Thursday,Cloudy,Palak Paneer,Curry/Dal,Lunch,41.48,36.4,5.08
+2024-03-15,Friday,Light Rain,Poha,Other,Dinner,41.6,32.5,9.1
+2024-03-15,Friday,Light Rain,Gulab Jamun,Dessert,Lunch,56.09,51.08,5.01
+2024-03-15,Friday,Light Rain,Mix Veg,Dry Veg,Lunch,54.66,39.68,14.98
+2024-03-16,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,50.2,29.23,20.97
+2024-03-17,Sunday,Light Rain,Poha,Other,Breakfast,53.66,42.3,11.36
+2024-03-18,Monday,Heavy Rain,Gulab Jamun,Dessert,Lunch,56.09,36.55,19.53
+2024-03-18,Monday,Heavy Rain,Jeera Rice,Rice,Lunch,54.62,42.12,12.51
+2024-03-18,Monday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,49.4,39.83,9.57
+2024-03-19,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,51.03,46.85,4.18
+2024-03-19,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,54.93,38.5,16.43
+2024-03-19,Tuesday,Light Rain,Plain Roti,Bread/Roti,Lunch,45.46,38.32,7.13
+2024-03-20,Wednesday,Cloudy,Gulab Jamun,Dessert,Lunch,56.55,48.24,8.32
+2024-03-20,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Dinner,49.77,43.03,6.73
+2024-03-21,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,43.62,36.27,7.35
+2024-03-21,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,58.45,41.28,17.17
+2024-03-22,Friday,Heavy Rain,Gulab Jamun,Dessert,Dinner,48.36,33.24,15.11
+2024-03-23,Saturday,Cloudy,Plain Roti,Bread/Roti,Breakfast,58.17,40.28,17.89
+2024-03-24,Sunday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,48.28,27.29,20.99
+2024-03-24,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,48.91,32.4,16.51
+2024-03-24,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,42.96,23.11,19.85
+2024-03-25,Monday,Heavy Rain,Poha,Other,Dinner,41.29,27.91,13.38
+2024-03-25,Monday,Heavy Rain,Poha,Other,Breakfast,42.61,30.01,12.6
+2024-03-26,Tuesday,Clear,Jeera Rice,Rice,Dinner,53.97,40.11,13.87
+2024-03-26,Tuesday,Clear,Gulab Jamun,Dessert,Breakfast,45.19,34.55,10.64
+2024-03-27,Wednesday,Clear,Gulab Jamun,Dessert,Breakfast,55.01,44.27,10.74
+2024-03-27,Wednesday,Clear,Plain Roti,Bread/Roti,Dinner,43.89,39.22,4.67
+2024-03-28,Thursday,Light Rain,Gulab Jamun,Dessert,Breakfast,44.21,33.01,11.2
+2024-03-28,Thursday,Light Rain,Plain Roti,Bread/Roti,Breakfast,57.76,50.69,7.07
+2024-03-28,Thursday,Light Rain,Poha,Other,Breakfast,44.56,31.67,12.89
+2024-03-29,Friday,Clear,Mix Veg,Dry Veg,Lunch,46.85,29.62,17.23
+2024-03-29,Friday,Clear,Plain Roti,Bread/Roti,Breakfast,49.27,37.34,11.93
+2024-03-30,Saturday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,40.47,28.25,12.21
+2024-03-30,Saturday,Heavy Rain,Poha,Other,Lunch,49.78,29.93,19.84
+2024-03-30,Saturday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,43.47,21.89,21.58
+2024-03-31,Sunday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,51.17,29.79,21.38
+2024-03-31,Sunday,Heavy Rain,Jeera Rice,Rice,Breakfast,43.59,28.56,15.03
+2024-03-31,Sunday,Heavy Rain,Gulab Jamun,Dessert,Dinner,46.16,30.08,16.08
+2024-04-01,Monday,Light Rain,Gulab Jamun,Dessert,Lunch,54.04,41.02,13.02
+2024-04-01,Monday,Light Rain,Palak Paneer,Curry/Dal,Dinner,44.45,36.7,7.75
+2024-04-02,Tuesday,Light Rain,Poha,Other,Breakfast,43.47,34.37,9.1
+2024-04-02,Tuesday,Light Rain,Gulab Jamun,Dessert,Dinner,44.64,42.33,2.31
+2024-04-02,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,45.47,36.32,9.15
+2024-04-03,Wednesday,Clear,Gulab Jamun,Dessert,Breakfast,46.53,42.12,4.41
+2024-04-03,Wednesday,Clear,Dal Makhani,Curry/Dal,Breakfast,47.88,41.27,6.62
+2024-04-03,Wednesday,Clear,Mix Veg,Dry Veg,Dinner,43.28,27.12,16.16
+2024-04-04,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,53.46,39.63,13.83
+2024-04-04,Thursday,Heavy Rain,Poha,Other,Lunch,55.53,45.62,9.91
+2024-04-04,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,59.39,47.7,11.69
+2024-04-05,Friday,Clear,Poha,Other,Lunch,54.86,49.18,5.68
+2024-04-05,Friday,Clear,Plain Roti,Bread/Roti,Breakfast,53.38,49.29,4.08
+2024-04-05,Friday,Clear,Poha,Other,Lunch,53.1,40.26,12.84
+2024-04-06,Saturday,Cloudy,Poha,Other,Lunch,58.14,39.55,18.59
+2024-04-06,Saturday,Cloudy,Mix Veg,Dry Veg,Breakfast,50.67,30.53,20.14
+2024-04-06,Saturday,Cloudy,Plain Roti,Bread/Roti,Lunch,58.05,36.18,21.87
+2024-04-07,Sunday,Clear,Dal Makhani,Curry/Dal,Breakfast,59.15,34.83,24.32
+2024-04-07,Sunday,Clear,Plain Roti,Bread/Roti,Breakfast,46.72,30.61,16.11
+2024-04-07,Sunday,Clear,Palak Paneer,Curry/Dal,Lunch,46.7,28.3,18.4
+2024-04-08,Monday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,48.61,39.05,9.55
+2024-04-08,Monday,Cloudy,Poha,Other,Dinner,54.17,41.06,13.11
+2024-04-08,Monday,Cloudy,Plain Roti,Bread/Roti,Lunch,57.25,51.54,5.7
+2024-04-09,Tuesday,Light Rain,Plain Roti,Bread/Roti,Breakfast,53.83,37.95,15.88
+2024-04-09,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,40.85,36.23,4.62
+2024-04-09,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Dinner,57.67,47.6,10.07
+2024-04-10,Wednesday,Clear,Jeera Rice,Rice,Dinner,56.33,46.4,9.93
+2024-04-11,Thursday,Clear,Jeera Rice,Rice,Dinner,48.83,42.01,6.82
+2024-04-11,Thursday,Clear,Poha,Other,Dinner,44.65,40.89,3.75
+2024-04-11,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,41.91,37.48,4.43
+2024-04-12,Friday,Heavy Rain,Mix Veg,Dry Veg,Lunch,57.88,41.82,16.05
+2024-04-12,Friday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,43.69,35.68,8.01
+2024-04-12,Friday,Heavy Rain,Jeera Rice,Rice,Dinner,50.17,40.19,9.98
+2024-04-13,Saturday,Heavy Rain,Mix Veg,Dry Veg,Lunch,40.48,24.26,16.21
+2024-04-13,Saturday,Heavy Rain,Jeera Rice,Rice,Breakfast,46.5,21.38,25.12
+2024-04-14,Sunday,Light Rain,Jeera Rice,Rice,Dinner,51.54,36.66,14.87
+2024-04-14,Sunday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,41.98,26.81,15.17
+2024-04-14,Sunday,Light Rain,Poha,Other,Dinner,55.58,42.43,13.14
+2024-04-15,Monday,Clear,Palak Paneer,Curry/Dal,Breakfast,54.22,43.07,11.15
+2024-04-16,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,51.22,40.75,10.47
+2024-04-17,Wednesday,Clear,Mix Veg,Dry Veg,Dinner,45.84,35.16,10.68
+2024-04-17,Wednesday,Clear,Palak Paneer,Curry/Dal,Lunch,42.54,36.23,6.31
+2024-04-18,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,56.82,45.81,11.01
+2024-04-18,Thursday,Heavy Rain,Poha,Other,Breakfast,56.13,36.29,19.84
+2024-04-19,Friday,Clear,Gulab Jamun,Dessert,Breakfast,47.55,35.49,12.06
+2024-04-19,Friday,Clear,Palak Paneer,Curry/Dal,Breakfast,45.49,40.82,4.67
+2024-04-19,Friday,Clear,Mix Veg,Dry Veg,Breakfast,45.84,28.25,17.59
+2024-04-20,Saturday,Clear,Aloo Gobhi,Dry Veg,Dinner,40.93,31.41,9.52
+2024-04-20,Saturday,Clear,Poha,Other,Lunch,40.78,31.53,9.25
+2024-04-21,Sunday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,46.99,29.75,17.24
+2024-04-22,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,57.86,45.31,12.55
+2024-04-22,Monday,Heavy Rain,Poha,Other,Breakfast,53.61,40.66,12.95
+2024-04-22,Monday,Heavy Rain,Poha,Other,Breakfast,46.77,39.45,7.32
+2024-04-23,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,40.29,31.83,8.45
+2024-04-24,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,49.84,31.6,18.24
+2024-04-24,Wednesday,Heavy Rain,Jeera Rice,Rice,Lunch,53.3,33.01,20.29
+2024-04-25,Thursday,Light Rain,Poha,Other,Lunch,45.71,43.06,2.65
+2024-04-26,Friday,Clear,Aloo Gobhi,Dry Veg,Dinner,41.52,39.42,2.1
+2024-04-26,Friday,Clear,Poha,Other,Lunch,57.26,44.61,12.66
+2024-04-27,Saturday,Cloudy,Mix Veg,Dry Veg,Dinner,51.56,24.03,27.53
+2024-04-28,Sunday,Cloudy,Poha,Other,Breakfast,42.84,27.45,15.39
+2024-04-28,Sunday,Cloudy,Plain Roti,Bread/Roti,Lunch,40.97,24.02,16.95
+2024-04-29,Monday,Clear,Jeera Rice,Rice,Lunch,50.73,45.44,5.29
+2024-04-30,Tuesday,Heavy Rain,Jeera Rice,Rice,Dinner,47.03,39.41,7.62
+2024-05-01,Wednesday,Cloudy,Palak Paneer,Curry/Dal,Lunch,52.92,37.33,15.59
+2024-05-02,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,55.36,37.9,17.46
+2024-05-03,Friday,Clear,Dal Makhani,Curry/Dal,Lunch,44.1,40.24,3.86
+2024-05-04,Saturday,Clear,Poha,Other,Lunch,43.17,27.25,15.92
+2024-05-04,Saturday,Clear,Palak Paneer,Curry/Dal,Dinner,49.17,34.86,14.31
+2024-05-04,Saturday,Clear,Dal Makhani,Curry/Dal,Lunch,41.77,23.93,17.84
+2024-05-05,Sunday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,51.91,38.7,13.21
+2024-05-05,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,56.1,40.32,15.77
+2024-05-05,Sunday,Light Rain,Palak Paneer,Curry/Dal,Lunch,46.63,27.92,18.71
+2024-05-06,Monday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,48.3,30.37,17.93
+2024-05-07,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,54.08,45.26,8.82
+2024-05-07,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,57.34,48.59,8.75
+2024-05-08,Wednesday,Clear,Gulab Jamun,Dessert,Dinner,59.39,47.65,11.74
+2024-05-08,Wednesday,Clear,Poha,Other,Lunch,58.86,47.57,11.29
+2024-05-09,Thursday,Heavy Rain,Mix Veg,Dry Veg,Lunch,49.67,31.6,18.06
+2024-05-09,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,49.38,38.29,11.09
+2024-05-10,Friday,Clear,Plain Roti,Bread/Roti,Dinner,42.4,32.58,9.83
+2024-05-11,Saturday,Clear,Gulab Jamun,Dessert,Dinner,44.97,25.48,19.48
+2024-05-11,Saturday,Clear,Poha,Other,Lunch,42.91,25.99,16.92
+2024-05-12,Sunday,Cloudy,Mix Veg,Dry Veg,Lunch,50.3,22.63,27.66
+2024-05-13,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,55.03,46.42,8.61
+2024-05-14,Tuesday,Cloudy,Jeera Rice,Rice,Breakfast,43.04,38.64,4.39
+2024-05-14,Tuesday,Cloudy,Jeera Rice,Rice,Lunch,55.53,45.95,9.58
+2024-05-14,Tuesday,Cloudy,Plain Roti,Bread/Roti,Lunch,42.8,37.34,5.46
+2024-05-15,Wednesday,Light Rain,Jeera Rice,Rice,Dinner,54.91,44.13,10.77
+2024-05-15,Wednesday,Light Rain,Mix Veg,Dry Veg,Breakfast,48.56,29.57,18.99
+2024-05-15,Wednesday,Light Rain,Mix Veg,Dry Veg,Dinner,43.1,27.67,15.43
+2024-05-16,Thursday,Clear,Plain Roti,Bread/Roti,Breakfast,41.09,37.66,3.42
+2024-05-17,Friday,Cloudy,Gulab Jamun,Dessert,Lunch,44.87,40.02,4.86
+2024-05-17,Friday,Cloudy,Gulab Jamun,Dessert,Dinner,53.74,46.92,6.81
+2024-05-18,Saturday,Clear,Aloo Gobhi,Dry Veg,Lunch,52.36,33.14,19.23
+2024-05-18,Saturday,Clear,Palak Paneer,Curry/Dal,Lunch,47.26,29.72,17.54
+2024-05-19,Sunday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,44.86,31.72,13.13
+2024-05-20,Monday,Light Rain,Poha,Other,Lunch,49.21,34.52,14.7
+2024-05-20,Monday,Light Rain,Mix Veg,Dry Veg,Breakfast,46.24,30.19,16.05
+2024-05-20,Monday,Light Rain,Poha,Other,Dinner,54.42,47.61,6.81
+2024-05-21,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,48.85,28.34,20.51
+2024-05-22,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,54.92,48.26,6.66
+2024-05-22,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Dinner,59.0,54.6,4.4
+2024-05-22,Wednesday,Cloudy,Mix Veg,Dry Veg,Lunch,53.71,43.51,10.2
+2024-05-23,Thursday,Light Rain,Plain Roti,Bread/Roti,Dinner,55.24,41.32,13.91
+2024-05-23,Thursday,Light Rain,Poha,Other,Lunch,53.16,40.27,12.89
+2024-05-24,Friday,Cloudy,Jeera Rice,Rice,Lunch,41.08,38.67,2.41
+2024-05-25,Saturday,Clear,Gulab Jamun,Dessert,Breakfast,57.86,33.75,24.11
+2024-05-25,Saturday,Clear,Palak Paneer,Curry/Dal,Breakfast,59.02,37.46,21.56
+2024-05-25,Saturday,Clear,Mix Veg,Dry Veg,Dinner,56.43,38.24,18.19
+2024-05-26,Sunday,Cloudy,Plain Roti,Bread/Roti,Breakfast,59.64,37.9,21.75
+2024-05-26,Sunday,Cloudy,Gulab Jamun,Dessert,Lunch,49.09,37.68,11.41
+2024-05-27,Monday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,43.72,37.27,6.44
+2024-05-27,Monday,Cloudy,Plain Roti,Bread/Roti,Lunch,59.09,44.65,14.43
+2024-05-28,Tuesday,Heavy Rain,Gulab Jamun,Dessert,Lunch,46.76,35.99,10.77
+2024-05-28,Tuesday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,50.56,35.34,15.22
+2024-05-29,Wednesday,Light Rain,Poha,Other,Dinner,58.95,50.19,8.76
+2024-05-30,Thursday,Light Rain,Gulab Jamun,Dessert,Breakfast,45.97,42.3,3.67
+2024-05-31,Friday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,56.05,39.11,16.94
+2024-05-31,Friday,Heavy Rain,Jeera Rice,Rice,Lunch,46.16,28.39,17.77
+2024-05-31,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,52.65,31.69,20.95
+2024-06-01,Saturday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,45.97,22.35,23.62
+2024-06-02,Sunday,Clear,Dal Makhani,Curry/Dal,Lunch,40.71,31.26,9.45
+2024-06-03,Monday,Heavy Rain,Jeera Rice,Rice,Lunch,41.62,29.79,11.83
+2024-06-03,Monday,Heavy Rain,Mix Veg,Dry Veg,Lunch,43.39,26.64,16.75
+2024-06-04,Tuesday,Light Rain,Poha,Other,Dinner,58.61,46.08,12.53
+2024-06-04,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,49.21,32.42,16.79
+2024-06-05,Wednesday,Clear,Mix Veg,Dry Veg,Breakfast,49.94,32.64,17.3
+2024-06-05,Wednesday,Clear,Jeera Rice,Rice,Lunch,42.35,30.08,12.27
+2024-06-06,Thursday,Cloudy,Plain Roti,Bread/Roti,Dinner,50.23,38.03,12.21
+2024-06-06,Thursday,Cloudy,Gulab Jamun,Dessert,Dinner,41.74,32.37,9.37
+2024-06-07,Friday,Clear,Mix Veg,Dry Veg,Lunch,53.99,34.38,19.62
+2024-06-07,Friday,Clear,Poha,Other,Breakfast,49.43,37.52,11.91
+2024-06-08,Saturday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,45.38,33.3,12.07
+2024-06-09,Sunday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,56.06,31.75,24.31
+2024-06-09,Sunday,Cloudy,Palak Paneer,Curry/Dal,Dinner,59.79,44.04,15.75
+2024-06-09,Sunday,Cloudy,Jeera Rice,Rice,Dinner,49.77,28.54,21.23
+2024-06-10,Monday,Light Rain,Plain Roti,Bread/Roti,Breakfast,51.05,46.81,4.24
+2024-06-10,Monday,Light Rain,Plain Roti,Bread/Roti,Dinner,50.41,40.16,10.24
+2024-06-10,Monday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,56.51,41.92,14.59
+2024-06-11,Tuesday,Clear,Palak Paneer,Curry/Dal,Breakfast,42.44,38.83,3.62
+2024-06-12,Wednesday,Clear,Dal Makhani,Curry/Dal,Dinner,40.42,34.62,5.8
+2024-06-12,Wednesday,Clear,Jeera Rice,Rice,Breakfast,57.62,42.92,14.7
+2024-06-13,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,40.57,28.31,12.26
+2024-06-13,Thursday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,59.78,37.29,22.49
+2024-06-13,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,40.06,33.71,6.36
+2024-06-14,Friday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,54.47,30.51,23.96
+2024-06-14,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,49.87,31.26,18.61
+2024-06-14,Friday,Heavy Rain,Gulab Jamun,Dessert,Lunch,57.98,38.94,19.05
+2024-06-15,Saturday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,49.46,25.18,24.28
+2024-06-16,Sunday,Light Rain,Plain Roti,Bread/Roti,Dinner,56.99,42.81,14.18
+2024-06-17,Monday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,54.25,35.58,18.67
+2024-06-18,Tuesday,Cloudy,Jeera Rice,Rice,Lunch,52.99,45.56,7.43
+2024-06-19,Wednesday,Light Rain,Plain Roti,Bread/Roti,Breakfast,47.83,39.19,8.64
+2024-06-19,Wednesday,Light Rain,Gulab Jamun,Dessert,Lunch,55.04,38.72,16.32
+2024-06-19,Wednesday,Light Rain,Poha,Other,Dinner,55.3,41.04,14.27
+2024-06-20,Thursday,Heavy Rain,Mix Veg,Dry Veg,Dinner,57.03,39.58,17.46
+2024-06-21,Friday,Clear,Palak Paneer,Curry/Dal,Lunch,48.7,46.12,2.57
+2024-06-21,Friday,Clear,Aloo Gobhi,Dry Veg,Dinner,52.26,37.53,14.72
+2024-06-22,Saturday,Cloudy,Mix Veg,Dry Veg,Lunch,56.23,35.15,21.08
+2024-06-22,Saturday,Cloudy,Mix Veg,Dry Veg,Breakfast,53.94,31.58,22.36
+2024-06-23,Sunday,Light Rain,Mix Veg,Dry Veg,Breakfast,59.78,40.66,19.12
+2024-06-24,Monday,Light Rain,Gulab Jamun,Dessert,Lunch,49.18,36.34,12.84
+2024-06-24,Monday,Light Rain,Palak Paneer,Curry/Dal,Lunch,43.05,31.15,11.9
+2024-06-25,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,53.52,35.71,17.81
+2024-06-26,Wednesday,Clear,Aloo Gobhi,Dry Veg,Breakfast,41.98,39.51,2.46
+2024-06-26,Wednesday,Clear,Jeera Rice,Rice,Lunch,49.75,43.75,6.0
+2024-06-27,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,49.9,45.53,4.37
+2024-06-27,Thursday,Light Rain,Jeera Rice,Rice,Dinner,48.83,46.32,2.51
+2024-06-28,Friday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,49.03,30.41,18.61
+2024-06-29,Saturday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,40.01,20.01,20.0
+2024-06-29,Saturday,Heavy Rain,Jeera Rice,Rice,Dinner,56.36,37.36,19.0
+2024-06-30,Sunday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,45.41,26.27,19.14
+2024-06-30,Sunday,Cloudy,Poha,Other,Dinner,51.47,34.0,17.47
+2024-06-30,Sunday,Cloudy,Gulab Jamun,Dessert,Dinner,56.85,32.81,24.03
+2024-07-01,Monday,Cloudy,Mix Veg,Dry Veg,Lunch,58.12,48.88,9.24
+2024-07-01,Monday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,47.45,36.77,10.68
+2024-07-02,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,48.61,29.9,18.71
+2024-07-03,Wednesday,Clear,Mix Veg,Dry Veg,Breakfast,59.41,44.4,15.01
+2024-07-04,Thursday,Cloudy,Jeera Rice,Rice,Dinner,48.64,44.2,4.44
+2024-07-05,Friday,Cloudy,Mix Veg,Dry Veg,Dinner,46.96,30.03,16.93
+2024-07-05,Friday,Cloudy,Dal Makhani,Curry/Dal,Lunch,47.97,38.17,9.79
+2024-07-05,Friday,Cloudy,Mix Veg,Dry Veg,Breakfast,58.31,41.62,16.68
+2024-07-06,Saturday,Clear,Poha,Other,Breakfast,40.5,24.59,15.91
+2024-07-06,Saturday,Clear,Jeera Rice,Rice,Dinner,56.54,33.56,22.99
+2024-07-07,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,51.15,30.37,20.78
+2024-07-07,Sunday,Cloudy,Jeera Rice,Rice,Lunch,42.47,25.72,16.74
+2024-07-07,Sunday,Cloudy,Jeera Rice,Rice,Breakfast,41.14,24.19,16.94
+2024-07-08,Monday,Clear,Mix Veg,Dry Veg,Lunch,56.55,38.93,17.62
+2024-07-08,Monday,Clear,Mix Veg,Dry Veg,Lunch,52.29,37.92,14.37
+2024-07-09,Tuesday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,53.8,33.89,19.91
+2024-07-09,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,50.95,33.89,17.06
+2024-07-10,Wednesday,Clear,Jeera Rice,Rice,Dinner,53.65,45.86,7.79
+2024-07-11,Thursday,Heavy Rain,Jeera Rice,Rice,Dinner,51.06,41.42,9.65
+2024-07-11,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,49.42,30.2,19.22
+2024-07-12,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,52.19,34.51,17.68
+2024-07-13,Saturday,Clear,Plain Roti,Bread/Roti,Breakfast,48.29,28.48,19.81
+2024-07-13,Saturday,Clear,Palak Paneer,Curry/Dal,Dinner,55.69,37.59,18.11
+2024-07-14,Sunday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,40.57,26.83,13.74
+2024-07-14,Sunday,Heavy Rain,Jeera Rice,Rice,Dinner,59.86,35.17,24.69
+2024-07-15,Monday,Heavy Rain,Mix Veg,Dry Veg,Lunch,51.77,37.93,13.84
+2024-07-15,Monday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,52.44,30.65,21.79
+2024-07-16,Tuesday,Light Rain,Jeera Rice,Rice,Lunch,46.51,34.09,12.42
+2024-07-17,Wednesday,Clear,Plain Roti,Bread/Roti,Lunch,42.23,32.7,9.53
+2024-07-18,Thursday,Clear,Poha,Other,Dinner,41.08,38.54,2.54
+2024-07-18,Thursday,Clear,Mix Veg,Dry Veg,Lunch,55.21,39.84,15.37
+2024-07-18,Thursday,Clear,Mix Veg,Dry Veg,Dinner,51.38,31.9,19.48
+2024-07-19,Friday,Light Rain,Jeera Rice,Rice,Lunch,51.25,46.41,4.84
+2024-07-20,Saturday,Heavy Rain,Poha,Other,Breakfast,42.35,28.5,13.85
+2024-07-20,Saturday,Heavy Rain,Poha,Other,Breakfast,54.01,35.69,18.33
+2024-07-20,Saturday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,48.57,18.06,30.52
+2024-07-21,Sunday,Clear,Aloo Gobhi,Dry Veg,Lunch,59.09,45.07,14.02
+2024-07-21,Sunday,Clear,Poha,Other,Lunch,40.29,31.63,8.66
+2024-07-22,Monday,Cloudy,Palak Paneer,Curry/Dal,Dinner,48.91,46.4,2.51
+2024-07-23,Tuesday,Clear,Jeera Rice,Rice,Breakfast,46.94,36.71,10.23
+2024-07-23,Tuesday,Clear,Dal Makhani,Curry/Dal,Lunch,41.56,35.76,5.8
+2024-07-24,Wednesday,Heavy Rain,Jeera Rice,Rice,Lunch,56.19,36.23,19.96
+2024-07-24,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,41.7,31.57,10.13
+2024-07-25,Thursday,Cloudy,Poha,Other,Dinner,45.32,37.91,7.4
+2024-07-25,Thursday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,51.06,39.89,11.17
+2024-07-26,Friday,Light Rain,Gulab Jamun,Dessert,Breakfast,42.8,39.94,2.85
+2024-07-26,Friday,Light Rain,Mix Veg,Dry Veg,Lunch,51.79,34.47,17.32
+2024-07-26,Friday,Light Rain,Plain Roti,Bread/Roti,Dinner,51.97,39.68,12.29
+2024-07-27,Saturday,Light Rain,Jeera Rice,Rice,Dinner,51.58,28.39,23.19
+2024-07-27,Saturday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,46.68,33.48,13.2
+2024-07-27,Saturday,Light Rain,Plain Roti,Bread/Roti,Dinner,47.57,32.12,15.45
+2024-07-28,Sunday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,57.0,35.59,21.41
+2024-07-28,Sunday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,53.61,31.42,22.19
+2024-07-28,Sunday,Cloudy,Plain Roti,Bread/Roti,Lunch,41.89,29.71,12.19
+2024-07-29,Monday,Cloudy,Gulab Jamun,Dessert,Breakfast,50.05,35.08,14.96
+2024-07-29,Monday,Cloudy,Jeera Rice,Rice,Dinner,43.97,36.46,7.51
+2024-07-30,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,45.59,33.76,11.83
+2024-07-30,Tuesday,Light Rain,Jeera Rice,Rice,Breakfast,45.3,40.08,5.22
+2024-07-30,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,53.99,43.33,10.67
+2024-07-31,Wednesday,Clear,Gulab Jamun,Dessert,Lunch,41.51,31.08,10.42
+2024-07-31,Wednesday,Clear,Dal Makhani,Curry/Dal,Lunch,43.68,33.41,10.27
+2024-08-01,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,56.59,50.8,5.79
+2024-08-01,Thursday,Light Rain,Jeera Rice,Rice,Lunch,40.67,31.31,9.36
+2024-08-01,Thursday,Light Rain,Gulab Jamun,Dessert,Lunch,45.47,43.19,2.28
+2024-08-02,Friday,Cloudy,Poha,Other,Lunch,55.82,42.05,13.77
+2024-08-02,Friday,Cloudy,Plain Roti,Bread/Roti,Dinner,44.72,35.03,9.68
+2024-08-02,Friday,Cloudy,Poha,Other,Breakfast,40.6,38.39,2.21
+2024-08-03,Saturday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,48.31,29.92,18.39
+2024-08-04,Sunday,Cloudy,Gulab Jamun,Dessert,Dinner,50.13,37.14,12.99
+2024-08-04,Sunday,Cloudy,Plain Roti,Bread/Roti,Breakfast,55.11,32.42,22.69
+2024-08-05,Monday,Clear,Palak Paneer,Curry/Dal,Dinner,59.73,48.36,11.37
+2024-08-05,Monday,Clear,Aloo Gobhi,Dry Veg,Lunch,53.65,48.09,5.56
+2024-08-05,Monday,Clear,Gulab Jamun,Dessert,Lunch,48.69,40.96,7.73
+2024-08-06,Tuesday,Light Rain,Gulab Jamun,Dessert,Lunch,58.28,47.12,11.16
+2024-08-06,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Lunch,59.52,46.03,13.49
+2024-08-06,Tuesday,Light Rain,Jeera Rice,Rice,Lunch,59.49,49.02,10.47
+2024-08-07,Wednesday,Light Rain,Jeera Rice,Rice,Lunch,49.91,35.37,14.54
+2024-08-08,Thursday,Clear,Poha,Other,Dinner,57.77,48.97,8.81
+2024-08-09,Friday,Light Rain,Plain Roti,Bread/Roti,Dinner,48.11,37.46,10.65
+2024-08-09,Friday,Light Rain,Mix Veg,Dry Veg,Breakfast,45.13,36.68,8.45
+2024-08-09,Friday,Light Rain,Gulab Jamun,Dessert,Dinner,50.46,45.5,4.96
+2024-08-10,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,54.63,27.01,27.62
+2024-08-10,Saturday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,47.06,25.07,21.99
+2024-08-11,Sunday,Cloudy,Gulab Jamun,Dessert,Lunch,52.28,33.55,18.72
+2024-08-11,Sunday,Cloudy,Palak Paneer,Curry/Dal,Dinner,44.44,25.13,19.31
+2024-08-11,Sunday,Cloudy,Gulab Jamun,Dessert,Breakfast,46.78,31.06,15.72
+2024-08-12,Monday,Heavy Rain,Poha,Other,Dinner,52.18,31.67,20.51
+2024-08-12,Monday,Heavy Rain,Gulab Jamun,Dessert,Dinner,54.9,33.38,21.52
+2024-08-13,Tuesday,Clear,Mix Veg,Dry Veg,Breakfast,52.7,42.15,10.55
+2024-08-13,Tuesday,Clear,Dal Makhani,Curry/Dal,Lunch,42.15,35.87,6.28
+2024-08-13,Tuesday,Clear,Palak Paneer,Curry/Dal,Lunch,58.27,54.44,3.83
+2024-08-14,Wednesday,Heavy Rain,Poha,Other,Breakfast,53.53,35.81,17.72
+2024-08-14,Wednesday,Heavy Rain,Jeera Rice,Rice,Breakfast,47.33,38.24,9.09
+2024-08-14,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,41.5,27.51,13.98
+2024-08-15,Thursday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,52.35,41.96,10.39
+2024-08-15,Thursday,Cloudy,Jeera Rice,Rice,Breakfast,57.84,46.0,11.84
+2024-08-15,Thursday,Cloudy,Jeera Rice,Rice,Breakfast,47.6,40.31,7.29
+2024-08-16,Friday,Cloudy,Mix Veg,Dry Veg,Lunch,41.87,32.18,9.69
+2024-08-16,Friday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,47.06,43.62,3.45
+2024-08-17,Saturday,Heavy Rain,Jeera Rice,Rice,Dinner,55.8,27.83,27.97
+2024-08-17,Saturday,Heavy Rain,Poha,Other,Lunch,51.71,28.85,22.86
+2024-08-17,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,46.89,22.48,24.41
+2024-08-18,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,53.71,27.15,26.56
+2024-08-19,Monday,Heavy Rain,Jeera Rice,Rice,Dinner,45.09,35.39,9.7
+2024-08-20,Tuesday,Clear,Dal Makhani,Curry/Dal,Breakfast,52.55,38.03,14.52
+2024-08-20,Tuesday,Clear,Dal Makhani,Curry/Dal,Dinner,45.97,33.91,12.06
+2024-08-20,Tuesday,Clear,Poha,Other,Breakfast,41.11,38.81,2.3
+2024-08-21,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,42.48,30.31,12.16
+2024-08-21,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,48.41,38.14,10.27
+2024-08-21,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,53.1,35.29,17.81
+2024-08-22,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,58.84,36.25,22.59
+2024-08-23,Friday,Heavy Rain,Poha,Other,Dinner,52.23,43.89,8.34
+2024-08-24,Saturday,Light Rain,Dal Makhani,Curry/Dal,Dinner,52.36,29.94,22.42
+2024-08-24,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,54.52,42.79,11.73
+2024-08-24,Saturday,Light Rain,Jeera Rice,Rice,Lunch,49.86,32.78,17.08
+2024-08-25,Sunday,Light Rain,Gulab Jamun,Dessert,Dinner,45.7,34.35,11.35
+2024-08-25,Sunday,Light Rain,Mix Veg,Dry Veg,Lunch,40.88,24.28,16.6
+2024-08-26,Monday,Heavy Rain,Jeera Rice,Rice,Dinner,55.95,45.89,10.06
+2024-08-27,Tuesday,Cloudy,Gulab Jamun,Dessert,Breakfast,49.33,43.29,6.04
+2024-08-28,Wednesday,Light Rain,Jeera Rice,Rice,Lunch,58.21,45.77,12.44
+2024-08-29,Thursday,Clear,Jeera Rice,Rice,Breakfast,49.42,40.41,9.01
+2024-08-29,Thursday,Clear,Jeera Rice,Rice,Dinner,50.18,43.32,6.86
+2024-08-30,Friday,Light Rain,Plain Roti,Bread/Roti,Breakfast,52.17,41.78,10.4
+2024-08-31,Saturday,Light Rain,Poha,Other,Dinner,53.24,31.68,21.56
+2024-09-01,Sunday,Cloudy,Jeera Rice,Rice,Lunch,59.58,33.42,26.16
+2024-09-02,Monday,Light Rain,Palak Paneer,Curry/Dal,Dinner,47.81,43.45,4.36
+2024-09-03,Tuesday,Cloudy,Gulab Jamun,Dessert,Dinner,40.76,30.73,10.03
+2024-09-03,Tuesday,Cloudy,Poha,Other,Lunch,56.45,42.46,13.99
+2024-09-04,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,51.05,43.03,8.02
+2024-09-05,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,58.2,42.23,15.97
+2024-09-05,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,46.01,39.03,6.99
+2024-09-06,Friday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,44.79,34.82,9.97
+2024-09-07,Saturday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,58.51,43.64,14.87
+2024-09-07,Saturday,Light Rain,Poha,Other,Breakfast,59.28,33.13,26.15
+2024-09-07,Saturday,Light Rain,Poha,Other,Breakfast,51.52,40.95,10.57
+2024-09-08,Sunday,Cloudy,Mix Veg,Dry Veg,Lunch,49.63,33.73,15.9
+2024-09-08,Sunday,Cloudy,Jeera Rice,Rice,Lunch,52.08,37.86,14.22
+2024-09-09,Monday,Light Rain,Dal Makhani,Curry/Dal,Lunch,48.07,39.49,8.58
+2024-09-09,Monday,Light Rain,Jeera Rice,Rice,Lunch,59.28,49.78,9.49
+2024-09-10,Tuesday,Cloudy,Gulab Jamun,Dessert,Breakfast,43.04,38.85,4.19
+2024-09-10,Tuesday,Cloudy,Mix Veg,Dry Veg,Dinner,54.52,45.03,9.48
+2024-09-10,Tuesday,Cloudy,Mix Veg,Dry Veg,Lunch,41.8,34.14,7.66
+2024-09-11,Wednesday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,59.09,52.92,6.17
+2024-09-12,Thursday,Cloudy,Plain Roti,Bread/Roti,Breakfast,44.87,36.42,8.45
+2024-09-13,Friday,Light Rain,Plain Roti,Bread/Roti,Breakfast,44.86,36.28,8.58
+2024-09-13,Friday,Light Rain,Jeera Rice,Rice,Breakfast,49.06,37.97,11.09
+2024-09-14,Saturday,Cloudy,Jeera Rice,Rice,Breakfast,57.97,33.28,24.69
+2024-09-15,Sunday,Clear,Palak Paneer,Curry/Dal,Breakfast,53.62,29.49,24.13
+2024-09-15,Sunday,Clear,Poha,Other,Breakfast,48.07,33.8,14.28
+2024-09-16,Monday,Cloudy,Dal Makhani,Curry/Dal,Dinner,46.45,34.64,11.81
+2024-09-16,Monday,Cloudy,Poha,Other,Dinner,57.3,48.34,8.97
+2024-09-16,Monday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,51.41,38.09,13.31
+2024-09-17,Tuesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,50.03,30.81,19.22
+2024-09-17,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,41.82,23.48,18.34
+2024-09-17,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,58.38,37.81,20.57
+2024-09-18,Wednesday,Light Rain,Poha,Other,Dinner,41.4,32.39,9.01
+2024-09-18,Wednesday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,52.33,44.45,7.88
+2024-09-18,Wednesday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,44.13,33.6,10.53
+2024-09-19,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,45.07,34.76,10.32
+2024-09-19,Thursday,Heavy Rain,Jeera Rice,Rice,Dinner,40.87,32.1,8.78
+2024-09-19,Thursday,Heavy Rain,Poha,Other,Dinner,59.9,37.46,22.44
+2024-09-20,Friday,Heavy Rain,Poha,Other,Dinner,42.04,29.62,12.42
+2024-09-20,Friday,Heavy Rain,Poha,Other,Dinner,50.14,40.51,9.63
+2024-09-20,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,48.35,34.24,14.11
+2024-09-21,Saturday,Cloudy,Dal Makhani,Curry/Dal,Lunch,40.79,28.02,12.77
+2024-09-21,Saturday,Cloudy,Gulab Jamun,Dessert,Dinner,48.65,33.82,14.83
+2024-09-22,Sunday,Clear,Dal Makhani,Curry/Dal,Breakfast,53.55,36.98,16.58
+2024-09-23,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,46.0,34.82,11.19
+2024-09-24,Tuesday,Cloudy,Plain Roti,Bread/Roti,Lunch,44.77,32.38,12.4
+2024-09-24,Tuesday,Cloudy,Palak Paneer,Curry/Dal,Lunch,56.73,49.74,6.99
+2024-09-25,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,46.24,30.71,15.52
+2024-09-25,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,57.83,42.14,15.69
+2024-09-26,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,54.2,37.25,16.95
+2024-09-27,Friday,Cloudy,Dal Makhani,Curry/Dal,Dinner,41.63,38.02,3.61
+2024-09-28,Saturday,Heavy Rain,Mix Veg,Dry Veg,Dinner,43.08,23.56,19.52
+2024-09-28,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,45.94,24.99,20.94
+2024-09-29,Sunday,Cloudy,Jeera Rice,Rice,Breakfast,41.06,23.17,17.89
+2024-09-29,Sunday,Cloudy,Jeera Rice,Rice,Dinner,47.38,32.13,15.24
+2024-09-29,Sunday,Cloudy,Gulab Jamun,Dessert,Dinner,43.05,28.6,14.45
+2024-09-30,Monday,Light Rain,Plain Roti,Bread/Roti,Lunch,57.4,46.98,10.41
+2024-10-01,Tuesday,Clear,Plain Roti,Bread/Roti,Lunch,47.12,33.89,13.23
+2024-10-02,Wednesday,Light Rain,Palak Paneer,Curry/Dal,Dinner,42.62,35.46,7.15
+2024-10-03,Thursday,Light Rain,Palak Paneer,Curry/Dal,Dinner,58.36,41.56,16.8
+2024-10-03,Thursday,Light Rain,Dal Makhani,Curry/Dal,Lunch,55.56,50.83,4.73
+2024-10-03,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,41.44,29.77,11.68
+2024-10-04,Friday,Clear,Aloo Gobhi,Dry Veg,Breakfast,53.72,46.26,7.46
+2024-10-05,Saturday,Clear,Dal Makhani,Curry/Dal,Dinner,46.59,27.55,19.03
+2024-10-05,Saturday,Clear,Aloo Gobhi,Dry Veg,Lunch,41.04,28.04,13.01
+2024-10-05,Saturday,Clear,Mix Veg,Dry Veg,Dinner,53.7,30.72,22.97
+2024-10-06,Sunday,Cloudy,Poha,Other,Lunch,55.13,39.38,15.75
+2024-10-06,Sunday,Cloudy,Palak Paneer,Curry/Dal,Dinner,48.16,37.36,10.8
+2024-10-06,Sunday,Cloudy,Gulab Jamun,Dessert,Breakfast,45.75,30.31,15.43
+2024-10-07,Monday,Cloudy,Jeera Rice,Rice,Breakfast,58.71,45.25,13.46
+2024-10-08,Tuesday,Clear,Dal Makhani,Curry/Dal,Lunch,52.46,41.78,10.68
+2024-10-09,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Lunch,54.57,40.96,13.61
+2024-10-09,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,52.44,38.47,13.97
+2024-10-10,Thursday,Heavy Rain,Mix Veg,Dry Veg,Lunch,50.76,36.41,14.35
+2024-10-10,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,43.59,27.56,16.03
+2024-10-10,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,52.13,31.29,20.84
+2024-10-11,Friday,Light Rain,Jeera Rice,Rice,Dinner,50.87,38.59,12.28
+2024-10-11,Friday,Light Rain,Poha,Other,Breakfast,57.85,43.22,14.63
+2024-10-12,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,41.21,26.03,15.19
+2024-10-12,Saturday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,49.49,24.65,24.84
+2024-10-13,Sunday,Clear,Mix Veg,Dry Veg,Dinner,58.91,35.82,23.1
+2024-10-14,Monday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,44.95,42.29,2.66
+2024-10-14,Monday,Light Rain,Gulab Jamun,Dessert,Lunch,40.22,37.2,3.02
+2024-10-15,Tuesday,Clear,Aloo Gobhi,Dry Veg,Breakfast,44.71,37.16,7.55
+2024-10-15,Tuesday,Clear,Jeera Rice,Rice,Breakfast,54.08,50.28,3.79
+2024-10-16,Wednesday,Clear,Poha,Other,Breakfast,59.09,41.95,17.14
+2024-10-16,Wednesday,Clear,Plain Roti,Bread/Roti,Breakfast,56.84,45.28,11.55
+2024-10-16,Wednesday,Clear,Dal Makhani,Curry/Dal,Dinner,57.25,49.3,7.96
+2024-10-17,Thursday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,45.92,36.77,9.15
+2024-10-17,Thursday,Cloudy,Palak Paneer,Curry/Dal,Lunch,58.91,54.46,4.46
+2024-10-18,Friday,Clear,Jeera Rice,Rice,Lunch,40.63,35.74,4.88
+2024-10-19,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,45.33,28.49,16.84
+2024-10-19,Saturday,Light Rain,Gulab Jamun,Dessert,Lunch,54.29,39.78,14.52
+2024-10-20,Sunday,Cloudy,Palak Paneer,Curry/Dal,Dinner,52.08,41.49,10.59
+2024-10-20,Sunday,Cloudy,Plain Roti,Bread/Roti,Dinner,45.67,35.4,10.27
+2024-10-21,Monday,Cloudy,Plain Roti,Bread/Roti,Breakfast,50.9,47.34,3.56
+2024-10-21,Monday,Cloudy,Mix Veg,Dry Veg,Lunch,49.51,33.25,16.26
+2024-10-22,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,41.48,29.25,12.23
+2024-10-22,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,58.12,42.54,15.57
+2024-10-22,Tuesday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,44.86,38.42,6.44
+2024-10-23,Wednesday,Heavy Rain,Poha,Other,Lunch,53.57,33.41,20.16
+2024-10-23,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,50.63,35.89,14.74
+2024-10-23,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,56.79,43.94,12.85
+2024-10-24,Thursday,Light Rain,Gulab Jamun,Dessert,Breakfast,41.78,31.6,10.18
+2024-10-25,Friday,Clear,Gulab Jamun,Dessert,Breakfast,42.9,38.44,4.46
+2024-10-25,Friday,Clear,Palak Paneer,Curry/Dal,Dinner,46.04,32.28,13.76
+2024-10-26,Saturday,Cloudy,Gulab Jamun,Dessert,Breakfast,53.3,37.17,16.13
+2024-10-27,Sunday,Heavy Rain,Jeera Rice,Rice,Lunch,44.36,28.58,15.78
+2024-10-27,Sunday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,56.78,38.25,18.52
+2024-10-27,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,49.19,27.18,22.0
+2024-10-28,Monday,Light Rain,Jeera Rice,Rice,Breakfast,57.41,42.27,15.14
+2024-10-28,Monday,Light Rain,Mix Veg,Dry Veg,Breakfast,54.52,42.23,12.29
+2024-10-28,Monday,Light Rain,Mix Veg,Dry Veg,Dinner,47.51,37.78,9.73
+2024-10-29,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Lunch,54.77,51.76,3.01
+2024-10-29,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,55.36,46.72,8.64
+2024-10-30,Wednesday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,56.9,40.99,15.91
+2024-10-31,Thursday,Clear,Gulab Jamun,Dessert,Breakfast,56.18,43.51,12.68
+2024-10-31,Thursday,Clear,Dal Makhani,Curry/Dal,Lunch,57.76,45.85,11.91
+2024-11-01,Friday,Light Rain,Mix Veg,Dry Veg,Dinner,58.79,48.58,10.21
+2024-11-01,Friday,Light Rain,Gulab Jamun,Dessert,Lunch,50.13,41.35,8.78
+2024-11-02,Saturday,Light Rain,Palak Paneer,Curry/Dal,Dinner,55.57,31.47,24.1
+2024-11-02,Saturday,Light Rain,Gulab Jamun,Dessert,Lunch,40.83,29.53,11.3
+2024-11-02,Saturday,Light Rain,Jeera Rice,Rice,Dinner,43.1,29.61,13.5
+2024-11-03,Sunday,Clear,Jeera Rice,Rice,Lunch,42.31,29.99,12.32
+2024-11-03,Sunday,Clear,Poha,Other,Lunch,50.62,30.56,20.06
+2024-11-04,Monday,Heavy Rain,Poha,Other,Dinner,42.98,30.96,12.03
+2024-11-05,Tuesday,Clear,Dal Makhani,Curry/Dal,Lunch,55.32,47.95,7.37
+2024-11-05,Tuesday,Clear,Mix Veg,Dry Veg,Breakfast,41.98,29.41,12.57
+2024-11-05,Tuesday,Clear,Plain Roti,Bread/Roti,Dinner,53.86,40.74,13.12
+2024-11-06,Wednesday,Clear,Plain Roti,Bread/Roti,Lunch,51.24,44.15,7.09
+2024-11-06,Wednesday,Clear,Mix Veg,Dry Veg,Lunch,40.48,26.78,13.71
+2024-11-07,Thursday,Light Rain,Plain Roti,Bread/Roti,Breakfast,49.71,41.21,8.5
+2024-11-07,Thursday,Light Rain,Mix Veg,Dry Veg,Lunch,47.7,35.12,12.57
+2024-11-08,Friday,Cloudy,Dal Makhani,Curry/Dal,Dinner,51.78,49.03,2.74
+2024-11-08,Friday,Cloudy,Palak Paneer,Curry/Dal,Lunch,42.16,36.44,5.72
+2024-11-08,Friday,Cloudy,Gulab Jamun,Dessert,Dinner,42.34,34.11,8.22
+2024-11-09,Saturday,Clear,Plain Roti,Bread/Roti,Dinner,41.68,26.24,15.44
+2024-11-09,Saturday,Clear,Poha,Other,Breakfast,56.11,42.94,13.17
+2024-11-09,Saturday,Clear,Poha,Other,Dinner,40.4,31.31,9.08
+2024-11-10,Sunday,Heavy Rain,Poha,Other,Lunch,54.33,33.33,21.0
+2024-11-10,Sunday,Heavy Rain,Gulab Jamun,Dessert,Lunch,52.68,35.29,17.39
+2024-11-11,Monday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,54.84,37.25,17.59
+2024-11-12,Tuesday,Heavy Rain,Poha,Other,Lunch,55.62,45.85,9.77
+2024-11-12,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,48.85,41.31,7.54
+2024-11-12,Tuesday,Heavy Rain,Jeera Rice,Rice,Dinner,54.43,38.75,15.68
+2024-11-13,Wednesday,Cloudy,Gulab Jamun,Dessert,Lunch,44.91,37.21,7.7
+2024-11-14,Thursday,Clear,Aloo Gobhi,Dry Veg,Breakfast,55.92,47.34,8.58
+2024-11-14,Thursday,Clear,Palak Paneer,Curry/Dal,Breakfast,44.06,37.49,6.57
+2024-11-15,Friday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,56.58,44.54,12.04
+2024-11-15,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,44.5,29.82,14.68
+2024-11-16,Saturday,Cloudy,Plain Roti,Bread/Roti,Breakfast,51.33,38.74,12.59
+2024-11-16,Saturday,Cloudy,Mix Veg,Dry Veg,Breakfast,44.49,25.25,19.25
+2024-11-17,Sunday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,49.68,24.06,25.62
+2024-11-18,Monday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,44.12,39.44,4.68
+2024-11-18,Monday,Light Rain,Poha,Other,Lunch,40.35,31.79,8.56
+2024-11-19,Tuesday,Clear,Gulab Jamun,Dessert,Lunch,44.15,33.37,10.78
+2024-11-19,Tuesday,Clear,Aloo Gobhi,Dry Veg,Lunch,59.45,45.63,13.82
+2024-11-19,Tuesday,Clear,Poha,Other,Breakfast,57.42,48.27,9.15
+2024-11-20,Wednesday,Cloudy,Gulab Jamun,Dessert,Lunch,41.05,36.89,4.16
+2024-11-21,Thursday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,57.02,53.28,3.74
+2024-11-21,Thursday,Light Rain,Mix Veg,Dry Veg,Breakfast,43.46,27.53,15.93
+2024-11-22,Friday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,43.28,39.0,4.29
+2024-11-22,Friday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,52.5,39.01,13.49
+2024-11-23,Saturday,Light Rain,Jeera Rice,Rice,Breakfast,44.3,24.81,19.49
+2024-11-23,Saturday,Light Rain,Mix Veg,Dry Veg,Breakfast,46.24,21.33,24.91
+2024-11-23,Saturday,Light Rain,Palak Paneer,Curry/Dal,Lunch,46.84,28.46,18.38
+2024-11-24,Sunday,Heavy Rain,Poha,Other,Lunch,44.6,20.84,23.76
+2024-11-25,Monday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,44.11,40.99,3.12
+2024-11-26,Tuesday,Heavy Rain,Poha,Other,Lunch,53.57,45.19,8.38
+2024-11-26,Tuesday,Heavy Rain,Jeera Rice,Rice,Breakfast,42.96,33.26,9.7
+2024-11-27,Wednesday,Cloudy,Poha,Other,Dinner,41.45,37.18,4.27
+2024-11-27,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,42.46,34.85,7.6
+2024-11-28,Thursday,Light Rain,Gulab Jamun,Dessert,Dinner,51.22,45.19,6.03
+2024-11-28,Thursday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,52.35,45.66,6.69
+2024-11-28,Thursday,Light Rain,Mix Veg,Dry Veg,Breakfast,43.46,27.21,16.25
+2024-11-29,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,53.03,38.12,14.9
+2024-11-29,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,42.24,35.55,6.69
+2024-11-30,Saturday,Clear,Dal Makhani,Curry/Dal,Breakfast,41.54,29.07,12.47
+2024-11-30,Saturday,Clear,Plain Roti,Bread/Roti,Dinner,49.68,31.65,18.04
+2024-12-01,Sunday,Heavy Rain,Jeera Rice,Rice,Breakfast,52.56,32.21,20.35
+2024-12-02,Monday,Heavy Rain,Gulab Jamun,Dessert,Lunch,51.3,31.94,19.35
+2024-12-02,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,49.01,38.52,10.49
+2024-12-02,Monday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,57.98,41.41,16.56
+2024-12-03,Tuesday,Cloudy,Jeera Rice,Rice,Dinner,43.33,36.32,7.01
+2024-12-04,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Lunch,57.16,47.49,9.67
+2024-12-04,Wednesday,Cloudy,Poha,Other,Breakfast,48.06,35.05,13.01
+2024-12-04,Wednesday,Cloudy,Jeera Rice,Rice,Lunch,55.77,39.11,16.66
+2024-12-05,Thursday,Light Rain,Gulab Jamun,Dessert,Lunch,57.1,48.73,8.37
+2024-12-06,Friday,Heavy Rain,Gulab Jamun,Dessert,Lunch,41.86,27.32,14.54
+2024-12-06,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,41.79,25.97,15.82
+2024-12-06,Friday,Heavy Rain,Jeera Rice,Rice,Breakfast,42.42,35.6,6.82
+2024-12-07,Saturday,Heavy Rain,Poha,Other,Dinner,58.61,27.22,31.39
+2024-12-07,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,40.84,23.03,17.82
+2024-12-07,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,50.46,27.56,22.91
+2024-12-08,Sunday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,46.59,20.87,25.71
+2024-12-09,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,58.79,46.23,12.57
+2024-12-10,Tuesday,Clear,Aloo Gobhi,Dry Veg,Lunch,55.95,39.63,16.32
+2024-12-10,Tuesday,Clear,Mix Veg,Dry Veg,Dinner,56.53,35.6,20.93
+2024-12-10,Tuesday,Clear,Mix Veg,Dry Veg,Breakfast,41.87,35.34,6.53
+2024-12-11,Wednesday,Light Rain,Mix Veg,Dry Veg,Dinner,49.94,41.12,8.81
+2024-12-12,Thursday,Light Rain,Gulab Jamun,Dessert,Dinner,54.54,47.69,6.85
+2024-12-12,Thursday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,54.09,41.96,12.13
+2024-12-13,Friday,Cloudy,Palak Paneer,Curry/Dal,Lunch,45.59,42.75,2.83
+2024-12-13,Friday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,53.18,40.32,12.86
+2024-12-14,Saturday,Light Rain,Dal Makhani,Curry/Dal,Dinner,54.53,31.42,23.12
+2024-12-15,Sunday,Light Rain,Gulab Jamun,Dessert,Breakfast,44.57,30.02,14.54
+2024-12-16,Monday,Light Rain,Gulab Jamun,Dessert,Lunch,55.6,40.04,15.56
+2024-12-16,Monday,Light Rain,Poha,Other,Breakfast,53.49,42.66,10.83
+2024-12-17,Tuesday,Heavy Rain,Jeera Rice,Rice,Lunch,44.07,31.32,12.75
+2024-12-17,Tuesday,Heavy Rain,Jeera Rice,Rice,Lunch,47.7,38.54,9.16
+2024-12-18,Wednesday,Cloudy,Gulab Jamun,Dessert,Lunch,44.9,35.2,9.7
+2024-12-18,Wednesday,Cloudy,Poha,Other,Lunch,44.26,37.39,6.87
+2024-12-19,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,42.69,36.62,6.07
+2024-12-20,Friday,Light Rain,Plain Roti,Bread/Roti,Breakfast,58.5,54.64,3.86
+2024-12-20,Friday,Light Rain,Plain Roti,Bread/Roti,Dinner,54.76,50.36,4.4
+2024-12-20,Friday,Light Rain,Palak Paneer,Curry/Dal,Dinner,45.69,40.61,5.08
+2024-12-21,Saturday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,47.94,32.24,15.7
+2024-12-22,Sunday,Clear,Gulab Jamun,Dessert,Lunch,40.49,29.94,10.54
+2024-12-22,Sunday,Clear,Gulab Jamun,Dessert,Breakfast,42.0,32.23,9.77
+2024-12-22,Sunday,Clear,Plain Roti,Bread/Roti,Breakfast,53.44,34.11,19.33
+2024-12-23,Monday,Clear,Dal Makhani,Curry/Dal,Lunch,52.96,49.2,3.76
+2024-12-24,Tuesday,Cloudy,Jeera Rice,Rice,Breakfast,44.36,32.96,11.4
+2024-12-24,Tuesday,Cloudy,Gulab Jamun,Dessert,Lunch,55.97,49.93,6.05
+2024-12-24,Tuesday,Cloudy,Jeera Rice,Rice,Lunch,41.16,32.98,8.18
+2024-12-25,Wednesday,Clear,Mix Veg,Dry Veg,Breakfast,46.86,29.69,17.17
+2024-12-25,Wednesday,Clear,Plain Roti,Bread/Roti,Dinner,49.21,40.62,8.59
+2024-12-26,Thursday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,41.88,31.85,10.03
+2024-12-27,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,56.03,42.74,13.29
+2024-12-27,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,40.01,29.55,10.45
+2024-12-28,Saturday,Cloudy,Jeera Rice,Rice,Lunch,41.81,30.66,11.15
+2024-12-28,Saturday,Cloudy,Dal Makhani,Curry/Dal,Dinner,48.12,30.56,17.56
+2024-12-29,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,42.68,29.51,13.17
+2024-12-30,Monday,Cloudy,Jeera Rice,Rice,Dinner,42.45,31.0,11.44
+2024-12-30,Monday,Cloudy,Plain Roti,Bread/Roti,Lunch,51.62,42.54,9.07
+2024-12-31,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,50.51,37.01,13.51
+2024-12-31,Tuesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,55.91,39.65,16.26
+2025-01-01,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,42.81,28.86,13.95
+2025-01-01,Wednesday,Heavy Rain,Jeera Rice,Rice,Breakfast,52.52,37.76,14.76
+2025-01-02,Thursday,Light Rain,Mix Veg,Dry Veg,Breakfast,54.01,43.09,10.92
+2025-01-02,Thursday,Light Rain,Mix Veg,Dry Veg,Breakfast,59.33,41.98,17.35
+2025-01-03,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,42.38,34.83,7.55
+2025-01-04,Saturday,Light Rain,Palak Paneer,Curry/Dal,Lunch,52.34,37.99,14.35
+2025-01-05,Sunday,Heavy Rain,Mix Veg,Dry Veg,Dinner,55.31,19.84,35.47
+2025-01-06,Monday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,49.09,37.06,12.02
+2025-01-07,Tuesday,Light Rain,Plain Roti,Bread/Roti,Lunch,52.44,40.7,11.74
+2025-01-07,Tuesday,Light Rain,Jeera Rice,Rice,Lunch,50.84,37.23,13.61
+2025-01-07,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Lunch,41.99,38.19,3.8
+2025-01-08,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,55.34,51.71,3.63
+2025-01-08,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,55.37,46.84,8.52
+2025-01-09,Thursday,Heavy Rain,Poha,Other,Lunch,47.0,29.87,17.13
+2025-01-09,Thursday,Heavy Rain,Jeera Rice,Rice,Lunch,56.89,38.41,18.49
+2025-01-09,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,47.21,30.86,16.35
+2025-01-10,Friday,Clear,Aloo Gobhi,Dry Veg,Dinner,47.19,44.1,3.08
+2025-01-11,Saturday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,45.38,32.43,12.96
+2025-01-11,Saturday,Cloudy,Mix Veg,Dry Veg,Lunch,52.81,28.32,24.49
+2025-01-11,Saturday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,56.38,36.83,19.55
+2025-01-12,Sunday,Clear,Gulab Jamun,Dessert,Lunch,56.92,39.24,17.68
+2025-01-13,Monday,Heavy Rain,Mix Veg,Dry Veg,Dinner,59.84,43.82,16.03
+2025-01-13,Monday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,50.16,34.69,15.47
+2025-01-14,Tuesday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,47.01,29.71,17.3
+2025-01-14,Tuesday,Heavy Rain,Poha,Other,Breakfast,49.69,40.26,9.43
+2025-01-15,Wednesday,Cloudy,Poha,Other,Lunch,40.44,32.2,8.24
+2025-01-15,Wednesday,Cloudy,Jeera Rice,Rice,Breakfast,45.77,40.08,5.69
+2025-01-15,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Dinner,51.57,45.49,6.08
+2025-01-16,Thursday,Clear,Aloo Gobhi,Dry Veg,Dinner,59.5,48.07,11.43
+2025-01-16,Thursday,Clear,Aloo Gobhi,Dry Veg,Lunch,59.04,49.15,9.89
+2025-01-16,Thursday,Clear,Dal Makhani,Curry/Dal,Lunch,46.94,37.53,9.41
+2025-01-17,Friday,Clear,Aloo Gobhi,Dry Veg,Dinner,43.16,37.1,6.06
+2025-01-17,Friday,Clear,Aloo Gobhi,Dry Veg,Dinner,49.46,42.99,6.46
+2025-01-18,Saturday,Clear,Poha,Other,Lunch,55.06,33.08,21.98
+2025-01-18,Saturday,Clear,Gulab Jamun,Dessert,Lunch,56.37,34.36,22.01
+2025-01-18,Saturday,Clear,Palak Paneer,Curry/Dal,Dinner,53.84,32.23,21.61
+2025-01-19,Sunday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,45.92,27.66,18.26
+2025-01-19,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,43.02,20.92,22.1
+2025-01-19,Sunday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,51.94,21.43,30.51
+2025-01-20,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,56.47,38.96,17.51
+2025-01-21,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,48.3,32.3,16.0
+2025-01-21,Tuesday,Heavy Rain,Jeera Rice,Rice,Breakfast,41.06,33.52,7.54
+2025-01-21,Tuesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,53.56,41.52,12.04
+2025-01-22,Wednesday,Heavy Rain,Poha,Other,Lunch,54.38,41.07,13.31
+2025-01-23,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,48.62,45.95,2.68
+2025-01-24,Friday,Heavy Rain,Mix Veg,Dry Veg,Dinner,52.08,27.36,24.72
+2025-01-24,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,52.92,36.32,16.6
+2025-01-24,Friday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,58.79,36.81,21.98
+2025-01-25,Saturday,Cloudy,Plain Roti,Bread/Roti,Dinner,55.03,43.29,11.73
+2025-01-25,Saturday,Cloudy,Palak Paneer,Curry/Dal,Lunch,49.43,34.01,15.42
+2025-01-26,Sunday,Light Rain,Mix Veg,Dry Veg,Dinner,58.74,28.9,29.84
+2025-01-27,Monday,Light Rain,Jeera Rice,Rice,Breakfast,49.68,46.82,2.86
+2025-01-27,Monday,Light Rain,Jeera Rice,Rice,Breakfast,58.31,48.04,10.27
+2025-01-28,Tuesday,Light Rain,Poha,Other,Dinner,56.21,40.22,15.98
+2025-01-28,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Dinner,45.94,41.39,4.55
+2025-01-28,Tuesday,Light Rain,Gulab Jamun,Dessert,Breakfast,45.99,32.97,13.02
+2025-01-29,Wednesday,Light Rain,Plain Roti,Bread/Roti,Lunch,49.49,37.73,11.75
+2025-01-30,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,51.75,32.38,19.37
+2025-01-31,Friday,Heavy Rain,Jeera Rice,Rice,Breakfast,41.62,28.95,12.67
+2025-01-31,Friday,Heavy Rain,Gulab Jamun,Dessert,Lunch,40.25,26.21,14.04
+2025-01-31,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,52.75,32.09,20.66
+2025-02-01,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,52.32,26.1,26.23
+2025-02-01,Saturday,Heavy Rain,Poha,Other,Dinner,46.35,21.66,24.68
+2025-02-02,Sunday,Heavy Rain,Jeera Rice,Rice,Lunch,48.81,29.34,19.47
+2025-02-02,Sunday,Heavy Rain,Gulab Jamun,Dessert,Lunch,54.74,25.43,29.31
+2025-02-02,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,46.5,24.56,21.93
+2025-02-03,Monday,Cloudy,Plain Roti,Bread/Roti,Dinner,41.32,37.36,3.96
+2025-02-04,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,57.7,46.38,11.32
+2025-02-04,Tuesday,Light Rain,Poha,Other,Breakfast,51.74,38.92,12.82
+2025-02-04,Tuesday,Light Rain,Gulab Jamun,Dessert,Lunch,43.78,39.78,4.0
+2025-02-05,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,44.04,29.04,15.0
+2025-02-05,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,51.91,39.95,11.96
+2025-02-05,Wednesday,Heavy Rain,Poha,Other,Dinner,43.59,29.33,14.27
+2025-02-06,Thursday,Heavy Rain,Jeera Rice,Rice,Dinner,53.95,40.24,13.7
+2025-02-06,Thursday,Heavy Rain,Jeera Rice,Rice,Breakfast,53.91,42.09,11.82
+2025-02-07,Friday,Clear,Gulab Jamun,Dessert,Dinner,48.56,44.39,4.18
+2025-02-07,Friday,Clear,Gulab Jamun,Dessert,Breakfast,44.96,36.4,8.55
+2025-02-07,Friday,Clear,Plain Roti,Bread/Roti,Dinner,51.25,36.0,15.24
+2025-02-08,Saturday,Clear,Palak Paneer,Curry/Dal,Lunch,40.6,23.96,16.63
+2025-02-08,Saturday,Clear,Mix Veg,Dry Veg,Breakfast,57.19,27.37,29.82
+2025-02-09,Sunday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,55.49,31.68,23.8
+2025-02-10,Monday,Cloudy,Mix Veg,Dry Veg,Breakfast,43.33,26.03,17.3
+2025-02-10,Monday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,52.6,43.14,9.45
+2025-02-11,Tuesday,Light Rain,Mix Veg,Dry Veg,Breakfast,56.92,46.71,10.21
+2025-02-12,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,45.51,34.38,11.13
+2025-02-12,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,49.71,37.73,11.98
+2025-02-13,Thursday,Clear,Jeera Rice,Rice,Breakfast,42.83,31.47,11.35
+2025-02-13,Thursday,Clear,Jeera Rice,Rice,Lunch,44.19,35.04,9.15
+2025-02-13,Thursday,Clear,Palak Paneer,Curry/Dal,Lunch,47.27,35.57,11.7
+2025-02-14,Friday,Light Rain,Plain Roti,Bread/Roti,Lunch,49.69,41.91,7.79
+2025-02-15,Saturday,Cloudy,Plain Roti,Bread/Roti,Breakfast,53.7,40.86,12.85
+2025-02-16,Sunday,Cloudy,Gulab Jamun,Dessert,Dinner,41.05,32.57,8.49
+2025-02-16,Sunday,Cloudy,Poha,Other,Breakfast,56.73,35.75,20.98
+2025-02-16,Sunday,Cloudy,Dal Makhani,Curry/Dal,Lunch,43.9,24.9,19.0
+2025-02-17,Monday,Clear,Jeera Rice,Rice,Lunch,46.49,35.11,11.38
+2025-02-17,Monday,Clear,Jeera Rice,Rice,Lunch,48.04,35.2,12.83
+2025-02-17,Monday,Clear,Plain Roti,Bread/Roti,Breakfast,44.01,33.83,10.18
+2025-02-18,Tuesday,Light Rain,Poha,Other,Dinner,53.82,48.72,5.11
+2025-02-18,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Lunch,42.12,30.76,11.37
+2025-02-18,Tuesday,Light Rain,Mix Veg,Dry Veg,Dinner,51.34,41.96,9.37
+2025-02-19,Wednesday,Light Rain,Plain Roti,Bread/Roti,Lunch,50.55,39.77,10.78
+2025-02-19,Wednesday,Light Rain,Jeera Rice,Rice,Dinner,41.1,35.86,5.25
+2025-02-20,Thursday,Cloudy,Jeera Rice,Rice,Breakfast,52.73,41.75,10.98
+2025-02-20,Thursday,Cloudy,Plain Roti,Bread/Roti,Lunch,45.94,34.2,11.74
+2025-02-20,Thursday,Cloudy,Jeera Rice,Rice,Lunch,43.23,38.34,4.89
+2025-02-21,Friday,Clear,Plain Roti,Bread/Roti,Dinner,45.64,33.61,12.03
+2025-02-21,Friday,Clear,Jeera Rice,Rice,Lunch,41.52,35.57,5.95
+2025-02-22,Saturday,Light Rain,Jeera Rice,Rice,Lunch,48.68,28.31,20.37
+2025-02-22,Saturday,Light Rain,Poha,Other,Breakfast,48.8,29.5,19.3
+2025-02-22,Saturday,Light Rain,Poha,Other,Lunch,43.34,28.75,14.59
+2025-02-23,Sunday,Cloudy,Mix Veg,Dry Veg,Dinner,57.98,32.51,25.47
+2025-02-23,Sunday,Cloudy,Jeera Rice,Rice,Dinner,48.6,37.97,10.63
+2025-02-23,Sunday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,40.56,27.78,12.78
+2025-02-24,Monday,Clear,Palak Paneer,Curry/Dal,Breakfast,44.91,41.71,3.2
+2025-02-25,Tuesday,Clear,Dal Makhani,Curry/Dal,Dinner,41.37,32.66,8.7
+2025-02-25,Tuesday,Clear,Poha,Other,Breakfast,53.87,46.04,7.83
+2025-02-25,Tuesday,Clear,Poha,Other,Breakfast,52.34,47.14,5.2
+2025-02-26,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,47.01,43.85,3.17
+2025-02-26,Wednesday,Cloudy,Jeera Rice,Rice,Dinner,42.95,38.41,4.54
+2025-02-27,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,51.24,38.61,12.63
+2025-02-28,Friday,Cloudy,Plain Roti,Bread/Roti,Dinner,53.52,37.67,15.86
+2025-02-28,Friday,Cloudy,Poha,Other,Dinner,48.16,43.32,4.84
+2025-02-28,Friday,Cloudy,Plain Roti,Bread/Roti,Lunch,55.15,47.37,7.78
+2025-03-01,Saturday,Light Rain,Poha,Other,Breakfast,54.21,38.48,15.73
+2025-03-02,Sunday,Clear,Aloo Gobhi,Dry Veg,Lunch,47.87,29.35,18.52
+2025-03-02,Sunday,Clear,Mix Veg,Dry Veg,Dinner,44.78,26.42,18.36
+2025-03-02,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,57.16,25.92,31.24
+2025-03-03,Monday,Heavy Rain,Jeera Rice,Rice,Breakfast,56.98,38.31,18.68
+2025-03-03,Monday,Heavy Rain,Poha,Other,Dinner,49.74,37.6,12.14
+2025-03-03,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,47.85,31.48,16.37
+2025-03-04,Tuesday,Clear,Palak Paneer,Curry/Dal,Breakfast,58.4,54.86,3.53
+2025-03-05,Wednesday,Light Rain,Mix Veg,Dry Veg,Dinner,55.92,34.17,21.75
+2025-03-05,Wednesday,Light Rain,Plain Roti,Bread/Roti,Breakfast,49.9,46.64,3.26
+2025-03-06,Thursday,Cloudy,Plain Roti,Bread/Roti,Dinner,45.76,35.73,10.03
+2025-03-06,Thursday,Cloudy,Poha,Other,Dinner,57.96,43.61,14.35
+2025-03-07,Friday,Light Rain,Jeera Rice,Rice,Breakfast,43.05,38.65,4.4
+2025-03-08,Saturday,Light Rain,Jeera Rice,Rice,Dinner,53.56,40.71,12.85
+2025-03-08,Saturday,Light Rain,Gulab Jamun,Dessert,Lunch,52.88,42.09,10.79
+2025-03-08,Saturday,Light Rain,Mix Veg,Dry Veg,Lunch,47.26,26.79,20.48
+2025-03-09,Sunday,Heavy Rain,Poha,Other,Dinner,54.78,30.77,24.02
+2025-03-09,Sunday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,57.29,31.76,25.54
+2025-03-09,Sunday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,54.82,37.59,17.23
+2025-03-10,Monday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,44.48,34.52,9.97
+2025-03-10,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,56.85,50.1,6.74
+2025-03-11,Tuesday,Cloudy,Palak Paneer,Curry/Dal,Lunch,57.5,46.95,10.56
+2025-03-12,Wednesday,Clear,Gulab Jamun,Dessert,Lunch,41.34,30.53,10.82
+2025-03-12,Wednesday,Clear,Poha,Other,Lunch,46.72,33.38,13.34
+2025-03-13,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,41.62,28.76,12.86
+2025-03-14,Friday,Cloudy,Poha,Other,Lunch,40.85,38.39,2.46
+2025-03-15,Saturday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,45.8,20.7,25.1
+2025-03-15,Saturday,Heavy Rain,Mix Veg,Dry Veg,Lunch,59.79,21.34,38.46
+2025-03-15,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,41.03,22.33,18.71
+2025-03-16,Sunday,Cloudy,Poha,Other,Breakfast,56.18,35.43,20.75
+2025-03-16,Sunday,Cloudy,Gulab Jamun,Dessert,Dinner,53.21,29.68,23.53
+2025-03-16,Sunday,Cloudy,Mix Veg,Dry Veg,Dinner,44.07,30.17,13.9
+2025-03-17,Monday,Cloudy,Gulab Jamun,Dessert,Lunch,42.27,31.47,10.8
+2025-03-17,Monday,Cloudy,Palak Paneer,Curry/Dal,Lunch,41.5,31.84,9.66
+2025-03-17,Monday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,51.82,49.05,2.77
+2025-03-18,Tuesday,Clear,Plain Roti,Bread/Roti,Breakfast,49.47,44.99,4.48
+2025-03-19,Wednesday,Clear,Palak Paneer,Curry/Dal,Breakfast,59.05,46.74,12.3
+2025-03-19,Wednesday,Clear,Aloo Gobhi,Dry Veg,Lunch,48.02,42.09,5.92
+2025-03-19,Wednesday,Clear,Jeera Rice,Rice,Dinner,57.12,46.09,11.03
+2025-03-20,Thursday,Cloudy,Gulab Jamun,Dessert,Lunch,56.32,47.74,8.58
+2025-03-21,Friday,Heavy Rain,Poha,Other,Dinner,53.64,33.74,19.9
+2025-03-21,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,44.47,28.52,15.95
+2025-03-22,Saturday,Light Rain,Plain Roti,Bread/Roti,Breakfast,45.96,29.27,16.69
+2025-03-22,Saturday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,45.27,35.64,9.64
+2025-03-22,Saturday,Light Rain,Plain Roti,Bread/Roti,Lunch,42.76,33.54,9.22
+2025-03-23,Sunday,Light Rain,Jeera Rice,Rice,Dinner,53.04,39.78,13.25
+2025-03-23,Sunday,Light Rain,Mix Veg,Dry Veg,Dinner,40.62,18.99,21.64
+2025-03-23,Sunday,Light Rain,Jeera Rice,Rice,Breakfast,59.93,33.61,26.32
+2025-03-24,Monday,Clear,Gulab Jamun,Dessert,Dinner,44.64,36.58,8.06
+2025-03-25,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Lunch,44.48,40.09,4.39
+2025-03-25,Tuesday,Cloudy,Mix Veg,Dry Veg,Dinner,57.13,42.82,14.31
+2025-03-25,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Dinner,58.8,45.37,13.44
+2025-03-26,Wednesday,Light Rain,Jeera Rice,Rice,Breakfast,45.08,37.95,7.14
+2025-03-26,Wednesday,Light Rain,Poha,Other,Dinner,40.08,30.74,9.34
+2025-03-26,Wednesday,Light Rain,Palak Paneer,Curry/Dal,Dinner,57.99,42.53,15.46
+2025-03-27,Thursday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,58.1,49.28,8.82
+2025-03-27,Thursday,Cloudy,Palak Paneer,Curry/Dal,Dinner,46.04,34.83,11.21
+2025-03-27,Thursday,Cloudy,Dal Makhani,Curry/Dal,Lunch,57.99,49.85,8.14
+2025-03-28,Friday,Light Rain,Dal Makhani,Curry/Dal,Lunch,48.18,37.4,10.78
+2025-03-29,Saturday,Heavy Rain,Mix Veg,Dry Veg,Dinner,41.7,16.87,24.83
+2025-03-29,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,58.82,36.26,22.56
+2025-03-29,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,54.47,30.37,24.1
+2025-03-30,Sunday,Light Rain,Mix Veg,Dry Veg,Dinner,47.22,30.19,17.03
+2025-03-30,Sunday,Light Rain,Palak Paneer,Curry/Dal,Lunch,48.86,38.55,10.32
+2025-03-31,Monday,Heavy Rain,Poha,Other,Lunch,57.31,47.95,9.36
+2025-03-31,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,43.37,32.47,10.9
+2025-04-01,Tuesday,Clear,Jeera Rice,Rice,Breakfast,57.8,50.36,7.44
+2025-04-01,Tuesday,Clear,Poha,Other,Breakfast,43.33,30.45,12.87
+2025-04-01,Tuesday,Clear,Jeera Rice,Rice,Lunch,45.79,32.26,13.53
+2025-04-02,Wednesday,Cloudy,Jeera Rice,Rice,Lunch,47.07,38.93,8.13
+2025-04-02,Wednesday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,52.25,48.07,4.18
+2025-04-02,Wednesday,Cloudy,Gulab Jamun,Dessert,Breakfast,43.11,34.43,8.68
+2025-04-03,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,59.8,43.97,15.84
+2025-04-04,Friday,Cloudy,Gulab Jamun,Dessert,Lunch,58.27,54.25,4.02
+2025-04-04,Friday,Cloudy,Jeera Rice,Rice,Breakfast,58.08,54.49,3.6
+2025-04-05,Saturday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,59.98,28.67,31.31
+2025-04-06,Sunday,Light Rain,Mix Veg,Dry Veg,Lunch,54.05,26.78,27.28
+2025-04-07,Monday,Light Rain,Plain Roti,Bread/Roti,Lunch,54.67,50.12,4.54
+2025-04-07,Monday,Light Rain,Mix Veg,Dry Veg,Lunch,54.61,34.56,20.05
+2025-04-08,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,58.69,43.58,15.1
+2025-04-09,Wednesday,Light Rain,Jeera Rice,Rice,Dinner,56.04,45.94,10.11
+2025-04-09,Wednesday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,54.82,41.53,13.29
+2025-04-10,Thursday,Heavy Rain,Mix Veg,Dry Veg,Lunch,47.77,24.32,23.45
+2025-04-10,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,53.88,33.37,20.51
+2025-04-10,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,59.63,42.05,17.59
+2025-04-11,Friday,Clear,Palak Paneer,Curry/Dal,Lunch,48.7,37.26,11.45
+2025-04-11,Friday,Clear,Poha,Other,Lunch,51.98,46.79,5.19
+2025-04-11,Friday,Clear,Gulab Jamun,Dessert,Lunch,53.27,40.54,12.73
+2025-04-12,Saturday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,59.83,38.15,21.69
+2025-04-13,Sunday,Clear,Plain Roti,Bread/Roti,Breakfast,54.95,37.36,17.59
+2025-04-13,Sunday,Clear,Poha,Other,Dinner,52.74,38.41,14.33
+2025-04-14,Monday,Cloudy,Jeera Rice,Rice,Breakfast,51.0,44.82,6.17
+2025-04-14,Monday,Cloudy,Jeera Rice,Rice,Lunch,44.44,40.14,4.3
+2025-04-14,Monday,Cloudy,Gulab Jamun,Dessert,Breakfast,56.38,43.13,13.25
+2025-04-15,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,40.2,25.69,14.51
+2025-04-15,Tuesday,Heavy Rain,Jeera Rice,Rice,Breakfast,45.83,38.2,7.63
+2025-04-16,Wednesday,Light Rain,Jeera Rice,Rice,Lunch,47.83,37.49,10.34
+2025-04-17,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,44.22,27.0,17.22
+2025-04-18,Friday,Light Rain,Palak Paneer,Curry/Dal,Dinner,55.44,38.95,16.49
+2025-04-18,Friday,Light Rain,Mix Veg,Dry Veg,Breakfast,55.62,46.18,9.45
+2025-04-19,Saturday,Clear,Plain Roti,Bread/Roti,Breakfast,46.0,29.07,16.94
+2025-04-19,Saturday,Clear,Plain Roti,Bread/Roti,Breakfast,55.24,41.3,13.94
+2025-04-20,Sunday,Cloudy,Dal Makhani,Curry/Dal,Lunch,59.32,39.03,20.29
+2025-04-20,Sunday,Cloudy,Plain Roti,Bread/Roti,Breakfast,57.77,40.69,17.08
+2025-04-20,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,54.53,35.1,19.43
+2025-04-21,Monday,Clear,Gulab Jamun,Dessert,Lunch,42.55,30.34,12.21
+2025-04-22,Tuesday,Clear,Gulab Jamun,Dessert,Dinner,51.58,38.45,13.14
+2025-04-23,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,54.62,42.36,12.26
+2025-04-23,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Lunch,53.0,31.12,21.88
+2025-04-24,Thursday,Clear,Dal Makhani,Curry/Dal,Dinner,49.02,36.31,12.71
+2025-04-24,Thursday,Clear,Palak Paneer,Curry/Dal,Breakfast,53.45,39.1,14.36
+2025-04-25,Friday,Cloudy,Jeera Rice,Rice,Dinner,45.04,39.55,5.49
+2025-04-25,Friday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,50.37,38.95,11.43
+2025-04-26,Saturday,Heavy Rain,Mix Veg,Dry Veg,Lunch,54.18,22.45,31.73
+2025-04-26,Saturday,Heavy Rain,Gulab Jamun,Dessert,Dinner,54.23,33.26,20.96
+2025-04-26,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,46.0,25.14,20.86
+2025-04-27,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,55.63,27.36,28.27
+2025-04-27,Sunday,Heavy Rain,Jeera Rice,Rice,Dinner,52.06,27.39,24.68
+2025-04-28,Monday,Light Rain,Plain Roti,Bread/Roti,Lunch,42.81,29.98,12.83
+2025-04-29,Tuesday,Heavy Rain,Jeera Rice,Rice,Breakfast,42.46,35.24,7.22
+2025-04-30,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,41.17,30.92,10.25
+2025-05-01,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,59.83,46.79,13.04
+2025-05-01,Thursday,Clear,Jeera Rice,Rice,Lunch,45.66,39.35,6.31
+2025-05-02,Friday,Cloudy,Poha,Other,Dinner,59.13,48.76,10.37
+2025-05-03,Saturday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,59.45,41.37,18.09
+2025-05-03,Saturday,Cloudy,Jeera Rice,Rice,Breakfast,50.88,37.86,13.02
+2025-05-04,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,53.02,33.66,19.35
+2025-05-04,Sunday,Cloudy,Mix Veg,Dry Veg,Breakfast,54.89,28.81,26.08
+2025-05-05,Monday,Clear,Plain Roti,Bread/Roti,Lunch,54.5,44.14,10.36
+2025-05-06,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Lunch,53.16,42.93,10.22
+2025-05-06,Tuesday,Light Rain,Jeera Rice,Rice,Lunch,45.6,33.62,11.98
+2025-05-07,Wednesday,Clear,Plain Roti,Bread/Roti,Lunch,52.25,43.84,8.4
+2025-05-07,Wednesday,Clear,Poha,Other,Dinner,50.82,48.21,2.61
+2025-05-08,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,50.5,38.35,12.16
+2025-05-09,Friday,Cloudy,Plain Roti,Bread/Roti,Lunch,42.19,36.99,5.2
+2025-05-09,Friday,Cloudy,Gulab Jamun,Dessert,Breakfast,41.83,37.96,3.87
+2025-05-09,Friday,Cloudy,Gulab Jamun,Dessert,Dinner,40.15,31.16,8.99
+2025-05-10,Saturday,Light Rain,Dal Makhani,Curry/Dal,Lunch,56.82,42.56,14.26
+2025-05-10,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,40.73,29.24,11.5
+2025-05-10,Saturday,Light Rain,Jeera Rice,Rice,Lunch,58.71,39.17,19.53
+2025-05-11,Sunday,Clear,Jeera Rice,Rice,Breakfast,45.1,31.27,13.83
+2025-05-11,Sunday,Clear,Mix Veg,Dry Veg,Lunch,51.36,31.42,19.94
+2025-05-12,Monday,Light Rain,Gulab Jamun,Dessert,Breakfast,53.34,46.66,6.69
+2025-05-12,Monday,Light Rain,Mix Veg,Dry Veg,Lunch,48.32,31.69,16.63
+2025-05-13,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,54.63,42.76,11.87
+2025-05-13,Tuesday,Light Rain,Plain Roti,Bread/Roti,Breakfast,46.79,37.02,9.77
+2025-05-14,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,49.34,33.46,15.89
+2025-05-14,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,57.54,46.93,10.61
+2025-05-15,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,55.64,43.67,11.98
+2025-05-15,Thursday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,52.08,40.31,11.77
+2025-05-15,Thursday,Light Rain,Palak Paneer,Curry/Dal,Lunch,56.77,48.5,8.28
+2025-05-16,Friday,Clear,Aloo Gobhi,Dry Veg,Lunch,44.42,31.84,12.59
+2025-05-16,Friday,Clear,Palak Paneer,Curry/Dal,Lunch,46.48,43.94,2.54
+2025-05-17,Saturday,Light Rain,Dal Makhani,Curry/Dal,Lunch,49.51,33.01,16.51
+2025-05-17,Saturday,Light Rain,Gulab Jamun,Dessert,Lunch,40.08,31.46,8.62
+2025-05-17,Saturday,Light Rain,Palak Paneer,Curry/Dal,Dinner,55.75,32.45,23.3
+2025-05-18,Sunday,Cloudy,Poha,Other,Breakfast,41.01,28.3,12.71
+2025-05-18,Sunday,Cloudy,Mix Veg,Dry Veg,Breakfast,47.43,26.53,20.9
+2025-05-19,Monday,Light Rain,Gulab Jamun,Dessert,Dinner,51.5,48.37,3.13
+2025-05-19,Monday,Light Rain,Plain Roti,Bread/Roti,Dinner,41.67,39.11,2.56
+2025-05-20,Tuesday,Clear,Poha,Other,Lunch,50.54,40.94,9.6
+2025-05-20,Tuesday,Clear,Palak Paneer,Curry/Dal,Dinner,54.45,38.33,16.11
+2025-05-21,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Dinner,47.91,38.18,9.73
+2025-05-21,Wednesday,Heavy Rain,Poha,Other,Dinner,56.17,37.84,18.34
+2025-05-22,Thursday,Light Rain,Gulab Jamun,Dessert,Dinner,41.4,32.41,8.98
+2025-05-23,Friday,Light Rain,Palak Paneer,Curry/Dal,Dinner,43.46,32.91,10.55
+2025-05-23,Friday,Light Rain,Poha,Other,Breakfast,54.46,51.63,2.83
+2025-05-24,Saturday,Clear,Gulab Jamun,Dessert,Lunch,48.63,37.17,11.46
+2025-05-24,Saturday,Clear,Plain Roti,Bread/Roti,Breakfast,54.16,30.51,23.65
+2025-05-25,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,44.08,21.88,22.2
+2025-05-26,Monday,Cloudy,Mix Veg,Dry Veg,Lunch,51.31,43.39,7.91
+2025-05-26,Monday,Cloudy,Plain Roti,Bread/Roti,Dinner,59.79,49.17,10.61
+2025-05-26,Monday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,44.23,38.45,5.78
+2025-05-27,Tuesday,Clear,Dal Makhani,Curry/Dal,Breakfast,40.8,34.98,5.82
+2025-05-27,Tuesday,Clear,Aloo Gobhi,Dry Veg,Dinner,48.9,36.48,12.41
+2025-05-27,Tuesday,Clear,Jeera Rice,Rice,Breakfast,57.97,42.95,15.02
+2025-05-28,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,43.71,36.72,6.99
+2025-05-28,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Dinner,58.74,43.05,15.7
+2025-05-28,Wednesday,Heavy Rain,Jeera Rice,Rice,Dinner,59.42,39.79,19.63
+2025-05-29,Thursday,Cloudy,Poha,Other,Breakfast,40.46,29.64,10.82
+2025-05-29,Thursday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,41.38,30.08,11.3
+2025-05-29,Thursday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,44.76,35.52,9.24
+2025-05-30,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,55.34,35.13,20.21
+2025-05-30,Friday,Heavy Rain,Jeera Rice,Rice,Lunch,48.89,40.04,8.86
+2025-05-30,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,55.09,34.2,20.89
+2025-05-31,Saturday,Cloudy,Dal Makhani,Curry/Dal,Lunch,44.27,30.4,13.87
+2025-05-31,Saturday,Cloudy,Jeera Rice,Rice,Breakfast,42.03,32.44,9.59
+2025-05-31,Saturday,Cloudy,Palak Paneer,Curry/Dal,Dinner,55.65,41.23,14.43
+2025-06-01,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,47.84,34.78,13.06
+2025-06-02,Monday,Clear,Aloo Gobhi,Dry Veg,Lunch,44.13,38.73,5.4
+2025-06-03,Tuesday,Cloudy,Gulab Jamun,Dessert,Lunch,45.48,33.54,11.94
+2025-06-03,Tuesday,Cloudy,Plain Roti,Bread/Roti,Lunch,49.5,35.4,14.1
+2025-06-03,Tuesday,Cloudy,Plain Roti,Bread/Roti,Lunch,43.52,40.09,3.43
+2025-06-04,Wednesday,Cloudy,Jeera Rice,Rice,Breakfast,53.79,46.3,7.49
+2025-06-04,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,59.58,53.69,5.89
+2025-06-04,Wednesday,Cloudy,Plain Roti,Bread/Roti,Breakfast,49.1,37.31,11.8
+2025-06-05,Thursday,Cloudy,Poha,Other,Lunch,45.43,40.48,4.95
+2025-06-05,Thursday,Cloudy,Palak Paneer,Curry/Dal,Dinner,53.39,44.71,8.68
+2025-06-06,Friday,Heavy Rain,Poha,Other,Breakfast,40.24,33.98,6.25
+2025-06-06,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,54.35,32.79,21.56
+2025-06-06,Friday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,47.86,34.0,13.85
+2025-06-07,Saturday,Light Rain,Mix Veg,Dry Veg,Lunch,48.54,23.87,24.67
+2025-06-08,Sunday,Clear,Gulab Jamun,Dessert,Lunch,53.43,38.14,15.28
+2025-06-08,Sunday,Clear,Dal Makhani,Curry/Dal,Dinner,57.97,35.42,22.55
+2025-06-08,Sunday,Clear,Poha,Other,Lunch,59.68,33.83,25.85
+2025-06-09,Monday,Heavy Rain,Mix Veg,Dry Veg,Lunch,49.17,31.26,17.91
+2025-06-09,Monday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,40.63,32.02,8.61
+2025-06-09,Monday,Heavy Rain,Mix Veg,Dry Veg,Lunch,40.7,20.42,20.28
+2025-06-10,Tuesday,Light Rain,Jeera Rice,Rice,Breakfast,56.35,42.95,13.41
+2025-06-10,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,42.35,31.94,10.41
+2025-06-10,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Lunch,56.19,48.57,7.63
+2025-06-11,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Lunch,55.85,46.11,9.74
+2025-06-12,Thursday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,49.97,26.79,23.18
+2025-06-13,Friday,Clear,Jeera Rice,Rice,Dinner,43.31,31.76,11.55
+2025-06-13,Friday,Clear,Mix Veg,Dry Veg,Lunch,57.84,45.45,12.39
+2025-06-13,Friday,Clear,Dal Makhani,Curry/Dal,Lunch,54.82,47.06,7.76
+2025-06-14,Saturday,Clear,Mix Veg,Dry Veg,Lunch,47.9,23.36,24.54
+2025-06-14,Saturday,Clear,Aloo Gobhi,Dry Veg,Lunch,57.33,39.19,18.13
+2025-06-14,Saturday,Clear,Plain Roti,Bread/Roti,Breakfast,50.35,39.65,10.69
+2025-06-15,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,40.73,28.74,11.99
+2025-06-16,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,41.84,30.3,11.54
+2025-06-16,Monday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,50.1,33.34,16.76
+2025-06-16,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,54.34,33.05,21.29
+2025-06-17,Tuesday,Cloudy,Poha,Other,Dinner,57.98,48.34,9.64
+2025-06-17,Tuesday,Cloudy,Palak Paneer,Curry/Dal,Lunch,48.23,38.04,10.18
+2025-06-17,Tuesday,Cloudy,Gulab Jamun,Dessert,Dinner,42.75,33.43,9.32
+2025-06-18,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,57.74,39.72,18.02
+2025-06-18,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,50.54,38.6,11.94
+2025-06-19,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,55.84,46.64,9.2
+2025-06-19,Thursday,Clear,Gulab Jamun,Dessert,Dinner,57.29,40.85,16.45
+2025-06-19,Thursday,Clear,Plain Roti,Bread/Roti,Dinner,41.34,35.53,5.81
+2025-06-20,Friday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,44.17,29.7,14.46
+2025-06-20,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,59.03,48.91,10.12
+2025-06-20,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,53.66,36.98,16.68
+2025-06-21,Saturday,Light Rain,Dal Makhani,Curry/Dal,Lunch,49.41,31.14,18.27
+2025-06-22,Sunday,Cloudy,Mix Veg,Dry Veg,Dinner,47.6,31.69,15.9
+2025-06-22,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,49.82,32.29,17.53
+2025-06-22,Sunday,Cloudy,Gulab Jamun,Dessert,Lunch,50.45,31.95,18.5
+2025-06-23,Monday,Cloudy,Gulab Jamun,Dessert,Lunch,50.53,47.52,3.01
+2025-06-23,Monday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,59.95,47.27,12.67
+2025-06-24,Tuesday,Light Rain,Mix Veg,Dry Veg,Lunch,43.22,34.23,8.99
+2025-06-25,Wednesday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,48.09,41.29,6.8
+2025-06-25,Wednesday,Light Rain,Plain Roti,Bread/Roti,Lunch,59.76,43.02,16.74
+2025-06-26,Thursday,Light Rain,Palak Paneer,Curry/Dal,Lunch,56.32,40.86,15.46
+2025-06-26,Thursday,Light Rain,Poha,Other,Dinner,54.77,48.09,6.68
+2025-06-27,Friday,Light Rain,Plain Roti,Bread/Roti,Lunch,57.89,42.63,15.26
+2025-06-28,Saturday,Clear,Dal Makhani,Curry/Dal,Breakfast,47.05,33.78,13.27
+2025-06-29,Sunday,Heavy Rain,Poha,Other,Breakfast,41.76,27.76,13.99
+2025-06-30,Monday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,52.04,42.45,9.59
+2025-06-30,Monday,Heavy Rain,Gulab Jamun,Dessert,Lunch,59.76,40.22,19.54
+2025-07-01,Tuesday,Cloudy,Palak Paneer,Curry/Dal,Dinner,59.51,54.43,5.08
+2025-07-01,Tuesday,Cloudy,Mix Veg,Dry Veg,Breakfast,44.98,34.94,10.04
+2025-07-02,Wednesday,Clear,Gulab Jamun,Dessert,Dinner,55.34,43.91,11.43
+2025-07-02,Wednesday,Clear,Dal Makhani,Curry/Dal,Breakfast,54.46,51.08,3.38
+2025-07-03,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,47.42,35.39,12.03
+2025-07-03,Thursday,Clear,Mix Veg,Dry Veg,Lunch,48.08,34.9,13.19
+2025-07-04,Friday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,43.21,31.7,11.51
+2025-07-04,Friday,Light Rain,Palak Paneer,Curry/Dal,Lunch,55.04,40.48,14.56
+2025-07-05,Saturday,Heavy Rain,Mix Veg,Dry Veg,Lunch,49.29,21.16,28.13
+2025-07-05,Saturday,Heavy Rain,Poha,Other,Dinner,56.07,34.76,21.31
+2025-07-06,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,52.69,32.92,19.77
+2025-07-07,Monday,Light Rain,Gulab Jamun,Dessert,Lunch,51.22,45.46,5.76
+2025-07-07,Monday,Light Rain,Poha,Other,Lunch,57.5,41.21,16.29
+2025-07-07,Monday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,41.82,30.05,11.77
+2025-07-08,Tuesday,Clear,Plain Roti,Bread/Roti,Dinner,48.84,41.5,7.34
+2025-07-09,Wednesday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,55.38,49.76,5.63
+2025-07-09,Wednesday,Light Rain,Plain Roti,Bread/Roti,Lunch,58.52,44.06,14.45
+2025-07-10,Thursday,Cloudy,Dal Makhani,Curry/Dal,Lunch,45.06,33.72,11.33
+2025-07-10,Thursday,Cloudy,Plain Roti,Bread/Roti,Breakfast,42.48,32.91,9.57
+2025-07-11,Friday,Cloudy,Plain Roti,Bread/Roti,Breakfast,50.11,35.25,14.86
+2025-07-11,Friday,Cloudy,Palak Paneer,Curry/Dal,Lunch,50.61,45.72,4.89
+2025-07-12,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,42.59,27.92,14.67
+2025-07-12,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,51.76,25.18,26.57
+2025-07-13,Sunday,Cloudy,Gulab Jamun,Dessert,Breakfast,52.54,33.79,18.75
+2025-07-13,Sunday,Cloudy,Gulab Jamun,Dessert,Lunch,51.3,34.98,16.32
+2025-07-13,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,58.51,33.65,24.86
+2025-07-14,Monday,Cloudy,Jeera Rice,Rice,Dinner,53.13,42.39,10.74
+2025-07-14,Monday,Cloudy,Gulab Jamun,Dessert,Breakfast,54.69,50.94,3.76
+2025-07-15,Tuesday,Cloudy,Poha,Other,Dinner,56.61,48.58,8.03
+2025-07-15,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Dinner,51.09,44.69,6.4
+2025-07-16,Wednesday,Heavy Rain,Poha,Other,Lunch,51.1,39.85,11.25
+2025-07-16,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Lunch,48.96,33.67,15.29
+2025-07-16,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,45.65,27.44,18.22
+2025-07-17,Thursday,Light Rain,Dal Makhani,Curry/Dal,Dinner,55.61,47.71,7.9
+2025-07-17,Thursday,Light Rain,Dal Makhani,Curry/Dal,Lunch,41.57,35.68,5.89
+2025-07-17,Thursday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,58.38,50.75,7.63
+2025-07-18,Friday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,58.25,40.94,17.31
+2025-07-18,Friday,Light Rain,Poha,Other,Breakfast,41.3,35.55,5.75
+2025-07-19,Saturday,Cloudy,Plain Roti,Bread/Roti,Lunch,49.5,34.21,15.29
+2025-07-20,Sunday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,43.98,29.2,14.78
+2025-07-20,Sunday,Cloudy,Jeera Rice,Rice,Breakfast,59.91,46.62,13.3
+2025-07-20,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,53.0,33.8,19.2
+2025-07-21,Monday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,53.49,42.57,10.92
+2025-07-21,Monday,Light Rain,Mix Veg,Dry Veg,Lunch,49.63,34.21,15.42
+2025-07-22,Tuesday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,45.46,35.52,9.95
+2025-07-22,Tuesday,Heavy Rain,Gulab Jamun,Dessert,Dinner,52.37,32.45,19.93
+2025-07-23,Wednesday,Heavy Rain,Jeera Rice,Rice,Dinner,43.04,27.7,15.34
+2025-07-23,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,50.18,42.15,8.03
+2025-07-23,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,58.24,45.41,12.83
+2025-07-24,Thursday,Light Rain,Plain Roti,Bread/Roti,Breakfast,48.59,44.58,4.02
+2025-07-24,Thursday,Light Rain,Palak Paneer,Curry/Dal,Lunch,45.66,39.81,5.85
+2025-07-24,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,50.58,43.15,7.43
+2025-07-25,Friday,Light Rain,Plain Roti,Bread/Roti,Lunch,49.43,40.09,9.34
+2025-07-25,Friday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,47.2,43.1,4.1
+2025-07-25,Friday,Light Rain,Plain Roti,Bread/Roti,Lunch,40.88,33.57,7.31
+2025-07-26,Saturday,Light Rain,Poha,Other,Dinner,42.97,33.22,9.75
+2025-07-26,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,41.45,25.25,16.2
+2025-07-27,Sunday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,53.21,26.14,27.06
+2025-07-27,Sunday,Heavy Rain,Gulab Jamun,Dessert,Dinner,55.58,30.6,24.98
+2025-07-28,Monday,Clear,Jeera Rice,Rice,Breakfast,48.23,38.22,10.01
+2025-07-28,Monday,Clear,Aloo Gobhi,Dry Veg,Lunch,52.71,42.61,10.1
+2025-07-28,Monday,Clear,Aloo Gobhi,Dry Veg,Breakfast,58.47,45.51,12.96
+2025-07-29,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Lunch,52.82,39.85,12.97
+2025-07-29,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Dinner,59.0,54.6,4.4
+2025-07-30,Wednesday,Clear,Dal Makhani,Curry/Dal,Dinner,48.39,39.86,8.52
+2025-07-31,Thursday,Heavy Rain,Mix Veg,Dry Veg,Dinner,53.9,37.07,16.83
+2025-08-01,Friday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,40.11,28.26,11.84
+2025-08-01,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,43.08,29.31,13.77
+2025-08-01,Friday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,51.61,30.05,21.56
+2025-08-02,Saturday,Cloudy,Palak Paneer,Curry/Dal,Lunch,48.58,28.58,20.01
+2025-08-02,Saturday,Cloudy,Palak Paneer,Curry/Dal,Lunch,47.39,33.6,13.79
+2025-08-02,Saturday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,57.56,32.48,25.08
+2025-08-03,Sunday,Light Rain,Palak Paneer,Curry/Dal,Lunch,50.33,28.11,22.22
+2025-08-03,Sunday,Light Rain,Mix Veg,Dry Veg,Dinner,47.02,30.61,16.41
+2025-08-03,Sunday,Light Rain,Jeera Rice,Rice,Dinner,49.94,36.28,13.65
+2025-08-04,Monday,Cloudy,Plain Roti,Bread/Roti,Dinner,48.97,42.72,6.25
+2025-08-04,Monday,Cloudy,Palak Paneer,Curry/Dal,Lunch,47.03,37.73,9.3
+2025-08-05,Tuesday,Light Rain,Plain Roti,Bread/Roti,Breakfast,52.24,48.22,4.03
+2025-08-06,Wednesday,Heavy Rain,Jeera Rice,Rice,Dinner,42.87,36.36,6.52
+2025-08-06,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,58.08,41.64,16.44
+2025-08-06,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,41.06,34.09,6.97
+2025-08-07,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,41.12,35.28,5.84
+2025-08-07,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,57.69,50.48,7.22
+2025-08-08,Friday,Light Rain,Palak Paneer,Curry/Dal,Dinner,43.52,40.15,3.37
+2025-08-08,Friday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,52.38,38.11,14.28
+2025-08-08,Friday,Light Rain,Plain Roti,Bread/Roti,Breakfast,53.4,49.54,3.86
+2025-08-09,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,45.34,25.82,19.52
+2025-08-09,Saturday,Heavy Rain,Poha,Other,Breakfast,42.02,20.08,21.95
+2025-08-10,Sunday,Heavy Rain,Gulab Jamun,Dessert,Lunch,59.97,29.1,30.87
+2025-08-10,Sunday,Heavy Rain,Mix Veg,Dry Veg,Lunch,45.0,22.4,22.6
+2025-08-11,Monday,Light Rain,Poha,Other,Breakfast,51.33,43.04,8.28
+2025-08-11,Monday,Light Rain,Jeera Rice,Rice,Dinner,53.57,40.83,12.75
+2025-08-12,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,50.15,42.85,7.3
+2025-08-12,Tuesday,Light Rain,Poha,Other,Lunch,58.95,48.51,10.44
+2025-08-13,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,44.57,32.74,11.83
+2025-08-13,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,47.73,31.22,16.5
+2025-08-13,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,48.26,27.53,20.74
+2025-08-14,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,46.82,37.92,8.9
+2025-08-14,Thursday,Clear,Poha,Other,Lunch,59.71,52.85,6.86
+2025-08-14,Thursday,Clear,Plain Roti,Bread/Roti,Breakfast,54.95,47.03,7.92
+2025-08-15,Friday,Cloudy,Plain Roti,Bread/Roti,Dinner,59.17,43.63,15.55
+2025-08-15,Friday,Cloudy,Mix Veg,Dry Veg,Breakfast,40.06,32.11,7.95
+2025-08-16,Saturday,Clear,Gulab Jamun,Dessert,Breakfast,44.68,26.62,18.06
+2025-08-16,Saturday,Clear,Mix Veg,Dry Veg,Lunch,40.6,25.97,14.64
+2025-08-17,Sunday,Clear,Jeera Rice,Rice,Breakfast,58.22,38.88,19.33
+2025-08-17,Sunday,Clear,Gulab Jamun,Dessert,Breakfast,43.63,34.6,9.03
+2025-08-17,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,47.08,30.53,16.55
+2025-08-18,Monday,Cloudy,Mix Veg,Dry Veg,Breakfast,50.35,35.06,15.3
+2025-08-19,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Dinner,51.6,43.56,8.04
+2025-08-20,Wednesday,Cloudy,Poha,Other,Lunch,43.33,36.32,7.01
+2025-08-20,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Lunch,49.95,41.89,8.05
+2025-08-21,Thursday,Cloudy,Palak Paneer,Curry/Dal,Lunch,41.98,33.26,8.72
+2025-08-21,Thursday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,47.4,38.82,8.58
+2025-08-21,Thursday,Cloudy,Gulab Jamun,Dessert,Dinner,46.17,32.43,13.74
+2025-08-22,Friday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,55.76,40.96,14.8
+2025-08-23,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,55.14,28.74,26.39
+2025-08-23,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,41.05,19.24,21.81
+2025-08-24,Sunday,Light Rain,Poha,Other,Dinner,52.01,31.58,20.43
+2025-08-24,Sunday,Light Rain,Palak Paneer,Curry/Dal,Dinner,56.51,42.13,14.38
+2025-08-25,Monday,Clear,Mix Veg,Dry Veg,Lunch,56.69,39.1,17.59
+2025-08-25,Monday,Clear,Poha,Other,Lunch,40.43,29.44,10.99
+2025-08-26,Tuesday,Cloudy,Mix Veg,Dry Veg,Breakfast,46.27,37.67,8.59
+2025-08-26,Tuesday,Cloudy,Poha,Other,Dinner,56.72,51.38,5.35
+2025-08-26,Tuesday,Cloudy,Poha,Other,Lunch,53.46,45.01,8.45
+2025-08-27,Wednesday,Clear,Poha,Other,Breakfast,53.1,47.45,5.65
+2025-08-28,Thursday,Light Rain,Poha,Other,Lunch,49.05,42.67,6.38
+2025-08-28,Thursday,Light Rain,Plain Roti,Bread/Roti,Lunch,45.31,37.97,7.34
+2025-08-28,Thursday,Light Rain,Mix Veg,Dry Veg,Dinner,41.7,31.39,10.3
+2025-08-29,Friday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,52.52,38.67,13.85
+2025-08-29,Friday,Light Rain,Plain Roti,Bread/Roti,Breakfast,50.61,42.47,8.14
+2025-08-30,Saturday,Cloudy,Plain Roti,Bread/Roti,Breakfast,58.85,40.8,18.05
+2025-08-30,Saturday,Cloudy,Poha,Other,Lunch,52.06,40.1,11.96
+2025-08-31,Sunday,Cloudy,Dal Makhani,Curry/Dal,Dinner,52.49,40.7,11.79
+2025-08-31,Sunday,Cloudy,Palak Paneer,Curry/Dal,Lunch,47.66,37.84,9.82
+2025-08-31,Sunday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,52.37,35.62,16.76
+2025-09-01,Monday,Clear,Mix Veg,Dry Veg,Dinner,44.97,30.79,14.17
+2025-09-01,Monday,Clear,Mix Veg,Dry Veg,Breakfast,51.88,43.71,8.17
+2025-09-01,Monday,Clear,Dal Makhani,Curry/Dal,Dinner,47.09,41.54,5.54
+2025-09-02,Tuesday,Clear,Palak Paneer,Curry/Dal,Lunch,55.75,41.19,14.56
+2025-09-02,Tuesday,Clear,Gulab Jamun,Dessert,Dinner,53.36,43.64,9.72
+2025-09-03,Wednesday,Cloudy,Mix Veg,Dry Veg,Breakfast,41.44,33.97,7.47
+2025-09-04,Thursday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,57.73,41.79,15.94
+2025-09-05,Friday,Clear,Jeera Rice,Rice,Breakfast,42.02,33.18,8.84
+2025-09-05,Friday,Clear,Gulab Jamun,Dessert,Breakfast,54.34,42.37,11.98
+2025-09-05,Friday,Clear,Aloo Gobhi,Dry Veg,Lunch,50.61,44.22,6.39
+2025-09-06,Saturday,Clear,Jeera Rice,Rice,Lunch,52.32,40.66,11.65
+2025-09-06,Saturday,Clear,Mix Veg,Dry Veg,Dinner,55.07,31.2,23.88
+2025-09-07,Sunday,Clear,Palak Paneer,Curry/Dal,Breakfast,49.98,34.77,15.22
+2025-09-07,Sunday,Clear,Aloo Gobhi,Dry Veg,Breakfast,52.05,30.45,21.6
+2025-09-07,Sunday,Clear,Plain Roti,Bread/Roti,Lunch,51.77,39.73,12.05
+2025-09-08,Monday,Heavy Rain,Gulab Jamun,Dessert,Dinner,44.71,27.1,17.6
+2025-09-08,Monday,Heavy Rain,Gulab Jamun,Dessert,Lunch,44.43,28.26,16.17
+2025-09-08,Monday,Heavy Rain,Gulab Jamun,Dessert,Dinner,50.44,37.81,12.63
+2025-09-09,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,45.92,32.37,13.55
+2025-09-09,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,58.42,35.4,23.02
+2025-09-09,Tuesday,Heavy Rain,Poha,Other,Breakfast,54.54,35.22,19.32
+2025-09-10,Wednesday,Light Rain,Jeera Rice,Rice,Breakfast,40.8,34.5,6.3
+2025-09-11,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,59.17,50.45,8.71
+2025-09-11,Thursday,Light Rain,Plain Roti,Bread/Roti,Breakfast,54.15,39.7,14.45
+2025-09-11,Thursday,Light Rain,Poha,Other,Lunch,50.68,39.75,10.92
+2025-09-12,Friday,Cloudy,Dal Makhani,Curry/Dal,Dinner,42.98,33.77,9.21
+2025-09-13,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,46.9,24.77,22.13
+2025-09-13,Saturday,Heavy Rain,Poha,Other,Dinner,50.9,25.54,25.36
+2025-09-13,Saturday,Heavy Rain,Poha,Other,Dinner,57.49,32.19,25.3
+2025-09-14,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,40.75,24.31,16.44
+2025-09-15,Monday,Clear,Palak Paneer,Curry/Dal,Dinner,46.88,43.33,3.55
+2025-09-15,Monday,Clear,Plain Roti,Bread/Roti,Breakfast,56.59,51.02,5.58
+2025-09-16,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,40.8,32.9,7.91
+2025-09-16,Tuesday,Cloudy,Mix Veg,Dry Veg,Lunch,45.37,35.6,9.77
+2025-09-17,Wednesday,Light Rain,Mix Veg,Dry Veg,Lunch,41.52,33.57,7.95
+2025-09-17,Wednesday,Light Rain,Palak Paneer,Curry/Dal,Lunch,44.86,42.56,2.31
+2025-09-17,Wednesday,Light Rain,Plain Roti,Bread/Roti,Dinner,57.31,45.39,11.92
+2025-09-18,Thursday,Clear,Plain Roti,Bread/Roti,Lunch,50.76,48.16,2.6
+2025-09-18,Thursday,Clear,Mix Veg,Dry Veg,Breakfast,40.26,30.95,9.31
+2025-09-19,Friday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,41.87,30.72,11.14
+2025-09-19,Friday,Cloudy,Gulab Jamun,Dessert,Lunch,50.68,47.55,3.13
+2025-09-20,Saturday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,50.04,30.69,19.35
+2025-09-20,Saturday,Cloudy,Plain Roti,Bread/Roti,Lunch,54.26,31.23,23.03
+2025-09-20,Saturday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,53.9,30.15,23.76
+2025-09-21,Sunday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,41.66,22.0,19.66
+2025-09-22,Monday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,41.5,33.14,8.37
+2025-09-23,Tuesday,Clear,Mix Veg,Dry Veg,Breakfast,53.99,42.54,11.45
+2025-09-23,Tuesday,Clear,Dal Makhani,Curry/Dal,Lunch,59.32,42.43,16.89
+2025-09-23,Tuesday,Clear,Poha,Other,Dinner,56.82,42.55,14.27
+2025-09-24,Wednesday,Clear,Palak Paneer,Curry/Dal,Breakfast,51.7,39.89,11.81
+2025-09-24,Wednesday,Clear,Palak Paneer,Curry/Dal,Breakfast,56.22,40.78,15.43
+2025-09-24,Wednesday,Clear,Palak Paneer,Curry/Dal,Lunch,53.92,39.16,14.76
+2025-09-25,Thursday,Cloudy,Jeera Rice,Rice,Lunch,50.64,39.51,11.13
+2025-09-26,Friday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,58.89,54.56,4.33
+2025-09-26,Friday,Light Rain,Dal Makhani,Curry/Dal,Dinner,58.19,41.43,16.76
+2025-09-27,Saturday,Light Rain,Gulab Jamun,Dessert,Dinner,50.11,34.03,16.08
+2025-09-27,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,41.63,31.89,9.74
+2025-09-28,Sunday,Light Rain,Jeera Rice,Rice,Breakfast,52.36,29.58,22.78
+2025-09-28,Sunday,Light Rain,Poha,Other,Breakfast,42.38,26.24,16.14
+2025-09-29,Monday,Cloudy,Dal Makhani,Curry/Dal,Dinner,47.75,43.45,4.3
+2025-09-30,Tuesday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,52.23,38.09,14.14
+2025-09-30,Tuesday,Heavy Rain,Jeera Rice,Rice,Lunch,43.54,36.33,7.21
+2025-10-01,Wednesday,Cloudy,Plain Roti,Bread/Roti,Lunch,47.99,40.4,7.59
+2025-10-01,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Dinner,52.88,41.28,11.6
+2025-10-01,Wednesday,Cloudy,Gulab Jamun,Dessert,Dinner,55.37,45.98,9.39
+2025-10-02,Thursday,Cloudy,Poha,Other,Dinner,49.36,37.68,11.68
+2025-10-03,Friday,Light Rain,Dal Makhani,Curry/Dal,Dinner,41.04,38.2,2.84
+2025-10-03,Friday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,52.11,48.96,3.15
+2025-10-04,Saturday,Clear,Aloo Gobhi,Dry Veg,Lunch,58.32,44.32,14.0
+2025-10-05,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,52.57,28.82,23.75
+2025-10-05,Sunday,Clear,Mix Veg,Dry Veg,Dinner,57.32,27.28,30.04
+2025-10-05,Sunday,Clear,Plain Roti,Bread/Roti,Breakfast,49.13,30.57,18.56
+2025-10-06,Monday,Heavy Rain,Jeera Rice,Rice,Dinner,44.47,29.42,15.06
+2025-10-07,Tuesday,Clear,Aloo Gobhi,Dry Veg,Lunch,59.82,47.52,12.3
+2025-10-07,Tuesday,Clear,Jeera Rice,Rice,Dinner,50.47,36.99,13.49
+2025-10-07,Tuesday,Clear,Mix Veg,Dry Veg,Lunch,55.04,33.84,21.2
+2025-10-08,Wednesday,Clear,Plain Roti,Bread/Roti,Dinner,45.61,33.89,11.73
+2025-10-09,Thursday,Clear,Poha,Other,Dinner,46.74,37.34,9.4
+2025-10-10,Friday,Light Rain,Mix Veg,Dry Veg,Lunch,59.68,44.0,15.69
+2025-10-10,Friday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,55.93,49.42,6.51
+2025-10-10,Friday,Light Rain,Poha,Other,Breakfast,45.07,37.31,7.76
+2025-10-11,Saturday,Heavy Rain,Poha,Other,Breakfast,40.06,26.18,13.88
+2025-10-12,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,49.23,25.22,24.01
+2025-10-13,Monday,Clear,Aloo Gobhi,Dry Veg,Lunch,42.49,36.66,5.83
+2025-10-13,Monday,Clear,Poha,Other,Lunch,41.34,37.3,4.04
+2025-10-14,Tuesday,Clear,Palak Paneer,Curry/Dal,Breakfast,50.33,45.85,4.48
+2025-10-14,Tuesday,Clear,Mix Veg,Dry Veg,Dinner,52.34,32.63,19.71
+2025-10-15,Wednesday,Heavy Rain,Poha,Other,Breakfast,48.01,29.89,18.12
+2025-10-16,Thursday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,56.33,37.58,18.75
+2025-10-17,Friday,Heavy Rain,Mix Veg,Dry Veg,Lunch,53.42,30.53,22.89
+2025-10-17,Friday,Heavy Rain,Poha,Other,Dinner,51.28,40.13,11.15
+2025-10-18,Saturday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,45.22,26.51,18.71
+2025-10-19,Sunday,Clear,Plain Roti,Bread/Roti,Breakfast,55.58,36.42,19.17
+2025-10-20,Monday,Clear,Plain Roti,Bread/Roti,Lunch,51.98,39.71,12.28
+2025-10-21,Tuesday,Cloudy,Poha,Other,Lunch,52.24,46.83,5.41
+2025-10-21,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,49.08,35.2,13.88
+2025-10-21,Tuesday,Cloudy,Gulab Jamun,Dessert,Dinner,48.3,38.33,9.98
+2025-10-22,Wednesday,Light Rain,Dal Makhani,Curry/Dal,Lunch,44.85,37.63,7.22
+2025-10-22,Wednesday,Light Rain,Jeera Rice,Rice,Lunch,58.84,47.12,11.72
+2025-10-22,Wednesday,Light Rain,Mix Veg,Dry Veg,Dinner,55.49,35.2,20.29
+2025-10-23,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,43.73,32.37,11.36
+2025-10-23,Thursday,Light Rain,Gulab Jamun,Dessert,Breakfast,57.24,53.56,3.68
+2025-10-23,Thursday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,44.64,40.59,4.05
+2025-10-24,Friday,Light Rain,Palak Paneer,Curry/Dal,Lunch,43.91,39.11,4.79
+2025-10-25,Saturday,Cloudy,Gulab Jamun,Dessert,Lunch,42.41,23.65,18.76
+2025-10-25,Saturday,Cloudy,Dal Makhani,Curry/Dal,Dinner,40.7,23.1,17.6
+2025-10-25,Saturday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,42.61,29.88,12.73
+2025-10-26,Sunday,Clear,Palak Paneer,Curry/Dal,Breakfast,50.38,27.8,22.58
+2025-10-27,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,55.73,45.55,10.17
+2025-10-27,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,52.32,35.45,16.87
+2025-10-28,Tuesday,Light Rain,Plain Roti,Bread/Roti,Dinner,53.33,41.05,12.27
+2025-10-28,Tuesday,Light Rain,Jeera Rice,Rice,Dinner,42.67,33.06,9.61
+2025-10-29,Wednesday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,48.38,35.31,13.06
+2025-10-29,Wednesday,Light Rain,Gulab Jamun,Dessert,Dinner,58.26,42.98,15.28
+2025-10-29,Wednesday,Light Rain,Palak Paneer,Curry/Dal,Lunch,47.93,40.06,7.86
+2025-10-30,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,53.96,32.39,21.57
+2025-10-30,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,56.07,36.19,19.88
+2025-10-30,Thursday,Heavy Rain,Jeera Rice,Rice,Dinner,54.87,40.2,14.67
+2025-10-31,Friday,Clear,Aloo Gobhi,Dry Veg,Dinner,44.01,31.33,12.68
+2025-10-31,Friday,Clear,Poha,Other,Lunch,49.92,42.31,7.61
+2025-10-31,Friday,Clear,Mix Veg,Dry Veg,Lunch,46.27,31.5,14.77
+2025-11-01,Saturday,Heavy Rain,Jeera Rice,Rice,Breakfast,49.44,33.32,16.12
+2025-11-01,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,47.19,30.89,16.3
+2025-11-01,Saturday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,44.14,22.72,21.41
+2025-11-02,Sunday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,45.89,28.76,17.13
+2025-11-03,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,45.1,31.98,13.13
+2025-11-04,Tuesday,Light Rain,Dal Makhani,Curry/Dal,Dinner,54.92,43.54,11.38
+2025-11-04,Tuesday,Light Rain,Jeera Rice,Rice,Dinner,51.01,38.29,12.73
+2025-11-04,Tuesday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,47.88,44.8,3.08
+2025-11-05,Wednesday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,54.2,27.53,26.67
+2025-11-06,Thursday,Light Rain,Jeera Rice,Rice,Lunch,46.93,40.1,6.83
+2025-11-06,Thursday,Light Rain,Mix Veg,Dry Veg,Lunch,51.52,40.27,11.25
+2025-11-06,Thursday,Light Rain,Poha,Other,Breakfast,51.88,45.39,6.49
+2025-11-07,Friday,Clear,Plain Roti,Bread/Roti,Breakfast,42.36,39.39,2.97
+2025-11-07,Friday,Clear,Palak Paneer,Curry/Dal,Lunch,44.45,41.81,2.64
+2025-11-07,Friday,Clear,Jeera Rice,Rice,Dinner,59.78,44.21,15.57
+2025-11-08,Saturday,Clear,Dal Makhani,Curry/Dal,Dinner,54.03,34.54,19.49
+2025-11-08,Saturday,Clear,Mix Veg,Dry Veg,Breakfast,54.8,36.9,17.9
+2025-11-08,Saturday,Clear,Poha,Other,Dinner,53.86,31.07,22.79
+2025-11-09,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,59.91,44.82,15.08
+2025-11-09,Sunday,Light Rain,Poha,Other,Lunch,46.42,35.48,10.94
+2025-11-09,Sunday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,56.63,40.93,15.71
+2025-11-10,Monday,Clear,Jeera Rice,Rice,Dinner,41.16,34.01,7.15
+2025-11-10,Monday,Clear,Mix Veg,Dry Veg,Dinner,44.46,35.16,9.3
+2025-11-11,Tuesday,Light Rain,Plain Roti,Bread/Roti,Lunch,58.45,54.39,4.06
+2025-11-12,Wednesday,Cloudy,Gulab Jamun,Dessert,Breakfast,46.65,37.98,8.68
+2025-11-12,Wednesday,Cloudy,Mix Veg,Dry Veg,Lunch,56.05,46.14,9.92
+2025-11-13,Thursday,Cloudy,Jeera Rice,Rice,Lunch,59.37,47.28,12.09
+2025-11-13,Thursday,Cloudy,Poha,Other,Breakfast,40.28,33.33,6.94
+2025-11-14,Friday,Light Rain,Mix Veg,Dry Veg,Breakfast,54.87,38.85,16.02
+2025-11-14,Friday,Light Rain,Gulab Jamun,Dessert,Breakfast,48.03,39.51,8.52
+2025-11-15,Saturday,Clear,Plain Roti,Bread/Roti,Breakfast,58.79,43.19,15.6
+2025-11-16,Sunday,Clear,Palak Paneer,Curry/Dal,Breakfast,47.93,30.86,17.08
+2025-11-17,Monday,Cloudy,Mix Veg,Dry Veg,Dinner,43.02,33.93,9.09
+2025-11-17,Monday,Cloudy,Plain Roti,Bread/Roti,Breakfast,52.66,48.66,4.0
+2025-11-18,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,49.03,45.5,3.53
+2025-11-19,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,41.49,39.11,2.39
+2025-11-19,Wednesday,Cloudy,Mix Veg,Dry Veg,Lunch,52.11,39.85,12.25
+2025-11-20,Thursday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,45.44,38.36,7.08
+2025-11-20,Thursday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,56.3,48.77,7.53
+2025-11-21,Friday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,45.66,42.25,3.41
+2025-11-22,Saturday,Light Rain,Plain Roti,Bread/Roti,Dinner,57.45,38.06,19.39
+2025-11-23,Sunday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,56.15,35.75,20.4
+2025-11-23,Sunday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,57.95,37.38,20.57
+2025-11-23,Sunday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,48.88,32.99,15.88
+2025-11-24,Monday,Light Rain,Poha,Other,Lunch,59.65,54.02,5.63
+2025-11-25,Tuesday,Clear,Jeera Rice,Rice,Breakfast,50.46,41.16,9.3
+2025-11-25,Tuesday,Clear,Dal Makhani,Curry/Dal,Dinner,55.55,42.33,13.21
+2025-11-26,Wednesday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,43.33,26.29,17.05
+2025-11-27,Thursday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,55.11,45.14,9.97
+2025-11-27,Thursday,Cloudy,Gulab Jamun,Dessert,Breakfast,40.34,34.54,5.8
+2025-11-28,Friday,Cloudy,Mix Veg,Dry Veg,Lunch,58.7,46.71,11.99
+2025-11-28,Friday,Cloudy,Jeera Rice,Rice,Breakfast,52.4,37.3,15.09
+2025-11-28,Friday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,54.82,41.97,12.85
+2025-11-29,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,49.68,30.05,19.63
+2025-11-29,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,57.33,27.55,29.77
+2025-11-30,Sunday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,50.61,25.3,25.31
+2025-12-01,Monday,Cloudy,Jeera Rice,Rice,Dinner,54.02,49.84,4.19
+2025-12-01,Monday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,57.69,46.52,11.16
+2025-12-01,Monday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,59.1,56.08,3.02
+2025-12-02,Tuesday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,59.13,47.8,11.33
+2025-12-02,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,47.1,29.02,18.08
+2025-12-03,Wednesday,Clear,Mix Veg,Dry Veg,Breakfast,40.28,26.71,13.57
+2025-12-03,Wednesday,Clear,Jeera Rice,Rice,Dinner,41.49,36.44,5.05
+2025-12-04,Thursday,Cloudy,Jeera Rice,Rice,Breakfast,56.46,49.3,7.16
+2025-12-04,Thursday,Cloudy,Poha,Other,Lunch,51.29,37.67,13.63
+2025-12-04,Thursday,Cloudy,Mix Veg,Dry Veg,Dinner,55.33,42.55,12.78
+2025-12-05,Friday,Light Rain,Plain Roti,Bread/Roti,Breakfast,56.04,53.16,2.89
+2025-12-05,Friday,Light Rain,Poha,Other,Dinner,46.88,35.08,11.8
+2025-12-05,Friday,Light Rain,Plain Roti,Bread/Roti,Dinner,49.88,35.64,14.24
+2025-12-06,Saturday,Heavy Rain,Jeera Rice,Rice,Lunch,51.71,32.23,19.48
+2025-12-07,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,55.8,35.3,20.5
+2025-12-07,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,41.5,23.77,17.73
+2025-12-08,Monday,Clear,Mix Veg,Dry Veg,Breakfast,48.46,31.92,16.54
+2025-12-08,Monday,Clear,Jeera Rice,Rice,Dinner,57.87,49.89,7.98
+2025-12-09,Tuesday,Cloudy,Plain Roti,Bread/Roti,Breakfast,50.77,40.86,9.91
+2025-12-09,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Lunch,47.16,39.51,7.65
+2025-12-10,Wednesday,Clear,Dal Makhani,Curry/Dal,Lunch,40.9,29.25,11.65
+2025-12-10,Wednesday,Clear,Aloo Gobhi,Dry Veg,Dinner,53.1,47.89,5.21
+2025-12-10,Wednesday,Clear,Dal Makhani,Curry/Dal,Dinner,54.37,49.27,5.09
+2025-12-11,Thursday,Light Rain,Gulab Jamun,Dessert,Breakfast,57.66,45.66,12.0
+2025-12-11,Thursday,Light Rain,Poha,Other,Breakfast,48.17,45.59,2.58
+2025-12-11,Thursday,Light Rain,Jeera Rice,Rice,Lunch,49.19,36.04,13.15
+2025-12-12,Friday,Light Rain,Mix Veg,Dry Veg,Breakfast,49.54,30.88,18.66
+2025-12-12,Friday,Light Rain,Aloo Gobhi,Dry Veg,Lunch,48.33,36.09,12.24
+2025-12-12,Friday,Light Rain,Mix Veg,Dry Veg,Lunch,54.93,36.47,18.46
+2025-12-13,Saturday,Light Rain,Plain Roti,Bread/Roti,Lunch,46.05,33.94,12.11
+2025-12-13,Saturday,Light Rain,Gulab Jamun,Dessert,Lunch,52.57,39.34,13.23
+2025-12-13,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,59.02,37.59,21.43
+2025-12-14,Sunday,Heavy Rain,Gulab Jamun,Dessert,Dinner,44.61,26.53,18.08
+2025-12-14,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,55.75,27.69,28.06
+2025-12-15,Monday,Clear,Aloo Gobhi,Dry Veg,Lunch,48.44,43.04,5.4
+2025-12-16,Tuesday,Clear,Mix Veg,Dry Veg,Dinner,52.2,36.68,15.52
+2025-12-16,Tuesday,Clear,Mix Veg,Dry Veg,Lunch,43.61,28.78,14.83
+2025-12-16,Tuesday,Clear,Plain Roti,Bread/Roti,Lunch,40.08,37.14,2.93
+2025-12-17,Wednesday,Cloudy,Mix Veg,Dry Veg,Breakfast,53.65,37.5,16.15
+2025-12-17,Wednesday,Cloudy,Plain Roti,Bread/Roti,Breakfast,47.05,44.67,2.39
+2025-12-18,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,45.14,29.48,15.66
+2025-12-18,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,49.42,29.79,19.63
+2025-12-19,Friday,Heavy Rain,Jeera Rice,Rice,Dinner,55.15,46.62,8.53
+2025-12-19,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,50.27,38.5,11.76
+2025-12-20,Saturday,Clear,Mix Veg,Dry Veg,Lunch,58.35,32.3,26.05
+2025-12-21,Sunday,Clear,Plain Roti,Bread/Roti,Lunch,43.73,27.07,16.65
+2025-12-21,Sunday,Clear,Gulab Jamun,Dessert,Dinner,54.89,42.62,12.27
+2025-12-22,Monday,Light Rain,Palak Paneer,Curry/Dal,Dinner,49.62,35.66,13.96
+2025-12-22,Monday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,42.03,39.74,2.29
+2025-12-23,Tuesday,Cloudy,Jeera Rice,Rice,Dinner,58.4,47.47,10.92
+2025-12-23,Tuesday,Cloudy,Jeera Rice,Rice,Dinner,40.8,36.05,4.75
+2025-12-24,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,59.66,41.85,17.81
+2025-12-24,Wednesday,Cloudy,Gulab Jamun,Dessert,Lunch,41.27,33.58,7.69
+2025-12-25,Thursday,Light Rain,Dal Makhani,Curry/Dal,Dinner,48.08,34.12,13.96
+2025-12-26,Friday,Clear,Jeera Rice,Rice,Breakfast,52.32,48.51,3.81
+2025-12-26,Friday,Clear,Palak Paneer,Curry/Dal,Lunch,45.32,36.96,8.37
+2025-12-26,Friday,Clear,Aloo Gobhi,Dry Veg,Breakfast,40.75,31.11,9.65
+2025-12-27,Saturday,Clear,Dal Makhani,Curry/Dal,Breakfast,55.98,32.27,23.71
+2025-12-27,Saturday,Clear,Mix Veg,Dry Veg,Lunch,52.71,33.3,19.41
+2025-12-27,Saturday,Clear,Mix Veg,Dry Veg,Lunch,41.2,28.0,13.2
+2025-12-28,Sunday,Cloudy,Plain Roti,Bread/Roti,Lunch,43.36,27.53,15.83
+2025-12-28,Sunday,Cloudy,Plain Roti,Bread/Roti,Breakfast,45.34,34.01,11.34
+2025-12-29,Monday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,54.23,42.25,11.98
+2025-12-29,Monday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,52.41,40.69,11.73
+2025-12-30,Tuesday,Light Rain,Mix Veg,Dry Veg,Dinner,56.69,47.29,9.39
+2025-12-31,Wednesday,Cloudy,Poha,Other,Lunch,55.47,49.87,5.6
+2026-01-01,Thursday,Clear,Jeera Rice,Rice,Breakfast,56.93,51.92,5.0
+2026-01-01,Thursday,Clear,Poha,Other,Breakfast,52.04,45.18,6.86
+2026-01-02,Friday,Heavy Rain,Mix Veg,Dry Veg,Lunch,58.94,42.07,16.87
+2026-01-02,Friday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,54.7,37.83,16.87
+2026-01-02,Friday,Heavy Rain,Gulab Jamun,Dessert,Lunch,53.21,44.94,8.27
+2026-01-03,Saturday,Cloudy,Poha,Other,Breakfast,49.98,38.87,11.11
+2026-01-03,Saturday,Cloudy,Dal Makhani,Curry/Dal,Lunch,53.29,32.58,20.71
+2026-01-03,Saturday,Cloudy,Palak Paneer,Curry/Dal,Dinner,52.16,36.21,15.95
+2026-01-04,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,53.34,28.25,25.09
+2026-01-05,Monday,Heavy Rain,Mix Veg,Dry Veg,Dinner,42.74,26.87,15.88
+2026-01-05,Monday,Heavy Rain,Gulab Jamun,Dessert,Lunch,46.73,29.43,17.3
+2026-01-05,Monday,Heavy Rain,Gulab Jamun,Dessert,Lunch,43.0,27.49,15.51
+2026-01-06,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,41.21,30.41,10.8
+2026-01-06,Tuesday,Heavy Rain,Poha,Other,Breakfast,49.59,37.41,12.19
+2026-01-07,Wednesday,Cloudy,Jeera Rice,Rice,Dinner,52.27,47.86,4.41
+2026-01-07,Wednesday,Cloudy,Gulab Jamun,Dessert,Dinner,56.14,41.86,14.28
+2026-01-07,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,45.53,39.88,5.64
+2026-01-08,Thursday,Heavy Rain,Gulab Jamun,Dessert,Dinner,54.6,41.3,13.3
+2026-01-09,Friday,Clear,Jeera Rice,Rice,Dinner,43.37,34.33,9.04
+2026-01-10,Saturday,Light Rain,Dal Makhani,Curry/Dal,Dinner,54.78,38.76,16.02
+2026-01-10,Saturday,Light Rain,Palak Paneer,Curry/Dal,Lunch,47.86,30.88,16.98
+2026-01-11,Sunday,Cloudy,Dal Makhani,Curry/Dal,Dinner,53.84,32.78,21.06
+2026-01-11,Sunday,Cloudy,Poha,Other,Lunch,50.29,39.43,10.86
+2026-01-12,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,43.23,33.93,9.29
+2026-01-12,Monday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,43.3,35.16,8.14
+2026-01-12,Monday,Heavy Rain,Mix Veg,Dry Veg,Lunch,58.4,30.42,27.98
+2026-01-13,Tuesday,Light Rain,Gulab Jamun,Dessert,Dinner,57.41,53.76,3.64
+2026-01-13,Tuesday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,45.87,40.9,4.97
+2026-01-14,Wednesday,Cloudy,Jeera Rice,Rice,Lunch,40.15,37.78,2.37
+2026-01-15,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,59.5,37.44,22.06
+2026-01-16,Friday,Heavy Rain,Gulab Jamun,Dessert,Dinner,54.41,41.66,12.76
+2026-01-17,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,53.5,32.45,21.05
+2026-01-17,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,49.32,33.23,16.09
+2026-01-17,Saturday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,43.81,25.27,18.54
+2026-01-18,Sunday,Clear,Mix Veg,Dry Veg,Lunch,49.1,29.08,20.02
+2026-01-18,Sunday,Clear,Gulab Jamun,Dessert,Dinner,43.45,27.48,15.97
+2026-01-19,Monday,Cloudy,Poha,Other,Dinner,58.82,50.86,7.96
+2026-01-19,Monday,Cloudy,Dal Makhani,Curry/Dal,Dinner,43.23,35.71,7.52
+2026-01-19,Monday,Cloudy,Mix Veg,Dry Veg,Lunch,51.84,38.23,13.61
+2026-01-20,Tuesday,Clear,Gulab Jamun,Dessert,Lunch,53.87,46.35,7.53
+2026-01-21,Wednesday,Light Rain,Plain Roti,Bread/Roti,Breakfast,41.99,38.01,3.99
+2026-01-22,Thursday,Cloudy,Palak Paneer,Curry/Dal,Lunch,43.39,38.42,4.96
+2026-01-23,Friday,Light Rain,Gulab Jamun,Dessert,Lunch,49.97,42.93,7.04
+2026-01-23,Friday,Light Rain,Gulab Jamun,Dessert,Dinner,42.14,30.28,11.86
+2026-01-24,Saturday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,40.44,26.07,14.37
+2026-01-25,Sunday,Heavy Rain,Mix Veg,Dry Veg,Dinner,47.58,18.74,28.84
+2026-01-25,Sunday,Heavy Rain,Jeera Rice,Rice,Dinner,53.36,26.52,26.84
+2026-01-25,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,40.86,23.02,17.83
+2026-01-26,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,59.2,43.87,15.34
+2026-01-27,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,53.26,49.32,3.94
+2026-01-27,Tuesday,Cloudy,Gulab Jamun,Dessert,Dinner,49.64,35.17,14.46
+2026-01-27,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,47.03,33.72,13.31
+2026-01-28,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,58.92,40.59,18.33
+2026-01-29,Thursday,Light Rain,Gulab Jamun,Dessert,Lunch,59.01,43.5,15.51
+2026-01-29,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,45.95,33.64,12.3
+2026-01-30,Friday,Clear,Palak Paneer,Curry/Dal,Dinner,53.21,39.97,13.25
+2026-01-30,Friday,Clear,Dal Makhani,Curry/Dal,Lunch,45.85,39.16,6.69
+2026-01-31,Saturday,Cloudy,Palak Paneer,Curry/Dal,Lunch,55.06,43.95,11.11
+2026-01-31,Saturday,Cloudy,Gulab Jamun,Dessert,Lunch,40.88,29.17,11.7
+2026-02-01,Sunday,Clear,Jeera Rice,Rice,Dinner,41.14,24.7,16.45
+2026-02-02,Monday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,48.46,29.36,19.1
+2026-02-02,Monday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,55.11,44.03,11.08
+2026-02-03,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,49.16,30.64,18.52
+2026-02-03,Tuesday,Heavy Rain,Poha,Other,Breakfast,51.96,37.44,14.51
+2026-02-03,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,47.42,37.37,10.05
+2026-02-04,Wednesday,Clear,Plain Roti,Bread/Roti,Breakfast,53.26,38.8,14.46
+2026-02-04,Wednesday,Clear,Dal Makhani,Curry/Dal,Breakfast,50.64,36.71,13.93
+2026-02-05,Thursday,Clear,Jeera Rice,Rice,Dinner,50.48,38.34,12.15
+2026-02-05,Thursday,Clear,Gulab Jamun,Dessert,Breakfast,59.34,44.66,14.68
+2026-02-06,Friday,Cloudy,Mix Veg,Dry Veg,Dinner,43.13,29.02,14.11
+2026-02-06,Friday,Cloudy,Dal Makhani,Curry/Dal,Lunch,41.5,30.66,10.84
+2026-02-07,Saturday,Clear,Palak Paneer,Curry/Dal,Breakfast,57.54,44.18,13.36
+2026-02-07,Saturday,Clear,Mix Veg,Dry Veg,Dinner,59.39,30.25,29.14
+2026-02-07,Saturday,Clear,Palak Paneer,Curry/Dal,Lunch,56.68,41.86,14.83
+2026-02-08,Sunday,Clear,Gulab Jamun,Dessert,Lunch,53.45,38.62,14.83
+2026-02-09,Monday,Light Rain,Aloo Gobhi,Dry Veg,Dinner,40.24,35.1,5.14
+2026-02-09,Monday,Light Rain,Plain Roti,Bread/Roti,Dinner,57.47,47.61,9.86
+2026-02-10,Tuesday,Heavy Rain,Gulab Jamun,Dessert,Lunch,40.22,31.7,8.52
+2026-02-11,Wednesday,Cloudy,Plain Roti,Bread/Roti,Dinner,42.94,37.34,5.6
+2026-02-11,Wednesday,Cloudy,Palak Paneer,Curry/Dal,Dinner,49.17,36.32,12.85
+2026-02-11,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,58.14,49.42,8.72
+2026-02-12,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,49.74,40.69,9.05
+2026-02-12,Thursday,Light Rain,Gulab Jamun,Dessert,Breakfast,53.8,46.96,6.84
+2026-02-13,Friday,Heavy Rain,Mix Veg,Dry Veg,Breakfast,52.85,31.0,21.85
+2026-02-14,Saturday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,52.54,26.92,25.62
+2026-02-14,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,52.53,24.63,27.9
+2026-02-15,Sunday,Light Rain,Plain Roti,Bread/Roti,Dinner,45.8,35.54,10.26
+2026-02-15,Sunday,Light Rain,Jeera Rice,Rice,Breakfast,57.14,38.25,18.9
+2026-02-16,Monday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,59.47,38.74,20.73
+2026-02-17,Tuesday,Heavy Rain,Poha,Other,Dinner,51.61,39.56,12.05
+2026-02-17,Tuesday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,44.67,32.17,12.5
+2026-02-17,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,52.6,37.95,14.65
+2026-02-18,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Dinner,49.82,37.49,12.33
+2026-02-19,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,44.95,37.85,7.1
+2026-02-20,Friday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,57.57,53.36,4.21
+2026-02-21,Saturday,Light Rain,Poha,Other,Breakfast,58.8,40.84,17.96
+2026-02-21,Saturday,Light Rain,Poha,Other,Lunch,51.4,30.49,20.92
+2026-02-21,Saturday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,42.6,27.39,15.21
+2026-02-22,Sunday,Cloudy,Dal Makhani,Curry/Dal,Dinner,48.22,32.98,15.24
+2026-02-22,Sunday,Cloudy,Mix Veg,Dry Veg,Dinner,52.68,24.18,28.5
+2026-02-22,Sunday,Cloudy,Mix Veg,Dry Veg,Breakfast,46.91,26.06,20.85
+2026-02-23,Monday,Cloudy,Gulab Jamun,Dessert,Lunch,58.74,42.8,15.94
+2026-02-23,Monday,Cloudy,Plain Roti,Bread/Roti,Lunch,55.99,46.15,9.84
+2026-02-23,Monday,Cloudy,Dal Makhani,Curry/Dal,Lunch,45.95,39.0,6.95
+2026-02-24,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,43.4,33.92,9.49
+2026-02-24,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Lunch,56.24,32.95,23.29
+2026-02-24,Tuesday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,57.41,46.28,11.14
+2026-02-25,Wednesday,Clear,Aloo Gobhi,Dry Veg,Breakfast,54.44,41.43,13.0
+2026-02-26,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,42.45,28.43,14.02
+2026-02-27,Friday,Heavy Rain,Jeera Rice,Rice,Dinner,40.3,28.5,11.81
+2026-02-27,Friday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,45.98,31.72,14.26
+2026-02-28,Saturday,Heavy Rain,Poha,Other,Breakfast,47.83,25.68,22.15
+2026-03-01,Sunday,Clear,Gulab Jamun,Dessert,Dinner,44.42,31.14,13.28
+2026-03-01,Sunday,Clear,Poha,Other,Breakfast,49.76,31.42,18.33
+2026-03-01,Sunday,Clear,Gulab Jamun,Dessert,Breakfast,40.55,23.07,17.48
+2026-03-02,Monday,Heavy Rain,Jeera Rice,Rice,Dinner,57.1,34.96,22.14
+2026-03-02,Monday,Heavy Rain,Poha,Other,Dinner,45.41,38.08,7.34
+2026-03-03,Tuesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,55.89,38.23,17.67
+2026-03-04,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,50.84,34.94,15.9
+2026-03-04,Wednesday,Heavy Rain,Dal Makhani,Curry/Dal,Dinner,45.01,28.11,16.91
+2026-03-04,Wednesday,Heavy Rain,Jeera Rice,Rice,Breakfast,45.39,36.74,8.65
+2026-03-05,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,56.4,42.18,14.22
+2026-03-06,Friday,Cloudy,Plain Roti,Bread/Roti,Lunch,50.0,45.74,4.27
+2026-03-06,Friday,Cloudy,Gulab Jamun,Dessert,Breakfast,50.39,37.23,13.17
+2026-03-07,Saturday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,59.92,47.32,12.6
+2026-03-07,Saturday,Light Rain,Palak Paneer,Curry/Dal,Lunch,42.82,27.39,15.43
+2026-03-07,Saturday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,42.13,29.47,12.66
+2026-03-08,Sunday,Cloudy,Poha,Other,Breakfast,59.05,44.82,14.23
+2026-03-09,Monday,Cloudy,Gulab Jamun,Dessert,Lunch,43.39,38.04,5.35
+2026-03-09,Monday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,40.31,30.82,9.49
+2026-03-10,Tuesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,52.41,34.07,18.34
+2026-03-10,Tuesday,Heavy Rain,Aloo Gobhi,Dry Veg,Lunch,43.39,32.37,11.02
+2026-03-10,Tuesday,Heavy Rain,Aloo Gobhi,Dry Veg,Dinner,55.02,38.88,16.14
+2026-03-11,Wednesday,Cloudy,Poha,Other,Lunch,52.44,44.26,8.18
+2026-03-11,Wednesday,Cloudy,Jeera Rice,Rice,Breakfast,54.16,47.73,6.42
+2026-03-11,Wednesday,Cloudy,Jeera Rice,Rice,Dinner,45.01,33.21,11.8
+2026-03-12,Thursday,Clear,Gulab Jamun,Dessert,Lunch,55.3,45.01,10.3
+2026-03-13,Friday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,51.18,36.67,14.51
+2026-03-14,Saturday,Light Rain,Plain Roti,Bread/Roti,Breakfast,58.61,43.48,15.13
+2026-03-14,Saturday,Light Rain,Plain Roti,Bread/Roti,Lunch,43.14,25.4,17.74
+2026-03-14,Saturday,Light Rain,Dal Makhani,Curry/Dal,Dinner,46.46,32.16,14.31
+2026-03-15,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,41.76,27.04,14.72
+2026-03-15,Sunday,Clear,Mix Veg,Dry Veg,Dinner,55.63,30.34,25.29
+2026-03-15,Sunday,Clear,Gulab Jamun,Dessert,Lunch,45.24,27.12,18.13
+2026-03-16,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,51.84,40.68,11.16
+2026-03-17,Tuesday,Heavy Rain,Poha,Other,Dinner,48.66,31.83,16.83
+2026-03-17,Tuesday,Heavy Rain,Poha,Other,Dinner,50.18,30.67,19.52
+2026-03-18,Wednesday,Heavy Rain,Jeera Rice,Rice,Dinner,42.15,35.13,7.02
+2026-03-19,Thursday,Light Rain,Dal Makhani,Curry/Dal,Lunch,44.22,31.97,12.25
+2026-03-20,Friday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,43.88,36.84,7.04
+2026-03-21,Saturday,Heavy Rain,Jeera Rice,Rice,Breakfast,50.73,24.38,26.35
+2026-03-21,Saturday,Heavy Rain,Plain Roti,Bread/Roti,Dinner,54.1,28.0,26.1
+2026-03-22,Sunday,Clear,Dal Makhani,Curry/Dal,Dinner,58.97,43.18,15.79
+2026-03-22,Sunday,Clear,Dal Makhani,Curry/Dal,Breakfast,50.16,37.53,12.63
+2026-03-23,Monday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,45.13,30.72,14.41
+2026-03-23,Monday,Heavy Rain,Poha,Other,Dinner,45.92,35.73,10.19
+2026-03-23,Monday,Heavy Rain,Jeera Rice,Rice,Dinner,46.72,32.28,14.44
+2026-03-24,Tuesday,Heavy Rain,Poha,Other,Lunch,43.36,31.75,11.6
+2026-03-24,Tuesday,Heavy Rain,Mix Veg,Dry Veg,Dinner,40.33,23.81,16.52
+2026-03-24,Tuesday,Heavy Rain,Poha,Other,Dinner,49.27,32.92,16.35
+2026-03-25,Wednesday,Cloudy,Mix Veg,Dry Veg,Lunch,59.93,45.92,14.01
+2026-03-25,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,41.76,33.35,8.41
+2026-03-26,Thursday,Heavy Rain,Gulab Jamun,Dessert,Dinner,52.98,40.01,12.97
+2026-03-26,Thursday,Heavy Rain,Poha,Other,Dinner,51.7,33.01,18.69
+2026-03-26,Thursday,Heavy Rain,Jeera Rice,Rice,Breakfast,57.93,34.9,23.03
+2026-03-27,Friday,Clear,Mix Veg,Dry Veg,Lunch,45.89,35.6,10.29
+2026-03-27,Friday,Clear,Aloo Gobhi,Dry Veg,Breakfast,43.96,33.43,10.53
+2026-03-27,Friday,Clear,Dal Makhani,Curry/Dal,Dinner,52.55,49.68,2.86
+2026-03-28,Saturday,Cloudy,Gulab Jamun,Dessert,Breakfast,49.48,36.86,12.62
+2026-03-29,Sunday,Clear,Dal Makhani,Curry/Dal,Breakfast,48.17,30.8,17.37
+2026-03-30,Monday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,56.69,47.79,8.9
+2026-03-30,Monday,Cloudy,Jeera Rice,Rice,Breakfast,52.14,37.99,14.15
+2026-03-30,Monday,Cloudy,Gulab Jamun,Dessert,Breakfast,40.64,32.72,7.92
+2026-03-31,Tuesday,Heavy Rain,Poha,Other,Breakfast,46.58,28.54,18.04
+2026-03-31,Tuesday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,47.32,32.91,14.41
+2026-04-01,Wednesday,Light Rain,Gulab Jamun,Dessert,Dinner,56.77,47.74,9.03
+2026-04-02,Thursday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,53.68,48.81,4.88
+2026-04-03,Friday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,40.9,29.56,11.34
+2026-04-03,Friday,Cloudy,Dal Makhani,Curry/Dal,Lunch,59.09,50.15,8.95
+2026-04-03,Friday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,52.71,37.9,14.82
+2026-04-04,Saturday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,45.31,28.74,16.57
+2026-04-04,Saturday,Cloudy,Poha,Other,Dinner,44.69,28.03,16.66
+2026-04-05,Sunday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,44.56,24.34,20.22
+2026-04-05,Sunday,Heavy Rain,Poha,Other,Lunch,47.41,25.01,22.4
+2026-04-06,Monday,Light Rain,Jeera Rice,Rice,Breakfast,54.09,50.53,3.56
+2026-04-07,Tuesday,Cloudy,Poha,Other,Lunch,58.87,54.45,4.42
+2026-04-08,Wednesday,Light Rain,Gulab Jamun,Dessert,Dinner,51.83,46.65,5.18
+2026-04-09,Thursday,Clear,Gulab Jamun,Dessert,Breakfast,50.51,37.17,13.34
+2026-04-09,Thursday,Clear,Mix Veg,Dry Veg,Lunch,48.31,36.85,11.45
+2026-04-10,Friday,Clear,Aloo Gobhi,Dry Veg,Breakfast,50.0,42.73,7.27
+2026-04-11,Saturday,Light Rain,Poha,Other,Dinner,54.39,42.28,12.11
+2026-04-12,Sunday,Clear,Mix Veg,Dry Veg,Breakfast,54.48,31.27,23.21
+2026-04-12,Sunday,Clear,Dal Makhani,Curry/Dal,Dinner,51.59,28.78,22.81
+2026-04-12,Sunday,Clear,Plain Roti,Bread/Roti,Lunch,59.48,46.31,13.18
+2026-04-13,Monday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,55.35,38.13,17.22
+2026-04-13,Monday,Heavy Rain,Mix Veg,Dry Veg,Dinner,49.17,36.78,12.39
+2026-04-13,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Lunch,51.88,31.49,20.39
+2026-04-14,Tuesday,Heavy Rain,Poha,Other,Lunch,56.78,45.28,11.5
+2026-04-15,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,57.54,50.08,7.45
+2026-04-15,Wednesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,53.69,49.38,4.31
+2026-04-16,Thursday,Clear,Palak Paneer,Curry/Dal,Dinner,44.42,33.22,11.2
+2026-04-16,Thursday,Clear,Poha,Other,Breakfast,47.69,36.13,11.55
+2026-04-17,Friday,Light Rain,Jeera Rice,Rice,Breakfast,58.57,52.69,5.88
+2026-04-17,Friday,Light Rain,Gulab Jamun,Dessert,Dinner,58.04,42.5,15.54
+2026-04-17,Friday,Light Rain,Mix Veg,Dry Veg,Lunch,42.2,26.7,15.5
+2026-04-18,Saturday,Clear,Palak Paneer,Curry/Dal,Lunch,53.16,42.22,10.94
+2026-04-19,Sunday,Light Rain,Jeera Rice,Rice,Lunch,53.35,37.27,16.08
+2026-04-20,Monday,Cloudy,Plain Roti,Bread/Roti,Dinner,57.64,43.53,14.11
+2026-04-21,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,52.25,40.46,11.79
+2026-04-21,Tuesday,Cloudy,Dal Makhani,Curry/Dal,Breakfast,41.62,34.24,7.38
+2026-04-22,Wednesday,Light Rain,Poha,Other,Breakfast,41.39,34.66,6.73
+2026-04-22,Wednesday,Light Rain,Poha,Other,Breakfast,57.91,40.91,16.99
+2026-04-22,Wednesday,Light Rain,Jeera Rice,Rice,Breakfast,53.8,50.98,2.82
+2026-04-23,Thursday,Clear,Mix Veg,Dry Veg,Lunch,52.15,32.64,19.51
+2026-04-24,Friday,Cloudy,Jeera Rice,Rice,Breakfast,48.05,37.42,10.64
+2026-04-25,Saturday,Cloudy,Plain Roti,Bread/Roti,Breakfast,42.39,23.59,18.8
+2026-04-25,Saturday,Cloudy,Gulab Jamun,Dessert,Dinner,49.98,28.29,21.69
+2026-04-25,Saturday,Cloudy,Palak Paneer,Curry/Dal,Dinner,40.57,32.41,8.16
+2026-04-26,Sunday,Clear,Jeera Rice,Rice,Dinner,56.11,40.44,15.67
+2026-04-27,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,57.61,44.92,12.69
+2026-04-27,Monday,Cloudy,Plain Roti,Bread/Roti,Dinner,51.22,40.16,11.06
+2026-04-27,Monday,Cloudy,Jeera Rice,Rice,Lunch,46.68,38.44,8.24
+2026-04-28,Tuesday,Light Rain,Jeera Rice,Rice,Dinner,56.1,42.28,13.83
+2026-04-28,Tuesday,Light Rain,Plain Roti,Bread/Roti,Lunch,55.47,39.6,15.87
+2026-04-29,Wednesday,Heavy Rain,Poha,Other,Breakfast,45.79,32.42,13.37
+2026-04-29,Wednesday,Heavy Rain,Poha,Other,Dinner,56.39,47.13,9.26
+2026-04-29,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Breakfast,59.22,38.27,20.95
+2026-04-30,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,53.42,45.16,8.26
+2026-04-30,Thursday,Heavy Rain,Jeera Rice,Rice,Dinner,45.66,35.75,9.91
+2026-04-30,Thursday,Heavy Rain,Palak Paneer,Curry/Dal,Dinner,56.28,39.66,16.62
+2026-05-01,Friday,Clear,Mix Veg,Dry Veg,Dinner,50.03,33.23,16.8
+2026-05-01,Friday,Clear,Jeera Rice,Rice,Breakfast,56.27,39.82,16.45
+2026-05-01,Friday,Clear,Mix Veg,Dry Veg,Dinner,59.32,46.04,13.27
+2026-05-02,Saturday,Clear,Aloo Gobhi,Dry Veg,Lunch,42.82,24.01,18.82
+2026-05-02,Saturday,Clear,Gulab Jamun,Dessert,Lunch,57.37,38.94,18.43
+2026-05-02,Saturday,Clear,Gulab Jamun,Dessert,Dinner,56.91,42.23,14.69
+2026-05-03,Sunday,Light Rain,Poha,Other,Dinner,53.8,31.07,22.74
+2026-05-04,Monday,Cloudy,Dal Makhani,Curry/Dal,Lunch,51.95,37.96,13.98
+2026-05-04,Monday,Cloudy,Jeera Rice,Rice,Dinner,50.23,39.17,11.06
+2026-05-04,Monday,Cloudy,Gulab Jamun,Dessert,Dinner,41.03,29.37,11.66
+2026-05-05,Tuesday,Clear,Plain Roti,Bread/Roti,Lunch,54.08,46.27,7.82
+2026-05-05,Tuesday,Clear,Plain Roti,Bread/Roti,Breakfast,52.58,45.17,7.42
+2026-05-05,Tuesday,Clear,Gulab Jamun,Dessert,Dinner,40.44,30.15,10.29
+2026-05-06,Wednesday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,48.87,37.06,11.81
+2026-05-06,Wednesday,Light Rain,Dal Makhani,Curry/Dal,Lunch,52.68,49.43,3.25
+2026-05-06,Wednesday,Light Rain,Palak Paneer,Curry/Dal,Lunch,57.04,43.04,14.0
+2026-05-07,Thursday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,44.35,40.33,4.02
+2026-05-07,Thursday,Light Rain,Mix Veg,Dry Veg,Breakfast,43.17,27.1,16.06
+2026-05-08,Friday,Clear,Mix Veg,Dry Veg,Lunch,44.79,36.7,8.09
+2026-05-08,Friday,Clear,Aloo Gobhi,Dry Veg,Breakfast,49.48,38.88,10.6
+2026-05-09,Saturday,Clear,Dal Makhani,Curry/Dal,Breakfast,46.31,34.87,11.44
+2026-05-09,Saturday,Clear,Plain Roti,Bread/Roti,Dinner,55.73,38.44,17.29
+2026-05-10,Sunday,Clear,Dal Makhani,Curry/Dal,Lunch,56.83,32.28,24.55
+2026-05-10,Sunday,Clear,Aloo Gobhi,Dry Veg,Dinner,59.5,45.11,14.39
+2026-05-11,Monday,Light Rain,Poha,Other,Dinner,47.33,37.46,9.88
+2026-05-12,Tuesday,Light Rain,Plain Roti,Bread/Roti,Breakfast,46.59,37.04,9.54
+2026-05-13,Wednesday,Heavy Rain,Gulab Jamun,Dessert,Lunch,52.32,38.94,13.38
+2026-05-13,Wednesday,Heavy Rain,Poha,Other,Dinner,49.97,35.78,14.19
+2026-05-13,Wednesday,Heavy Rain,Poha,Other,Lunch,54.58,43.14,11.44
+2026-05-14,Thursday,Clear,Palak Paneer,Curry/Dal,Lunch,44.71,42.2,2.51
+2026-05-14,Thursday,Clear,Gulab Jamun,Dessert,Breakfast,51.75,41.08,10.67
+2026-05-15,Friday,Clear,Aloo Gobhi,Dry Veg,Breakfast,53.12,44.63,8.49
+2026-05-15,Friday,Clear,Mix Veg,Dry Veg,Lunch,47.66,39.2,8.46
+2026-05-16,Saturday,Cloudy,Mix Veg,Dry Veg,Dinner,54.88,28.07,26.81
+2026-05-17,Sunday,Cloudy,Poha,Other,Lunch,44.08,34.79,9.29
+2026-05-18,Monday,Cloudy,Plain Roti,Bread/Roti,Breakfast,56.0,42.14,13.86
+2026-05-18,Monday,Cloudy,Poha,Other,Dinner,51.92,40.28,11.64
+2026-05-18,Monday,Cloudy,Plain Roti,Bread/Roti,Breakfast,55.65,51.58,4.07
+2026-05-19,Tuesday,Cloudy,Palak Paneer,Curry/Dal,Breakfast,54.55,41.07,13.47
+2026-05-19,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,48.93,43.38,5.55
+2026-05-20,Wednesday,Cloudy,Poha,Other,Breakfast,52.41,42.35,10.06
+2026-05-20,Wednesday,Cloudy,Mix Veg,Dry Veg,Lunch,50.01,33.88,16.13
+2026-05-21,Thursday,Cloudy,Jeera Rice,Rice,Lunch,50.87,45.64,5.23
+2026-05-22,Friday,Light Rain,Poha,Other,Breakfast,54.76,49.79,4.98
+2026-05-22,Friday,Light Rain,Plain Roti,Bread/Roti,Dinner,44.84,42.49,2.34
+2026-05-22,Friday,Light Rain,Jeera Rice,Rice,Breakfast,46.93,38.35,8.58
+2026-05-23,Saturday,Light Rain,Poha,Other,Dinner,45.75,26.96,18.79
+2026-05-24,Sunday,Light Rain,Poha,Other,Dinner,56.9,39.6,17.3
+2026-05-24,Sunday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,54.27,40.94,13.34
+2026-05-24,Sunday,Light Rain,Mix Veg,Dry Veg,Lunch,52.39,26.5,25.89
+2026-05-25,Monday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,54.83,37.82,17.01
+2026-05-26,Tuesday,Cloudy,Plain Roti,Bread/Roti,Lunch,57.48,50.16,7.32
+2026-05-26,Tuesday,Cloudy,Gulab Jamun,Dessert,Lunch,52.86,43.57,9.29
+2026-05-27,Wednesday,Heavy Rain,Jeera Rice,Rice,Breakfast,48.85,33.03,15.82
+2026-05-27,Wednesday,Heavy Rain,Palak Paneer,Curry/Dal,Breakfast,58.52,47.06,11.46
+2026-05-27,Wednesday,Heavy Rain,Plain Roti,Bread/Roti,Lunch,59.02,36.61,22.41
+2026-05-28,Thursday,Clear,Mix Veg,Dry Veg,Breakfast,52.45,32.35,20.1
+2026-05-29,Friday,Clear,Jeera Rice,Rice,Breakfast,44.23,40.25,3.99
+2026-05-30,Saturday,Light Rain,Palak Paneer,Curry/Dal,Dinner,57.26,43.11,14.15
+2026-05-30,Saturday,Light Rain,Palak Paneer,Curry/Dal,Lunch,50.67,39.78,10.89
+2026-05-30,Saturday,Light Rain,Gulab Jamun,Dessert,Lunch,40.17,27.05,13.12
+2026-05-31,Sunday,Light Rain,Mix Veg,Dry Veg,Dinner,41.18,26.42,14.76
+2026-05-31,Sunday,Light Rain,Palak Paneer,Curry/Dal,Breakfast,59.42,41.88,17.54
+2026-05-31,Sunday,Light Rain,Dal Makhani,Curry/Dal,Breakfast,44.96,26.63,18.33
+2026-06-01,Monday,Cloudy,Jeera Rice,Rice,Dinner,47.44,43.12,4.32
+2026-06-02,Tuesday,Clear,Aloo Gobhi,Dry Veg,Lunch,51.15,36.09,15.06
+2026-06-03,Wednesday,Cloudy,Poha,Other,Dinner,56.45,47.47,8.98
+2026-06-03,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Dinner,41.83,36.83,5.0
+2026-06-03,Wednesday,Cloudy,Plain Roti,Bread/Roti,Dinner,49.91,41.15,8.77
+2026-06-04,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,47.37,35.43,11.94
+2026-06-04,Thursday,Heavy Rain,Aloo Gobhi,Dry Veg,Breakfast,41.06,30.31,10.75
+2026-06-05,Friday,Cloudy,Gulab Jamun,Dessert,Lunch,43.23,30.97,12.26
+2026-06-05,Friday,Cloudy,Palak Paneer,Curry/Dal,Lunch,52.87,38.08,14.79
+2026-06-06,Saturday,Clear,Mix Veg,Dry Veg,Breakfast,56.33,36.26,20.07
+2026-06-07,Sunday,Light Rain,Poha,Other,Dinner,46.36,33.61,12.76
+2026-06-07,Sunday,Light Rain,Dal Makhani,Curry/Dal,Lunch,49.57,36.37,13.2
+2026-06-07,Sunday,Light Rain,Plain Roti,Bread/Roti,Breakfast,41.84,26.53,15.3
+2026-06-08,Monday,Cloudy,Mix Veg,Dry Veg,Lunch,52.14,32.57,19.57
+2026-06-09,Tuesday,Clear,Gulab Jamun,Dessert,Dinner,53.74,51.03,2.71
+2026-06-09,Tuesday,Clear,Gulab Jamun,Dessert,Dinner,48.86,44.26,4.61
+2026-06-10,Wednesday,Cloudy,Poha,Other,Dinner,44.78,32.67,12.11
+2026-06-10,Wednesday,Cloudy,Gulab Jamun,Dessert,Dinner,41.21,30.0,11.21
+2026-06-10,Wednesday,Cloudy,Jeera Rice,Rice,Lunch,49.04,44.06,4.98
+2026-06-11,Thursday,Heavy Rain,Jeera Rice,Rice,Dinner,48.91,40.58,8.33
+2026-06-11,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,53.11,40.83,12.28
+2026-06-12,Friday,Light Rain,Mix Veg,Dry Veg,Lunch,40.59,27.15,13.44
+2026-06-12,Friday,Light Rain,Gulab Jamun,Dessert,Lunch,41.52,29.13,12.4
+2026-06-12,Friday,Light Rain,Dal Makhani,Curry/Dal,Dinner,42.25,32.74,9.5
+2026-06-13,Saturday,Cloudy,Mix Veg,Dry Veg,Dinner,52.72,35.34,17.38
+2026-06-13,Saturday,Cloudy,Jeera Rice,Rice,Lunch,42.98,33.08,9.89
+2026-06-14,Sunday,Clear,Jeera Rice,Rice,Breakfast,51.35,32.98,18.37
+2026-06-15,Monday,Light Rain,Jeera Rice,Rice,Dinner,41.94,30.87,11.07
+2026-06-15,Monday,Light Rain,Plain Roti,Bread/Roti,Lunch,49.29,42.34,6.95
+2026-06-16,Tuesday,Cloudy,Poha,Other,Lunch,41.49,36.27,5.22
+2026-06-16,Tuesday,Cloudy,Aloo Gobhi,Dry Veg,Lunch,48.81,38.77,10.04
+2026-06-17,Wednesday,Light Rain,Jeera Rice,Rice,Lunch,44.13,33.1,11.02
+2026-06-17,Wednesday,Light Rain,Dal Makhani,Curry/Dal,Dinner,48.69,44.17,4.53
+2026-06-18,Thursday,Heavy Rain,Gulab Jamun,Dessert,Lunch,42.19,28.21,13.98
+2026-06-18,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Lunch,41.57,26.42,15.14
+2026-06-18,Thursday,Heavy Rain,Dal Makhani,Curry/Dal,Breakfast,44.86,28.46,16.41
+2026-06-19,Friday,Light Rain,Poha,Other,Dinner,50.62,46.57,4.06
+2026-06-19,Friday,Light Rain,Dal Makhani,Curry/Dal,Dinner,45.74,41.09,4.65
+2026-06-19,Friday,Light Rain,Plain Roti,Bread/Roti,Lunch,53.89,51.12,2.76
+2026-06-20,Saturday,Light Rain,Plain Roti,Bread/Roti,Lunch,47.85,32.08,15.77
+2026-06-20,Saturday,Light Rain,Aloo Gobhi,Dry Veg,Breakfast,47.19,34.31,12.88
+2026-06-21,Sunday,Cloudy,Plain Roti,Bread/Roti,Dinner,45.68,25.87,19.81
+2026-06-21,Sunday,Cloudy,Palak Paneer,Curry/Dal,Dinner,54.22,37.33,16.88
+2026-06-21,Sunday,Cloudy,Plain Roti,Bread/Roti,Dinner,56.26,34.05,22.21
+2026-06-22,Monday,Heavy Rain,Plain Roti,Bread/Roti,Breakfast,55.46,34.99,20.47
+2026-06-22,Monday,Heavy Rain,Gulab Jamun,Dessert,Dinner,52.27,36.06,16.21
+2026-06-22,Monday,Heavy Rain,Gulab Jamun,Dessert,Dinner,45.47,34.58,10.89
+2026-06-23,Tuesday,Cloudy,Palak Paneer,Curry/Dal,Lunch,57.27,54.31,2.95
+2026-06-23,Tuesday,Cloudy,Mix Veg,Dry Veg,Breakfast,49.09,33.14,15.95
+2026-06-24,Wednesday,Cloudy,Aloo Gobhi,Dry Veg,Breakfast,45.64,38.64,7.0
+2026-06-25,Thursday,Light Rain,Jeera Rice,Rice,Breakfast,52.12,47.69,4.43
+2026-06-25,Thursday,Light Rain,Dal Makhani,Curry/Dal,Dinner,45.69,42.33,3.35
+2026-06-26,Friday,Cloudy,Jeera Rice,Rice,Dinner,57.81,46.51,11.3
+2026-06-26,Friday,Cloudy,Jeera Rice,Rice,Breakfast,57.94,49.36,8.58
+2026-06-27,Saturday,Clear,Mix Veg,Dry Veg,Lunch,55.28,29.84,25.44
+2026-06-27,Saturday,Clear,Plain Roti,Bread/Roti,Dinner,58.36,37.55,20.81
+2026-06-27,Saturday,Clear,Mix Veg,Dry Veg,Lunch,52.55,36.5,16.05
