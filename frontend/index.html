@@ -1,127 +1,170 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <title>OptiMeal | Mess Tracker</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Inter', sans-serif;
             color-scheme: dark;
         }
+        /* Custom Scrollbar */
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: rgba(52, 211, 153, 0.3);
+            border-radius: 10px;
+        }
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: rgba(52, 211, 153, 0.5);
+        }
+        /* Date Picker Icon invert for dark mode */
+        ::-webkit-calendar-picker-indicator {
+            filter: invert(1);
+            opacity: 0.6;
+            cursor: pointer;
+        }
     </style>
 </head>
 
-<body
-    class="bg-gradient-to-br from-gray-900 via-slate-900 to-gray-800 p-4 md:p-8 min-h-screen flex flex-col text-gray-100">
-    <header class="max-w-5xl mx-auto w-full mb-8 text-center md:text-left flex items-center gap-3">
-        <div class="bg-indigo-500 text-white p-2 rounded-xl shadow-lg shadow-indigo-500/20">
-            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z">
-                </path>
-            </svg>
-        </div>
-        <h1 class="text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-cyan-400">
-            OptiMeal</h1>
-    </header>
+<body class="bg-[#0b1120] text-slate-200 min-h-screen p-4 md:p-8 flex flex-col relative overflow-x-hidden">
+    <!-- Background glow effects -->
+    <div class="fixed top-[-20%] left-[-10%] w-[50%] h-[50%] rounded-full bg-emerald-500/10 blur-[120px] pointer-events-none"></div>
+    <div class="fixed bottom-[-20%] right-[-10%] w-[50%] h-[50%] rounded-full bg-cyan-500/10 blur-[120px] pointer-events-none"></div>
 
-    <div class="max-w-5xl mx-auto w-full flex-1 grid grid-cols-1 md:grid-cols-2 gap-8">
-        <!-- Log Form Box -->
-        <div
-            class="bg-gray-800/60 backdrop-blur-xl border border-gray-700/50 p-6 md:p-8 rounded-3xl shadow-2xl flex flex-col transition-all hover:shadow-[0_0_30px_rgba(79,70,229,0.1)]">
-            <h2 class="text-2xl font-bold mb-6 text-gray-100">Log Daily Waste</h2>
-            <form id="logForm" class="space-y-5 flex-1 flex flex-col">
-                <div>
-                    <label class="block text-sm font-medium text-gray-300 mb-1">Date</label>
-                    <input type="date" id="date" required
-                        class="w-full px-4 py-3 bg-gray-900/50 border border-gray-700 text-gray-100 rounded-xl focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition-all shadow-inner placeholder-gray-500">
+    <div class="max-w-6xl mx-auto w-full relative z-10 flex flex-col flex-1">
+        <header class="mb-10 text-center md:text-left flex flex-col md:flex-row items-center justify-between gap-4">
+            <div class="flex items-center gap-4">
+                <div class="p-3 bg-gradient-to-br from-emerald-400 to-cyan-500 rounded-2xl shadow-lg shadow-emerald-500/20 text-slate-900">
+                    <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+                    </svg>
                 </div>
                 <div>
-                    <label class="block text-sm font-medium text-gray-300 mb-1">Menu Item</label>
-                    <input type="text" id="menu_item" placeholder="e.g. Jeera Rice" required
-                        class="w-full px-4 py-3 bg-gray-900/50 border border-gray-700 text-gray-100 rounded-xl focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition-all shadow-inner placeholder-gray-500">
+                    <h1 class="text-4xl font-extrabold tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400">OptiMeal</h1>
+                    <p class="text-slate-400 text-sm font-medium mt-1">ML-Driven Food Waste Optimizer</p>
                 </div>
-                <div class="grid grid-cols-2 gap-4">
-                    <div>
-                        <label class="block text-sm font-medium text-gray-300 mb-1">Cooked (kg)</label>
-                        <input type="number" step="0.1" id="amount_cooked" placeholder="0.0" required
-                            class="w-full px-4 py-3 bg-gray-900/50 border border-gray-700 text-gray-100 rounded-xl focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition-all shadow-inner placeholder-gray-500">
-                    </div>
-                    <div>
-                        <label class="block text-sm font-medium text-gray-300 mb-1">Consumed (kg)</label>
-                        <input type="number" step="0.1" id="amount_consumed" placeholder="0.0" required
-                            class="w-full px-4 py-3 bg-gray-900/50 border border-gray-700 text-gray-100 rounded-xl focus:ring-2 focus:ring-indigo-500 focus:border-transparent outline-none transition-all shadow-inner placeholder-gray-500">
-                    </div>
-                </div>
-                <div class="mt-auto pt-4">
-                    <button type="submit"
-                        class="w-full bg-gradient-to-r from-indigo-500 to-cyan-500 hover:from-indigo-600 hover:to-cyan-600 text-white font-semibold py-3 px-4 rounded-xl shadow-lg shadow-indigo-500/20 transition-all transform hover:-translate-y-0.5">Submit
-                        Log</button>
-                </div>
-            </form>
-            <div id="statusMessage"
-                class="mt-4 text-center text-sm font-semibold h-5 text-indigo-400 transition-opacity"></div>
-        </div>
+            </div>
+        </header>
 
-        <!-- Recent Logs Box -->
-        <div
-            class="bg-gray-800/60 backdrop-blur-xl border border-gray-700/50 p-6 md:p-8 rounded-3xl shadow-2xl flex flex-col transition-all hover:shadow-[0_0_30px_rgba(79,70,229,0.1)]">
-            <h2 class="text-2xl font-bold mb-6 text-gray-100 flex items-center justify-between">
-                Recent Logs
-                <span
-                    class="text-xs font-medium bg-indigo-500/20 border border-indigo-500/30 text-indigo-300 px-3 py-1 rounded-full">Live
-                    Updates</span>
-            </h2>
-            <div class="overflow-y-auto flex-1 h-0 pr-2 custom-scrollbar">
-                <ul id="logsList" class="space-y-4"></ul>
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start mb-8 flex-1">
+            <!-- Log Form Box -->
+            <div class="lg:col-span-5 bg-slate-800/40 backdrop-blur-xl border border-slate-700/50 p-6 md:p-8 rounded-3xl shadow-2xl transition-all hover:border-emerald-500/30">
+                <h2 class="text-xl font-semibold mb-6 text-white flex items-center gap-2">
+                    <svg class="w-5 h-5 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"></path></svg>
+                    Log Daily Waste
+                </h2>
+                <form id="logForm" onsubmit="return false;" class="space-y-5">
+                    <div>
+                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Date</label>
+                        <input type="date" id="date" required
+                            class="w-full px-4 py-3 bg-slate-900/50 border border-slate-700 rounded-xl text-slate-200 focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 outline-none transition-all placeholder-slate-500">
+                    </div>
+                    
+                    <div>
+                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Menu Item</label>
+                        <input type="text" id="menu_item" placeholder="e.g., Jeera Rice" required
+                            class="w-full px-4 py-3 bg-slate-900/50 border border-slate-700 rounded-xl text-slate-200 focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 outline-none transition-all placeholder-slate-500">
+                    </div>
+
+                    <div>
+                        <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Meal Time</label>
+                        <select id="meal_time" required
+                            class="w-full px-4 py-3 bg-slate-900/50 border border-slate-700 rounded-xl text-slate-200 focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 outline-none transition-all appearance-none cursor-pointer">
+                            <option value="" disabled selected>Select Meal Time</option>
+                            <option value="Breakfast">Breakfast</option>
+                            <option value="Lunch">Lunch</option>
+                            <option value="Dinner">Dinner</option>
+                            <option value="Snack">Snack</option>
+                        </select>
+                    </div>
+
+                    <div class="grid grid-cols-2 gap-4">
+                        <div>
+                            <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Cooked (kg)</label>
+                            <input type="number" step="0.1" id="amount_cooked" placeholder="0.0" required
+                                class="w-full px-4 py-3 bg-slate-900/50 border border-slate-700 rounded-xl text-slate-200 focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 outline-none transition-all placeholder-slate-500">
+                        </div>
+                        <div>
+                            <label class="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Consumed (kg)</label>
+                            <input type="number" step="0.1" id="amount_consumed" placeholder="0.0" required
+                                class="w-full px-4 py-3 bg-slate-900/50 border border-slate-700 rounded-xl text-slate-200 focus:ring-2 focus:ring-emerald-500/50 focus:border-emerald-500 outline-none transition-all placeholder-slate-500">
+                        </div>
+                    </div>
+
+                    <div class="pt-4">
+                        <button type="submit"
+                            class="w-full bg-gradient-to-r from-emerald-500 to-cyan-500 hover:from-emerald-400 hover:to-cyan-400 text-slate-900 font-bold py-3.5 px-4 rounded-xl shadow-lg shadow-emerald-500/20 transition-all transform hover:-translate-y-0.5 focus:ring-2 focus:ring-emerald-500 focus:ring-offset-2 focus:ring-offset-slate-900 active:scale-95">
+                            Submit Log
+                        </button>
+                    </div>
+                </form>
+                <div id="statusMessage" class="mt-4 text-center text-sm font-semibold h-5 transition-all opacity-0"></div>
+            </div>
+
+            <!-- Right Column for Logs and Chart -->
+            <div class="lg:col-span-7 flex flex-col gap-8 h-full">
+                <!-- Recent Logs Box -->
+                <div class="bg-slate-800/40 backdrop-blur-xl border border-slate-700/50 p-6 md:p-8 rounded-3xl shadow-2xl transition-all hover:border-emerald-500/30 flex flex-col h-[400px]">
+                    <div class="flex items-center justify-between mb-6">
+                        <h2 class="text-xl font-semibold text-white flex items-center gap-2">
+                            <svg class="w-5 h-5 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
+                            Recent Logs
+                        </h2>
+                        <span class="text-[10px] uppercase tracking-wider font-bold bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 px-3 py-1 rounded-full flex items-center gap-1.5">
+                            <span class="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span> Live Updates
+                        </span>
+                    </div>
+                    <div class="flex-grow overflow-y-auto pr-2 custom-scrollbar">
+                        <ul id="logsList" class="space-y-3">
+                            <li class="text-slate-500 italic text-center mt-10 text-sm">Loading data...</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Chart Box -->
+                <div class="bg-slate-800/40 backdrop-blur-xl border border-slate-700/50 p-6 md:p-8 rounded-3xl shadow-2xl transition-all hover:border-emerald-500/30 flex-grow flex flex-col min-h-[350px]">
+                    <h2 class="text-xl font-semibold mb-6 text-white flex items-center gap-2">
+                        <svg class="w-5 h-5 text-purple-400" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z"></path></svg>
+                        Daily Wastage Trend
+                    </h2>
+                    <div class="w-full flex-grow relative">
+                        <canvas id="wastageChart"></canvas>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 
-    <style>
-        /* Custom scrollbar for webkit */
-        .custom-scrollbar::-webkit-scrollbar {
-            width: 6px;
-        }
-
-        .custom-scrollbar::-webkit-scrollbar-track {
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 10px;
-        }
-
-        .custom-scrollbar::-webkit-scrollbar-thumb {
-            background: rgba(99, 102, 241, 0.4);
-            border-radius: 10px;
-        }
-
-        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-            background: rgba(99, 102, 241, 0.6);
-        }
-
-        /* Style date input calendar icon for dark mode */
-        ::-webkit-calendar-picker-indicator {
-            filter: invert(1);
-            opacity: 0.7;
-        }
-    </style>
-
     <script>
         const API_URL = 'http://127.0.0.1:5000/logs';
+        let wastageChart = null;
 
         document.addEventListener('DOMContentLoaded', fetchLogs);
 
-        document.getElementById('logForm').addEventListener('submit', async (e) => {
-            e.preventDefault();
+        function showMessage(msgText, type = 'success') {
             const msg = document.getElementById('statusMessage');
-            msg.textContent = "Saving...";
-            msg.className = "mt-4 text-center text-sm font-semibold h-5 text-indigo-400";
+            msg.textContent = msgText;
+            msg.className = `mt-4 text-center text-sm font-semibold h-5 transition-all opacity-100 ${type === 'success' ? 'text-emerald-400' : 'text-red-400'}`;
+            setTimeout(() => {
+                msg.classList.remove('opacity-100');
+                msg.classList.add('opacity-0');
+            }, 3000);
+        }
 
+        document.getElementById('logForm').addEventListener('submit', async () => {
             const data = {
                 date: document.getElementById('date').value,
                 menu_item: document.getElementById('menu_item').value,
+                meal_time: document.getElementById('meal_time').value,
                 amount_cooked_kg: document.getElementById('amount_cooked').value,
                 amount_consumed_kg: document.getElementById('amount_consumed').value
             };
@@ -134,53 +177,147 @@
                 });
 
                 if (res.ok) {
-                    msg.textContent = "Successfully logged!";
-                    msg.className = "mt-4 text-center text-sm font-semibold h-5 text-green-400";
+                    showMessage("Log saved successfully!");
                     document.getElementById('logForm').reset();
                     fetchLogs();
-                    setTimeout(() => msg.textContent = '', 3000);
                 } else {
-                    msg.textContent = "Error saving log.";
-                    msg.className = "mt-4 text-center text-sm font-semibold h-5 text-red-400";
+                    const error = await res.json();
+                    showMessage("Error: " + (error.error || "Unknown error"), 'error');
                 }
             } catch (err) {
-                msg.textContent = "Network Error.";
-                msg.className = "mt-4 text-center text-sm font-semibold h-5 text-red-400";
+                showMessage("Network error. Is the server running?", 'error');
             }
         });
 
+        function updateChart(logs) {
+            const dailyWastage = {};
+            [...logs].reverse().forEach(log => {
+                if (dailyWastage[log.date]) {
+                    dailyWastage[log.date] += log.food_waste_kg;
+                } else {
+                    dailyWastage[log.date] = log.food_waste_kg;
+                }
+            });
+
+            const labels = Object.keys(dailyWastage);
+            const data = Object.values(dailyWastage).map(val => Math.round(val * 100) / 100);
+
+            const ctx = document.getElementById('wastageChart').getContext('2d');
+
+            if (wastageChart) {
+                wastageChart.data.labels = labels;
+                wastageChart.data.datasets[0].data = data;
+                wastageChart.update();
+            } else {
+                wastageChart = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: labels,
+                        datasets: [{
+                            label: 'Total Food Wasted (kg)',
+                            data: data,
+                            borderColor: '#34d399', // emerald-400
+                            backgroundColor: 'rgba(52, 211, 153, 0.1)',
+                            borderWidth: 3,
+                            fill: true,
+                            tension: 0,
+                            pointBackgroundColor: '#0f172a',
+                            pointBorderColor: '#34d399',
+                            pointBorderWidth: 2,
+                            pointRadius: 4,
+                            pointHoverRadius: 6
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        interaction: {
+                            intersect: false,
+                            mode: 'index',
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                grid: { color: 'rgba(255,255,255,0.05)', drawBorder: false },
+                                border: { display: false },
+                                ticks: { color: '#64748b', font: { family: 'Inter' } }
+                            },
+                            x: {
+                                grid: { color: 'rgba(255,255,255,0.05)', drawBorder: false },
+                                border: { display: false },
+                                ticks: { color: '#64748b', font: { family: 'Inter' } }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                labels: { color: '#cbd5e1', font: { family: 'Inter', weight: '500' }, boxWidth: 12 }
+                            },
+                            tooltip: {
+                                backgroundColor: 'rgba(15, 23, 42, 0.9)',
+                                titleColor: '#fff',
+                                bodyColor: '#cbd5e1',
+                                borderColor: 'rgba(52, 211, 153, 0.2)',
+                                borderWidth: 1,
+                                padding: 12,
+                                displayColors: false,
+                                cornerRadius: 8
+                            }
+                        }
+                    }
+                });
+            }
+        }
+
         async function fetchLogs() {
+            const list = document.getElementById('logsList');
             try {
                 const res = await fetch(API_URL);
-                if (!res.ok) return;
+                if (!res.ok) throw new Error('Failed to fetch');
                 const logs = await res.json();
-                const list = document.getElementById('logsList');
 
                 if (logs.length === 0) {
-                    list.innerHTML = `<li class="text-center text-gray-500 py-8 text-sm">No logs recorded yet.</li>`;
+                    list.innerHTML = '<li class="text-slate-500 text-sm text-center mt-10">No logs recorded yet.</li>';
+                    if (wastageChart) {
+                        wastageChart.data.labels = [];
+                        wastageChart.data.datasets[0].data = [];
+                        wastageChart.update();
+                    }
                     return;
                 }
 
+                updateChart(logs);
+
                 list.innerHTML = logs.map(l => `
-                    <li class="p-4 bg-gray-900/40 border border-gray-700/50 rounded-2xl shadow-sm hover:border-gray-600 transition-all flex justify-between items-center group">
-                        <div class="flex flex-col">
-                            <span class="font-semibold text-gray-100 text-lg group-hover:text-indigo-400 transition-colors">${l.menu_item}</span>
-                            <span class="text-xs text-gray-400 flex items-center gap-1">
-                                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
-                                ${l.date}
-                            </span>
+                    <li class="group p-4 bg-slate-900/50 border border-slate-700/50 hover:border-emerald-500/30 rounded-2xl flex justify-between items-center shadow-md transition-all hover:shadow-[0_4px_20px_rgba(52,211,153,0.05)]">
+                        <div>
+                            <p class="font-semibold text-slate-200 group-hover:text-emerald-400 transition-colors flex items-center gap-2">
+                                ${l.menu_item} 
+                                <span class="text-[9px] text-cyan-300 font-bold uppercase tracking-wider bg-cyan-500/10 px-2 py-0.5 rounded-full border border-cyan-500/20">
+                                    ${l.food_category} &bull; ${l.meal_time}
+                                </span>
+                            </p>
+                            <p class="text-xs text-slate-500 mt-1.5 flex items-center gap-3">
+                                <span class="flex items-center gap-1"><svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>${l.date}</span>
+                                <span class="w-1 h-1 bg-slate-600 rounded-full"></span>
+                                <span>Cooked: ${l.amount_cooked_kg}kg</span>
+                                <span class="w-1 h-1 bg-slate-600 rounded-full"></span>
+                                <span>Cons: ${l.amount_consumed_kg}kg</span>
+                            </p>
                         </div>
-                        <div class="flex flex-col items-end">
-                            <span class="text-red-400 font-bold bg-red-500/10 px-3 py-1 rounded-xl border border-red-500/20">${l.food_waste_kg} kg</span>
-                            <span class="text-[10px] text-gray-500 mt-1 uppercase tracking-wider font-semibold">Waste</span>
+                        <div class="text-right pl-4">
+                            <div class="inline-flex flex-col items-end">
+                                <span class="bg-red-500/10 border border-red-500/20 text-red-400 px-3 py-1.5 rounded-xl text-sm font-bold whitespace-nowrap shadow-sm">
+                                    ${l.food_waste_kg} kg
+                                </span>
+                                <span class="text-[10px] text-slate-500 uppercase tracking-widest font-semibold mt-1 mr-1">Waste</span>
+                            </div>
                         </div>
                     </li>
                 `).join('');
             } catch (err) {
-                console.error("Error fetching logs:", err);
+                list.innerHTML = '<li class="text-red-400 text-sm text-center mt-10 bg-red-500/10 p-4 rounded-xl border border-red-500/20">Error loading data. Is the Flask server running?</li>';
             }
         }
     </script>
 </body>
-
 </html>
